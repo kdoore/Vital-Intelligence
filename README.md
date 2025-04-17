@@ -12,7 +12,7 @@ description: A Living Framework for Resonance and Trust
 
 Vital Intelligence (VI) is the capacity of a system—human or artificial—to adapt, align, and regenerate across changing conditions. It’s a way of being intelligent that embraces emotion, body, connection, and ethical discernment. It grows through relationship, reflection, and rhythm.
 
-### Why it Matters Now (WH Context)
+### Why it Matters Now&#x20;
 
 As AI advances and human systems strain under complexity, we need models that reconnect us—to ourselves, to each other, and to the living patterns of the world. VI is offered as one such model: scientific, poetic, and grounded in trust.
 
@@ -96,9 +96,9 @@ Pink noise—1/f noise—emerges in systems that balance order and chaos. It is 
 
 ## 5. Origins & Next Steps
 
-### SFI & Humanity++ Connection
+### Humanity++ Connection
 
-This model began in the context of preparing for SFI’s Complexity Global School and the work of Humanity++. It represents a synthesis of somatic intelligence, complexity science, and ethical systems design.
+This model began in the context of Humanity++. It represents a synthesis of somatic intelligence, complexity science, and ethical systems design.
 
 ### Research Threads & Emerging Work
 
@@ -108,7 +108,7 @@ This model began in the context of preparing for SFI’s Complexity Global Schoo
 
 ### Collaboration Invitation
 
-Want to build with us? Get in touch via www.HumanityPlusPlus.org
+Want to build with us? Get in touch via [www.HumanityPlusPlus.com](http://www.humanityplusplus.com)
 
 ### A Note on Love as Intelligence
 
