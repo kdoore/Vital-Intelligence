@@ -63,9 +63,7 @@ Pink noise—1/f noise—emerges in systems that balance order and chaos. It is 
 > The resonance of trust.\
 > The core of Vital Intelligence.
 
-### Zine Page
-
-\[Insert QR code or download link to mini-zine PDF]
+### [Vital Intelligence: Zine](vital-intelligence-zine.md)&#x20;
 
 ### Visual Animation
 
