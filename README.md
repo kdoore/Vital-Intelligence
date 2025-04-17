@@ -147,9 +147,9 @@ This model is evolving in community through Humanity++ and Neuroscience of Kindn
 
 #### Downloads
 
-* Zine PDF
-* \[Printable practice cards]\(coming soon)
-* Animation
+{% file src=".gitbook/assets/Vital Intelligence.pdf" %}
+Vital Intelligence Zine
+{% endfile %}
 
 ### A Note on Love as Intelligence
 
