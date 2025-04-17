@@ -20,7 +20,7 @@ We believe VI belongs to _everyone._ This guide introduces the four core domains
 
 **Page 2: The Core Model**
 
-<figure><img src=".gitbook/assets/ChatGPT Image Apr 17, 2025, 12_02_20 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/ChatGPT Image Apr 17, 2025, 12_02_20 PM.png" alt=""><figcaption><p>Dynamic Flowing Energy Patterns of Vital Intelligence</p></figcaption></figure>
 
 **The Four Domains:**
 
@@ -108,4 +108,4 @@ This is the world we dream of. This is what Vital Intelligence can grow.
 
 &#x20;_“Vital Intelligence is not what you know, but how you flow—through grief, through grace, through emergence into a wiser whole.”_
 
-[www.HumanityPlusPlus.org](http://www.humanityplusplus.org/)
+[www.HumanityPlusPlus.com](http://www.humanityplusplus.com)
