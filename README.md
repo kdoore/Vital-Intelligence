@@ -31,7 +31,7 @@ As AI advances and human systems strain under complexity, we need models that re
 
 ### Overview Diagram
 
-<figure><img src=".gitbook/assets/ChatGPT Image Apr 17, 2025, 12_02_20 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/ChatGPT Image Apr 17, 2025, 07_45_19 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### The Four Domains
 
