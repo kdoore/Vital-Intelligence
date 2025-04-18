@@ -20,7 +20,7 @@ We believe VI belongs to _everyone._ This guide introduces the four core domains
 
 **Page 2: The Core Model**
 
-<figure><img src=".gitbook/assets/ChatGPT Image Apr 17, 2025, 07_45_19 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ChatGPT Image Apr 17, 2025, 07_45_19 PM.png" alt=""><figcaption></figcaption></figure>
 
 **The Four Domains:**
 
