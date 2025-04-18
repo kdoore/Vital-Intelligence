@@ -9,8 +9,8 @@
 
 * [Regenerative cycle](models/regenerative-cycle.md)
 * [AI Spectrum](models/ai-spectrum.md)
-* [Critical Zone](models/critical-zone.md)
 * [➰ Feedback Alchemy](models/feedback-alchemy.md)
+* [Critical Zone](models/critical-zone.md)
 
 ## Neuroscience
 
@@ -19,10 +19,7 @@
 ## SOC Foundations
 
 * [SOC Basics](soc-foundations/soc-basics.md)
-
-***
-
-* [Pink Noise](pink-noise.md)
+* [Pink Noise](soc-foundations/pink-noise.md)
 
 ## Design System
 
@@ -32,10 +29,7 @@
 ## Appendix
 
 * [Prompt Library](appendix/prompt-library.md)
-
-***
-
-* [Creative Workflow Notes](creative-workflow-notes.md)
+* [Creative Workflow Notes](appendix/creative-workflow-notes.md)
 
 ## Assets
 
