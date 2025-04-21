@@ -2,7 +2,7 @@
 description: A Living Framework for Resonance and Trust
 ---
 
-# Vital Intelligence:
+# Vital Intelligence Model:
 
 ***
 
@@ -82,7 +82,7 @@ Pink noise—1/f noise—emerges in systems that balance order and chaos. It is 
 > Where in your life do you feel pink noise?\
 > A moment of harmony, of rest, of silent knowing?
 
-### [Vital Intelligence: Zine](introduction/vital-intelligence/vital-intelligence-zine.md)&#x20;
+### [Vital Intelligence: Zine](resources/downloads/vital-intelligence-zine.md)&#x20;
 
 
 

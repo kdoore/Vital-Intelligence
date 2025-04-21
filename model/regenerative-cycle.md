@@ -1,6 +1,5 @@
 ---
 description: Regenerative Cycle – Integrating Shadow into Wisdom
-icon: arrows-spin
 ---
 
 # Regenerative cycle

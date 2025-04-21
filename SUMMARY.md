@@ -2,24 +2,47 @@
 
 ## Introduction
 
-* [Vital Intelligence:](README.md)
-  * [Vital Intelligence: Zine](introduction/vital-intelligence/vital-intelligence-zine.md)
+* [Vital Intelligence Model:](README.md)
 
-## Models
+## Model
 
-* [Regenerative cycle](models/regenerative-cycle.md)
-* [AI Spectrum](models/ai-spectrum.md)
-* [➰ Feedback Alchemy](models/feedback-alchemy.md)
-* [Critical Zone](models/critical-zone.md)
+* [Overview](model/overview.md)
+* [Domains](model/domains.md)
+* [Alignment Matrix](model/alignment-matrix.md)
+* [Regenerative cycle](model/regenerative-cycle.md)
 
-## Neuroscience
+## Domains
 
-* [NsK Overview](neuroscience/nsk-overview.md)
+* [Embodied Interaction](domains/embodied-interaction.md)
 
-## SOC Foundations
+***
 
-* [SOC Basics](soc-foundations/soc-basics.md)
-* [Pink Noise](pink-noise.md)
+* [Relational Mapping](relational-mapping.md)
+* [Ethical Alignment](ethical-alignment.md)
+* [Adaptive Learning](adaptive-learning.md)
+
+## Foundations
+
+* [NsK Overview](foundations/nsk-overview.md)
+
+***
+
+* [SOC Basics](soc-basics/README.md)
+  * [Pink Noise](soc-basics/pink-noise.md)
+* [Complexity Science and Modeling](complexity-science-and-modeling.md)
+
+## Applications and Extensions
+
+## Resources
+
+* [Further Reading & References](resources/further-reading-and-references.md)
+* [Tools & Benchmarks](resources/tools-and-benchmarks.md)
+* [Downloads](resources/downloads/README.md)
+  * [Vital Intelligence: Zine](resources/downloads/vital-intelligence-zine.md)
+
+## Get Involved
+
+* [Contact / Collaboration](get-involved/contact-collaboration.md)
 
 ## Design System
 
