@@ -73,3 +73,7 @@ _Rationale:_ Aligns with alchemical tradition (earth–air–fire–water clockw
 ***
 
 _Please review palette & mappings; suggest tweaks before we lock hex codes and render the refined spiral diagram._
+
+<figure><img src="../.gitbook/assets/output (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/vim_core_model_placeholder.png" alt=""><figcaption></figcaption></figure>
