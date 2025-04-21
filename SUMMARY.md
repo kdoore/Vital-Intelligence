@@ -33,6 +33,12 @@
 
 ## Applications and Extensions
 
+***
+
+* [AI and AGI Integration](ai-and-agi-integration.md)
+* [Economic Models](economic-models.md)
+* [Reverse Mentoring and Wisdom Circles](reverse-mentoring-and-wisdom-circles.md)
+
 ## Resources
 
 * [Further Reading & References](resources/further-reading-and-references.md)
