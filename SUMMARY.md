@@ -19,7 +19,7 @@
 ## SOC Foundations
 
 * [SOC Basics](soc-foundations/soc-basics.md)
-* [Pink Noise](soc-foundations/pink-noise.md)
+* [Pink Noise](pink-noise.md)
 
 ## Design System
 
@@ -29,7 +29,7 @@
 ## Appendix
 
 * [Prompt Library](appendix/prompt-library.md)
-* [Creative Workflow Notes](appendix/creative-workflow-notes.md)
+* [Creative Workflow Notes](creative-workflow-notes.md)
 
 ## Assets
 
