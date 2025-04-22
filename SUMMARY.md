@@ -14,37 +14,29 @@
 ## Domains
 
 * [Embodied Interaction](domains/embodied-interaction.md)
-
-***
-
-* [Relational Mapping](relational-mapping.md)
-* [Ethical Alignment](ethical-alignment.md)
-* [Adaptive Learning](adaptive-learning.md)
+* [Relational Mapping](domains/relational-mapping.md)
+* [Adaptive Learning](domains/adaptive-learning.md)
+* [Ethical Alignment](domains/ethical-alignment.md)
 
 ## Foundations
 
 * [NsK Overview](foundations/nsk-overview.md)
-
-***
-
-* [SOC Basics](soc-basics/README.md)
-  * [Pink Noise](soc-basics/pink-noise.md)
-* [Complexity Science and Modeling](complexity-science-and-modeling.md)
+* [Complexity Science and Modeling](foundations/complexity-science-and-modeling.md)
+* [SOC Basics](foundations/soc-basics/README.md)
+  * [Pink Noise](foundations/soc-basics/pink-noise.md)
 
 ## Applications and Extensions
 
-***
-
-* [AI and AGI Integration](ai-and-agi-integration.md)
-* [Economic Models](economic-models.md)
-* [Reverse Mentoring and Wisdom Circles](reverse-mentoring-and-wisdom-circles.md)
+* [AI and AGI Integration](applications-and-extensions/ai-and-agi-integration.md)
+* [Reverse Mentoring and Wisdom Circles](applications-and-extensions/reverse-mentoring-and-wisdom-circles.md)
+* [Economic Models](applications-and-extensions/economic-models.md)
 
 ## Resources
 
 * [Further Reading & References](resources/further-reading-and-references.md)
-* [Tools & Benchmarks](resources/tools-and-benchmarks.md)
 * [Downloads](resources/downloads/README.md)
   * [Vital Intelligence: Zine](resources/downloads/vital-intelligence-zine.md)
+* [Tools & Benchmarks](resources/tools-and-benchmarks.md)
 
 ## Get Involved
 

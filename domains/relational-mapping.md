@@ -31,7 +31,7 @@ A global survey of 130 000 people in 125 countries found that 89% want stronger 
 
 ### 2. Defining Intelligence
 
-{% include ".gitbook/includes/defining-intelligence.md" %}
+{% include "../.gitbook/includes/defining-intelligence.md" %}
 
 **Why we need a richer definition**
 
