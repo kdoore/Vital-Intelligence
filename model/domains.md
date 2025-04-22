@@ -1,3 +1,7 @@
+---
+description: Four Interdependent Domains of Dynamic Intelligence
+---
+
 # Domains
 
 ### Four Domains of Vital Intelligence
