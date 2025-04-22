@@ -1,5 +1,7 @@
 ---
-description: Natural Intelligence Systems Experiential Somatic Awareness
+description: >-
+  How somatic self‑awareness and AI‑driven biofeedback combine to cultivate deep
+  presence, emotional self‑regulation, and relational attunement
 ---
 
 # Embodied Interaction

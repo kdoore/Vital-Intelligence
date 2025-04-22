@@ -1,7 +1,7 @@
 ---
 description: >-
-  Structure and Function of Feedback Loops in Dynamic Intelligent Adaptive
-  Systems
+  How feedback loops, narrative structures, and networked signals coalesce to
+  surface collective norms, align values, and catalyze systemic influence.
 ---
 
 # Relational Mapping
@@ -9,6 +9,10 @@ description: >-
 ## Definition & Essense
 
 Relational Mapping is the process of surfacing and shaping the feedback loops that link individual cognition, collective norms, and system‑level behaviors. In living systems, it’s where the other three domains (Embodied Interaction, Ethical Alignment, Adaptive Learning) intersect and resonate.
+
+* **NI:** offers contextual narratives, metaphorical insight, and the human capacity to co‑construct meaning through dialogue and shared stories.
+* **AI:** excels at detecting large‑scale patterns, synthesizing network graphs, and rapidly analyzing discourse data across platforms.
+* **VI:** fuses human storytelling with AI‑driven mapping to reveal hidden leverage points, emergent norms, and actionable feedback loops.
 
 ***
 
@@ -23,7 +27,7 @@ A global survey of 130,000 people in 125 countries found that 89% want stronger 
 \
 &#x20;_Read more in Damian Carrington’s Guardian article:_ [_“‘Spiral of silence’: climate action is very popular, so why don’t people realise it?”_](https://www.theguardian.com/environment/2025/apr/22/spiral-of-silence-climate-action-is-very-popular-so-why-dont-people-realise-it).
 
-**Modeling the Perception Gap**
+#### **Modeling the Perception Gap**
 
 * **Actual Support (89%)** vs. **Perceived Support (43%)**[ \[1\]](https://www.theguardian.com/environment/2025/apr/22/spiral-of-silence-climate-action-is-very-popular-so-why-dont-people-realise-it).
 * **Willingness to Contribute**: 69% would give 1% of income; perceived only 43% would[ \[1\]](https://www.theguardian.com/environment/2025/apr/22/spiral-of-silence-climate-action-is-very-popular-so-why-dont-people-realise-it) .
@@ -31,7 +35,7 @@ A global survey of 130,000 people in 125 countries found that 89% want stronger 
 
 > **Diagram placeholder:** Perceived vs. Actual Norms (bar chart or network graph)
 
-**AI‑Driven Intervention**
+#### **AI‑Driven Intervention**
 
 1. **Real‑time Sentiment Analysis** in social media to surface local support metrics.
 2. **Personalized “You’re Not Alone” Nudges** delivered via chatbots, community apps, or public dashboards.
