@@ -9,12 +9,14 @@ Relational Mapping is the process of surfacing and shaping the feedback loops th
 ### 1. Case Study: “Breaking the Spiral of Silence”
 
 **Context & Data**\
-A global survey of 130,000 people in 125 countries found that **89%** want stronger government action on climate change—but individuals believe on average only **43%** share their view, creating a “spiral of silence” that stifles public discourse and dampens action :contentReference\[oaicite:0]{index=0}.
+A global survey of 130 000 people in 125 countries found that 89% want stronger government action on climate change—but individuals believe on average only 43% share their view, creating a “spiral of silence” that stifles public discourse and dampens action.\
+\
+&#xNAN;_&#x52;ead more in Damian Carrington’s Guardian article:_ [_“‘Spiral of silence’: climate action is very popular, so why don’t people realise it?”_](https://www.theguardian.com/environment/2025/apr/22/spiral-of-silence-climate-action-is-very-popular-so-why-dont-people-realise-it).
 
 **Modeling the Perception Gap**
 
 * **Actual Support (89%)** vs. **Perceived Support (43%)**
-* **Willingness to Contribute**: 69% would give 1% of income; perceived only 43% would :contentReference\[oaicite:1]{index=1}.
+* **Willingness to Contribute**: 69% would give 1% of income; perceived only 43% would  \[1].
 * **Network Effect**: Informing people of true support levels increases engagement and donations :contentReference\[oaicite:2]{index=2}.
 
 > **Diagram placeholder:** Perceived vs. Actual Norms (bar chart or network graph)
@@ -69,4 +71,6 @@ The **Regenerative Cycle** is our meta‑loop for moving from distortion → ins
 
 ***
 
-###
+### Further Reading
+
+\[1] [“’Spiral of silence’: climate action is very popular, so why don’t people realise it?”, The Guardian, Damian Carrington, 22 Apr 2025.](https://www.theguardian.com/environment/2025/apr/22/spiral-of-silence-climate-action-is-very-popular-so-why-dont-people-realise-it)
