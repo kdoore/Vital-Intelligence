@@ -74,11 +74,12 @@ description: Regenerative Cycle – Integrating Shadow into Wisdom
 * **SOC Link**: the cycle keeps the nervous system at criticality instead of collapse or chaos.
 * **NsK Tie‑in**: self‑kindness + co‑regulation are the hinge points.
 
-_Further Reading:_
+### Further Reading
 
 * [NsK Overview: ](../foundations/nsk-overview.md)“Neuroscience of Kindness” in GitBook
 * [Self‑Organized Criticality](../foundations/soc-basics/) and [pink‑noise](../foundations/soc-basics/pink-noise.md) rhythms in complex systems
-* Donella Meadows, _Thinking in Systems: A Primer_
+
+
 
 {% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
 
