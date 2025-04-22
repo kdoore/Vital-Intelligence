@@ -16,7 +16,7 @@ A global survey of 130 000 people in 125 countries found that 89% want stronger 
 **Modeling the Perception Gap**
 
 * **Actual Support (89%)** vs. **Perceived Support (43%)**
-* **Willingness to Contribute**: 69% would give 1% of income; perceived only 43% would \[^1].
+* **Willingness to Contribute**: 69% would give 1% of income; perceived only 43% would [^1].
 * **Network Effect**: Informing people of true support levels increases engagement and donations :contentReference\[oaicite:2]{index=2}.
 
 > **Diagram placeholder:** Perceived vs. Actual Norms (bar chart or network graph)
@@ -73,4 +73,4 @@ The **Regenerative Cycle** is our meta‑loop for moving from distortion → ins
 
 ### Further Reading
 
-\[^1]: [“’Spiral of silence’: climate action is very popular, so why don’t people realise it?”, The Guardian, Damian Carrington, 22 Apr 2025.](https://www.theguardian.com/environment/2025/apr/22/spiral-of-silence-climate-action-is-very-popular-so-why-dont-people-realise-it)
+[^1]: [“’Spiral of silence’: climate action is very popular, so why don’t people realise it?”, The Guardian, Damian Carrington, 22 Apr 2025.](https://www.theguardian.com/environment/2025/apr/22/spiral-of-silence-climate-action-is-very-popular-so-why-dont-people-realise-it)
