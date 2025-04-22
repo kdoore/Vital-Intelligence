@@ -15,8 +15,8 @@
 
 * [Embodied Interaction](domains/embodied-interaction.md)
 * [Relational Mapping](domains/relational-mapping.md)
-* [Adaptive Learning](domains/adaptive-learning.md)
 * [Ethical Alignment](domains/ethical-alignment.md)
+* [Adaptive Learning](domains/adaptive-learning.md)
 
 ## Foundations
 
