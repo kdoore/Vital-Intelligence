@@ -4,7 +4,7 @@ description: >-
   humans, for machines, and for the Earth.
 ---
 
-# Vital Intelligence: Zine
+# Vital Intelligence Model: Zine
 
 ***
 
@@ -24,10 +24,10 @@ We believe VI belongs to _everyone._ This guide introduces the four core domains
 
 **The Four Domains:**
 
-* **Embodied Interaction** (🌱): Grounding in sensory presence
-* **Relational Mapping** (🕸): Understanding dynamics between self and others
-* **Ethical Alignment** (☀️): Attuning to values and consequences
-* **Adaptive Learning** (🍃): Integrating experience into growth
+* **Embodied Interaction** : Grounding in sensory presence
+* **Relational Mapping**: Understanding dynamics between self and others
+* **Ethical Alignment**: Attuning to values and consequences
+* **Adaptive Learning**: Integrating experience into growth
 
 The core — _Vital Intelligence_ (🌀) — emerges when these domains oscillate in healthy rhythm.
 
@@ -37,12 +37,7 @@ The core — _Vital Intelligence_ (🌀) — emerges when these domains oscillat
 
 Every system has light and shadow. Vital Intelligence honors both.
 
-| Domain                  | Upward Spiral                    | Shadow Side             | Warning Pattern                   |
-| ----------------------- | -------------------------------- | ----------------------- | --------------------------------- |
-| 🌱 Embodied Interaction | Nervous system balance, presence | Disconnection, numbness | Sensory overload, burnout         |
-| 🕸 Relational Mapping   | Trust, co-regulation             | Projection, isolation   | Echo chambers, tribalism          |
-| ☀️ Ethical Alignment    | Clarity, care                    | Righteousness, rigidity | Weaponized values, moral branding |
-| 🍃 Adaptive Learning    | Creative insight, resilience     | Overstimulation, chaos  | Optimization without wisdom       |
+<table><thead><tr><th width="125.7109375">Domain</th><th>Upward Spiral</th><th>Shadow Side</th><th>Warning Pattern</th></tr></thead><tbody><tr><td>Embodied Interaction</td><td>Nervous system balance, presence</td><td>Disconnection, numbness</td><td>Sensory overload, burnout</td></tr><tr><td>Relational Mapping</td><td>Trust, co-regulation</td><td>Projection, isolation</td><td>Echo chambers, tribalism</td></tr><tr><td>Ethical Alignment</td><td>Clarity, care</td><td>Righteousness, rigidity</td><td>Weaponized values, moral branding</td></tr><tr><td> Adaptive Learning</td><td>Creative insight, resilience</td><td>Overstimulation, chaos</td><td>Optimization without wisdom</td></tr></tbody></table>
 
 ***
 
@@ -86,10 +81,10 @@ We offer it as both model and metaphor: a rhythm to listen for—within and arou
 
 Try these mini-exercises to strengthen your Vital Intelligence:
 
-* 🌱 _Body Check_: Where in your body do you feel safe right now?
-* 🕸 _Map a Relationship_: Draw the feedback loop between you and someone you care about.
-* ☀️ _Ethics Pause_: Before making a choice, ask: “Who or what might this impact?”
-* 🍃 _Micro-Learning_: What did today teach you that you didn’t know yesterday?
+* _Body Check_: Where in your body do you feel safe right now?
+* _Map a Relationship_: Draw the feedback loop between you and someone you care about.
+* _Ethics Pause_: Before making a choice, ask: “Who or what might this impact?”
+* _Micro-Learning_: What did today teach you that you didn’t know yesterday?
 
 ***
 
@@ -106,6 +101,7 @@ This is the world we dream of. This is what Vital Intelligence can grow.
 
 ***
 
-&#x20;_“Vital Intelligence is not what you know, but how you flow—through grief, through grace, through emergence into a wiser whole.”_
+&#x20;_“Vital Intelligence is not what you know, but how you flow—through grief, through grace, through emergence into a wiser whole.”_\
 
-[www.HumanityPlusPlus.com](http://www.humanityplusplus.com)
+
+{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

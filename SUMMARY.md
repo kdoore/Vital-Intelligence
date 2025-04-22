@@ -35,7 +35,7 @@
 
 * [Further Reading & References](resources/further-reading-and-references.md)
 * [Downloads](resources/downloads/README.md)
-  * [Vital Intelligence: Zine](resources/downloads/vital-intelligence-zine.md)
+  * [Vital Intelligence Model: Zine](resources/downloads/vital-intelligence-zine.md)
 * [Tools & Benchmarks](resources/tools-and-benchmarks.md)
 
 ## Get Involved
