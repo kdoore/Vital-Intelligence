@@ -35,12 +35,7 @@ As AI advances and human systems strain under complexity, we need models that re
 
 ### The Four Domains
 
-| Domain                  | Function                          | Observable Intelligence         | Design Implication                 |
-| ----------------------- | --------------------------------- | ------------------------------- | ---------------------------------- |
-| 🌱 Embodied Interaction | Sensory regulation, interoception | Presence, grounding             | UI/UX, biofeedback, sensory design |
-| 🕸 Relational Mapping   | Empathy, feedback, co-regulation  | Trust, adaptability             | Teams, AI alignment, governance    |
-| ☀️ Ethical Alignment    | Discernment, values-in-action     | Integrity, courageous restraint | Norms, justice, policy frameworks  |
-| 🍃 Adaptive Learning    | Pattern recognition, novelty      | Curiosity, resilience           | Education, iterative systems       |
+<table><thead><tr><th width="137.60546875">Domain</th><th>Function</th><th>Observable Intelligence</th><th>Design Implication</th></tr></thead><tbody><tr><td>Embodied Interaction</td><td>Sensory regulation, interoception</td><td>Presence, grounding</td><td>UI/UX, biofeedback, sensory design</td></tr><tr><td> Relational Mapping</td><td>Empathy, feedback, co-regulation</td><td>Trust, adaptability</td><td>Teams, AI alignment, governance</td></tr><tr><td>Ethical Alignment</td><td>Discernment, values-in-action</td><td>Integrity, courageous restraint</td><td>Norms, justice, policy frameworks</td></tr><tr><td> Adaptive Learning</td><td>Pattern recognition, novelty</td><td>Curiosity, resilience</td><td>Education, iterative systems</td></tr></tbody></table>
 
 ### Dynamic Oscillations
 
@@ -48,12 +43,7 @@ These domains operate in oscillatory feedback loops, enabling systems to move th
 
 ### Shadow Sides & Warning Patterns
 
-| Domain           | Shadow Side             | Warning Pattern           |
-| ---------------- | ----------------------- | ------------------------- |
-| 🌱 Embodiment    | Numbness, disconnection | Sensory overload, fatigue |
-| 🕸 Relationships | Projection, isolation   | Tribalism, misalignment   |
-| ☀️ Ethics        | Rigidity, righteousness | Performative morality     |
-| 🍃 Adaptation    | Chaos, fragmentation    | Efficiency without wisdom |
+<table><thead><tr><th width="191.8359375">Domain</th><th>Shadow Side</th><th>Warning Pattern</th></tr></thead><tbody><tr><td> Embodiment</td><td>Numbness, disconnection</td><td>Sensory overload, fatigue</td></tr><tr><td> Relationships</td><td>Projection, isolation</td><td>Tribalism, misalignment</td></tr><tr><td> Ethics</td><td>Rigidity, righteousness</td><td>Performative morality</td></tr><tr><td> Adaptation</td><td>Chaos, fragmentation</td><td>Efficiency without wisdom</td></tr></tbody></table>
 
 ***
 
