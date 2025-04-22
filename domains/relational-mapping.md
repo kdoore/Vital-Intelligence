@@ -16,10 +16,10 @@ Relational Mapping is the process of surfacing and shaping the feedback loops th
 
 **Threshold Insight:**
 
-> In Self‑Organized Criticality terms, the gap between perceived and actual support marks a **critical threshold**—the moment when individuals shift from feeling isolated to recognizing shared values. Interventions at this boundary unleash disproportionate energy for collective change.
+> In Self‑Organized Criticality ([SOC link](../foundations/soc-basics/)) terms, the gap between perceived and actual support marks a **critical threshold**—the moment when individuals shift from feeling isolated to recognizing shared values. Interventions at this boundary unleash disproportionate energy for collective change.
 
 **Context & Data**\
-A global survey of 130 000 people in 125 countries found that 89% want stronger government action on climate change—but individuals believe on average only 43% share their view, creating a “spiral of silence” that stifles public discourse and dampens action.\
+A global survey of 130,000 people in 125 countries found that 89% want stronger government action on climate change—but individuals believe on average only 43% share their view, creating a “**spiral of silence**” that stifles public discourse and dampens action.\
 \
 &#x20;_Read more in Damian Carrington’s Guardian article:_ [_“‘Spiral of silence’: climate action is very popular, so why don’t people realise it?”_](https://www.theguardian.com/environment/2025/apr/22/spiral-of-silence-climate-action-is-very-popular-so-why-dont-people-realise-it).
 
