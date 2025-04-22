@@ -1,12 +1,22 @@
+---
+description: >-
+  Structure and Function of Feedback Loops in Dynamic Intelligent Adaptive
+  Systems
+---
+
 # Relational Mapping
 
-## Relational Mapping
+## Definition & Essense
 
 Relational Mapping is the process of surfacing and shaping the feedback loops that link individual cognition, collective norms, and system‑level behaviors. In living systems, it’s where the other three domains (Embodied Interaction, Ethical Alignment, Adaptive Learning) intersect and resonate.
 
 ***
 
 ### 1. Case Study: “Breaking the Spiral of Silence”
+
+**Threshold Insight:**
+
+> In Self‑Organized Criticality terms, the gap between perceived and actual support marks a **critical threshold**—the moment when individuals shift from feeling isolated to recognizing shared values. Interventions at this boundary unleash disproportionate energy for collective change.
 
 **Context & Data**\
 A global survey of 130 000 people in 125 countries found that 89% want stronger government action on climate change—but individuals believe on average only 43% share their view, creating a “spiral of silence” that stifles public discourse and dampens action.\
