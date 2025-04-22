@@ -19,13 +19,13 @@ description: Regenerative Cycle – Integrating Shadow into Wisdom
 ### 1. Stress Enters the System
 
 * **What**: External demands (deadlines, crises) or internal triggers (old trauma, self‑criticism) push the nervous system toward hyperarousal.
-* **Neuroscience (NsK link)**: Sympathetic activation raises cortisol and adrenaline; mirror‑neuron systems may amplify social stress[^1].
+* **Neuroscience (**[**NsK link**](../foundations/nsk-overview.md)**)**: Sympathetic activation raises cortisol and adrenaline; mirror‑neuron systems may amplify social stress[^1].
 * **Modeling snapshot**: A reinforcing feedback loop—stress → more stress—as “shadow” energy accumulates.
 
 ### 2. Guided Regulation
 
 * **What**: Deliberate practices that down‑regulate physiological arousal.
-* **Neuroscience (NsK link)**: Engaging the ventral vagal complex increases heart‑rate variability and oxytocin release, opening the door to safety[^2].
+* **Neuroscience (**[**NsK link**](../foundations/nsk-overview.md)**)**: Engaging the ventral vagal complex increases heart‑rate variability and oxytocin release, opening the door to safety[^2].
 * **Practices**:
   * Breath‑focused techniques (e.g., 4‑7‑8 breathing)
   * HRV biofeedback with wearable sensors + LLM‑driven coaching
@@ -35,7 +35,7 @@ description: Regenerative Cycle – Integrating Shadow into Wisdom
 ### 3. Presence & Co‑Regulation
 
 * **What**: Cultivating mindful, relational attunement—being fully present with self and others.
-* **Neuroscience (NsK link)**: Mirror neurons and social‑baseline theory show we regulate collectively; oxytocin and dopamine support trust and connection[^3].
+* **Neuroscience (**[**NsK link**](../foundations/nsk-overview.md)**)**: Mirror neurons and social‑baseline theory show we regulate collectively; oxytocin and dopamine support trust and connection[^3].
 * **Practices**:
   * Loving‑kindness (metta) meditations focused on self ↔ other
   * Compassionate dialogue circles where each voice is held with warmth
@@ -45,7 +45,7 @@ description: Regenerative Cycle – Integrating Shadow into Wisdom
 ### 4. Creative Output & Return to Baseline Readiness
 
 * **What**: Regulated energy transforms into generative, embodied flow—art, insight, collaboration.
-* **Neuroscience (NsK link)**: Dopaminergic pathways facilitate exploration; prefrontal integration supports novel idea synthesis and neuroplastic change[^4].
+* **Neuroscience (**[**NsK link)**](../foundations/nsk-overview.md): Dopaminergic pathways facilitate exploration; prefrontal integration supports novel idea synthesis and neuroplastic change[^4].
 * **Practices**:
   * Somatic journaling or embodied art making
   * Collective story‑mapping of insights (“avalanche of kindness” ideation)
@@ -76,9 +76,11 @@ description: Regenerative Cycle – Integrating Shadow into Wisdom
 
 _Further Reading:_
 
-* NsK Overview: “Neuroscience of Kindness” in GitBook
-* Self‑Organized Criticality and pink‑noise rhythms in complex systems
+* [NsK Overview: ](../foundations/nsk-overview.md)“Neuroscience of Kindness” in GitBook
+* [Self‑Organized Criticality](../foundations/soc-basics/) and [pink‑noise](../foundations/soc-basics/pink-noise.md) rhythms in complex systems
 * Donella Meadows, _Thinking in Systems: A Primer_
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
 
 [^1]: See Porges, S. W. (2011). _The Polyvagal Theory_.
 

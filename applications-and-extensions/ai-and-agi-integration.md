@@ -80,3 +80,5 @@ To turn the AGI - VIM mapping into action, the following design guidelines opera
 * **ARC‑AGI** benchmarks (Chollet, 2019)
 * **Winograd Schema Challenge**
 * **Coffee Test** and other embodied evaluations
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}

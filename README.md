@@ -31,7 +31,7 @@ As AI advances and human systems strain under complexity, we need models that re
 
 ### Overview Diagram
 
-<figure><img src=".gitbook/assets/ChatGPT Image Apr 17, 2025, 07_45_19 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/ChatGPT Image Apr 17, 2025, 07_45_19 PM.png" alt=""><figcaption><p>VI is grounded in relationship, rhythm, and ethical responsiveness</p></figcaption></figure>
 
 ### The Four Domains
 
@@ -72,10 +72,6 @@ Pink noise—1/f noise—emerges in systems that balance order and chaos. It is 
 > Where in your life do you feel pink noise?\
 > A moment of harmony, of rest, of silent knowing?
 
-### [Vital Intelligence: Zine](resources/downloads/vital-intelligence-zine.md)&#x20;
-
-
-
 ***
 
 ## 4. Applications & Use Cases
@@ -108,10 +104,10 @@ Vital Intelligence is a design principle as much as a model. It helps systems mo
 
 These are short, reflective practices to support your Vital Intelligence. Use them in community, classrooms, or alone as inquiry seeds.
 
-* 🌱 _Body Check:_ Where in your body do you feel most grounded right now?
-* 🕸 _Map a Relationship:_ Visualize how feedback flows between you and someone important.
-* ☀️ _Ethics Pause:_ Before a decision, ask “Who or what will this affect?”
-* 🍃 _Micro-Learning:_ Name something new you’ve integrated in the past 24 hours.
+* _Body Check:_ Where in your body do you feel most grounded right now?
+* _Map a Relationship:_ Visualize how feedback flows between you and someone important.
+* _Ethics Pause:_ Before a decision, ask “Who or what will this affect?”
+* _Micro-Learning:_ Name something new you’ve integrated in the past 24 hours.
 
 ## 6. Research & References
 
@@ -127,11 +123,11 @@ This model draws from:
 
 ## 7. Collaborate and Download
 
-This model is evolving in community through Humanity++ and Neuroscience of Kindness.
+This model is evolving in community through[ Humanity++](https://www.humanityplusplus.com) and kindness.
 
 #### Get Involved
 
-* Share reflections or practices on social media with #VitalIntelligence
+* Share reflections or practices on social media with #VitalIntelligenceModel
 * Submit feedback or ideas at[ www.HumanityPlusPlus.com](http://www.humanityplusplus.com)
 * Join future workshops and co-learning events
 
@@ -147,29 +143,6 @@ We believe love is not separate from intelligence—it is the rhythm through whi
 
 ***
 
-## 8. Further Reading
 
-**Pink Noise & Complexity Science**
 
-* [Bak, P. (1996). _How Nature Works_](https://www.goodreads.com/book/show/126488.How_Nature_Works)
-* [Kello et al. (2010). Scaling laws in cognitive science](https://www.sciencedirect.com/science/article/abs/pii/S1364661310001036)
-
-**Embodied Cognition & Enactive Mind**
-
-* [Varela, Thompson & Rosch (1991). _The Embodied Mind_](https://mitpress.mit.edu/9780262529365/the-embodied-mind/)
-* [Antonio Damasio - The Feeling of What Happens (Book Overview)](https://en.wikipedia.org/wiki/The_Feeling_of_What_Happens)
-* [Thompson, E. (2007). _Mind in Life_](https://www.hup.harvard.edu/books/9780674025110)
-
-**Trauma-Informed Systems**
-
-* [Van der Kolk, B. (2014). _The Body Keeps the Score_](https://www.goodreads.com/en/book/show/18693771)
-* [Maté, G. (2022). _The Myth of Normal_](https://drgabormate.com/book/the-myth-of-normal/)
-
-**Self-Organized Criticality & Systems Thinking**
-
-* [Turcotte, D. L. (1999). Self-organized criticality](https://pubs.geoscienceworld.org/ssa/srl/article-abstract/70/5/521/140508/Self-organized-criticality)
-
-**AI Ethics & Trust**
-
-* [Crawford, K. (2021). _Atlas of AI_](https://yalebooks.yale.edu/book/9780300209570/atlas-of-ai/)
-* [Russell, S. (2019). _Human Compatible_](https://www.penguinrandomhouse.com/books/622175/human-compatible-by-stuart-russell/)
+{% include ".gitbook/includes/c-2025-humanity++-this-work....md" %}

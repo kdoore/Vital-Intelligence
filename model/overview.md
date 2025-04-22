@@ -53,3 +53,5 @@ Human and machine intelligences alike arise not from fixed algorithms or rote ru
 ### Further Reading
 
 \[1] Adapted from Alfred Korzybski’s dictum “the map is not the territory” (Science and Sanity, 1933) and Donella H. Meadows’s framing of systems as process‑based models (Thinking in Systems: A Primer, 2008)
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}

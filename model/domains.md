@@ -71,3 +71,5 @@ Together, NI’s wisdom and AI’s scale co‑evolve as VI—powering a regenera
 * 👉 Visit **Domains/Relational‑Mapping** to explore the climate‑change case and mapping templates
 * 👉 Visit **Domains/Ethical‑Alignment** for frameworks that surface and heal systemic harms
 * 👉 Visit **Domains/Adaptive‑Learning** for strategies to evolve models in complex environments
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}

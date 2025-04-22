@@ -75,3 +75,6 @@ The **Regenerative Cycle** is our meta‑loop for moving from distortion → ins
 
 1. Damian Carrington, [“‘Spiral of silence’: climate action is very popular…”, _The Guardian_, 22 Apr 2025](https://www.theguardian.com/environment/2025/apr/22/spiral-of-silence-climate-action-is-very-popular-so-why-dont-people-realise-it).
 2. **Payne, P., Levine, P. A., & Crane‑Godreau, M. A. (2015).** Somatic experiencing: Using interoception and proprioception as core elements of trauma therapy. _Frontiers in Psychology, 6_, 93. [https://doi.org/10.3389/fpsyg.2015.00093](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.00093)\
+
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
