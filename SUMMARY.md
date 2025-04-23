@@ -23,13 +23,13 @@
 * [NsK Overview](foundations/nsk-overview.md)
 * [Complexity Science and Modeling](foundations/complexity-science-and-modeling.md)
 * [SOC Basics](foundations/soc-basics/README.md)
-  * [Pink Noise](foundations/soc-basics/pink-noise.md)
+  * [Pink Noise & Dark Matter](foundations/soc-basics/pink-noise.md)
 
 ## Applications and Extensions
 
+* [Economic Models](applications-and-extensions/economic-models.md)
 * [AI and AGI Integration](applications-and-extensions/ai-and-agi-integration.md)
 * [Reverse Mentoring and Wisdom Circles](applications-and-extensions/reverse-mentoring-and-wisdom-circles.md)
-* [Economic Models](applications-and-extensions/economic-models.md)
 
 ## Resources
 
