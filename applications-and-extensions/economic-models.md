@@ -26,7 +26,7 @@ description: >-
 
 ### 3. Doughnut Economics: A New Paradigm
 
-* **Kate Raworth’s Doughnut Model:** Defines a safe and just space for humanity between social foundation and ecological ceiling.
+* **Kate Raworth’s Doughnut Model:** Defines a safe and just space for humanity between social foundation and ecological ceiling. [Doughnut Economics Action Lab](https://doughnuteconomics.org/about-doughnut-economics)
 * **HCI & Grassroots Impact:** Interactive online dashboards and participatory workshops empower communities to localize the Doughnut framework.
 * **Case Example:** Amsterdam’s Doughnut City initiative—mapping local data onto the doughnut and co-designing action plans.
 
