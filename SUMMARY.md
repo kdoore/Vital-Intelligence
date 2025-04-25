@@ -34,6 +34,16 @@
 * [AI and AGI Integration](applications-and-extensions/ai-and-agi-integration.md)
 * [Reverse Mentoring and Wisdom Circles](applications-and-extensions/reverse-mentoring-and-wisdom-circles.md)
 
+## Imagination Engine: A Living Exhibit
+
+* [Narrative Framework](imagination-engine-a-living-exhibit/narrative-framework.md)
+
+***
+
+* [Analog Art -> Virtual Gallery](analog-art-greater-than-virtual-gallery.md)
+* [Contemplative Practices](contemplative-practices.md)
+* [Video Tutorial Series](video-tutorial-series.md)
+
 ## Resources
 
 * [Further Reading & References](resources/further-reading-and-references.md)
