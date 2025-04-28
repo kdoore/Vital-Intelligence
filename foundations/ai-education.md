@@ -1,5 +1,8 @@
 ---
-description: The
+description: >-
+  The VIM framework is designed as a model for integrating natural intelligence
+  with artificial, synthetic information systems during transitions to integrate
+  and synthesize collaborative adaptation
 ---
 
 # AI Education
