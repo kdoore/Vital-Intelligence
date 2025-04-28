@@ -20,6 +20,7 @@
 
 ## Foundations
 
+* [AI Education](foundations/ai-education.md)
 * [NsK Overview](foundations/nsk-overview.md)
 * [Complexity Science and Modeling](foundations/complexity-science-and-modeling.md)
 * [SOC Basics](foundations/soc-basics/README.md)
