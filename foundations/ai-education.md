@@ -39,7 +39,7 @@ The [**Art of Kindness**](../applications-and-extensions/case-studies/the-art-of
 
 ### 4. **The Interactive Compass Tool as an AI Education Model**
 
-The interactive [**compass tool**](../applications-and-extensions/case-studies/the-art-of-kindness.md#nsk-compass-tool) in the Art of Kindness curriculum can also be a **model for interactive AI tools**. It invites students to engage with creativity in a structured way, paralleling how AI systems might guide human creativity by allowing for dynamic, personalized interactions. AI could help students explore diverse perspectives when learning about AI ethics, creativity, and human-centered design.  In the VIM framework, we will use metaphors like compass to express ideas complex ideas like fuzzy logic and randomness.
+The interactive [NsK **compass tool**](../applications-and-extensions/case-studies/the-art-of-kindness.md#nsk-compass-tool) in the Art of Kindness curriculum can also be a **model for interactive AI tools**. It invites students to engage with creativity in a structured way, paralleling how AI systems might guide human creativity by allowing for dynamic, personalized interactions. AI could help students explore diverse perspectives when learning about AI ethics, creativity, and human-centered design.  In the VIM framework, we will use metaphors like compass to express ideas complex ideas like fuzzy logic and randomness.
 
 ***
 
