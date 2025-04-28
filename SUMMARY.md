@@ -29,6 +29,7 @@
 
 * [Economic Models](applications-and-extensions/economic-models.md)
 * [Case Studies](applications-and-extensions/case-studies/README.md)
+  * [The Art of Kindness](applications-and-extensions/case-studies/the-art-of-kindness.md)
   * [Platform Monopolies](applications-and-extensions/case-studies/platform-monopolies.md)
   * [Surveillance Weaponization](applications-and-extensions/case-studies/surveillance-weaponization.md)
 * [AI and AGI Integration](applications-and-extensions/ai-and-agi-integration.md)
