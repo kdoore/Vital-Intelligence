@@ -29,6 +29,7 @@
 ***
 
 * [Fuzzy Logic](fuzzy-logic.md)
+* [Playful Environments](playful-environments.md)
 
 ## Applications and Extensions
 
