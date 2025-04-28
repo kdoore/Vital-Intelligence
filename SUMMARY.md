@@ -26,6 +26,10 @@
 * [SOC Basics](foundations/soc-basics/README.md)
   * [Pink Noise & Dark Matter](foundations/soc-basics/pink-noise.md)
 
+***
+
+* [Fuzzy Logic](fuzzy-logic.md)
+
 ## Applications and Extensions
 
 * [Economic Models](applications-and-extensions/economic-models.md)
