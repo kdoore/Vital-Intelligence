@@ -31,7 +31,7 @@ As AI advances and human systems strain under complexity, we need models that re
 
 ### Overview Diagram
 
-<figure><img src=".gitbook/assets/ChatGPT Image Apr 17, 2025, 07_45_19 PM.png" alt=""><figcaption><p>VI is grounded in relationship, rhythm, and ethical responsiveness</p></figcaption></figure>
+<figure><img src=".gitbook/assets/ChatGPT Image Apr 24, 2025, 04_10_19 PM.png" alt="" width="563"><figcaption><p>VI is grounded in relationship, rhythm, and ethical responsiveness</p></figcaption></figure>
 
 ### The Four Domains
 
@@ -133,7 +133,7 @@ This model is evolving in community through[ Humanity++](https://www.humanityplu
 
 #### Downloads
 
-{% file src=".gitbook/assets/Vital Intelligence.pdf" %}
+{% file src=".gitbook/assets/Vital Intelligence Zine.pdf" %}
 Vital Intelligence Zine
 {% endfile %}
 

@@ -4,6 +4,10 @@ description: Four Interdependent Domains of Dynamic Intelligence
 
 # Domains
 
+### Vital Intelligence Modeled as Dynamic Cycles of Information Processing&#x20;
+
+<figure><img src="../.gitbook/assets/ChatGPT Image Apr 24, 2025, 04_10_19 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ### Four Domains of Vital Intelligence
 
 The Vital Intelligence Model is structured around **four interdependent domains**—each a lens on how agents (human, machine, ecological) sense, relate, choose, and learn. Together they form the scaffolding for our Regenerative Cycle (see “Regenerative Cycle” page), ensuring that no domain evolves in isolation.
@@ -18,7 +22,7 @@ The Vital Intelligence Model weaves together:
 
 ***
 
-#### 1. Embodied Interaction
+### 1. ![](<../.gitbook/assets/image (5).png>)![](<../.gitbook/assets/image (6).png>)Embodied Interaction
 
 **Essence:** Tuning sensory and somatic systems to perceive inner and outer worlds.
 
@@ -26,7 +30,7 @@ The Vital Intelligence Model weaves together:
 * **AI:** limited—lacks a body, can’t feel or sense nuance; at best infers state from proxies (e.g., posture via vision models)
 * **VI:** combines human grounding with AI‑augmented sensing (e.g., wearables + LLM feedback loops) to deepen embodiment
 
-#### 2. Relational Mapping
+### 2. ![](<../.gitbook/assets/image (1).png>)Relational Mapping
 
 **Essence:** Co‑constructing shared meaning via narratives, metaphors, networks.
 
@@ -34,7 +38,7 @@ The Vital Intelligence Model weaves together:
 * **AI:** excels at large‑scale graph analysis, pattern detection across texts/data, rapid prototyping of visual maps
 * **VI:** merges human storytelling with AI’s data‑driven mappings to surface novel connections and emergent narratives
 
-#### 3. Ethical Alignment
+### 3. ![](<../.gitbook/assets/image (2).png>)Ethical Alignment
 
 **Essence:** Surfacing shadow elements (bias, trauma, extractive patterns) and redirecting toward collective wellbeing.
 
@@ -42,7 +46,7 @@ The Vital Intelligence Model weaves together:
 * **AI:** can highlight statistical disparities, enforce rules at scale, but risks codifying bias if mis‑trained
 * **VI:** leverages human ethics alongside AI’s audit trails and fairness‑monitoring to co‑design accountability loops
 
-#### 4. Adaptive Learning
+### 4. ![](<../.gitbook/assets/image (3).png>)Adaptive Learning
 
 **Essence:** Evolving models over time through new data, insights, and emergent patterns.
 
@@ -52,7 +56,7 @@ The Vital Intelligence Model weaves together:
 
 ***
 
-#### Interplay & Regeneration
+### Interplay & Regeneration
 
 These domains form a **feedback spiral** rather than a linear chain.
 
@@ -65,7 +69,7 @@ Together, NI’s wisdom and AI’s scale co‑evolve as VI—powering a regenera
 
 ***
 
-**Next Steps in this “Model” group**
+### **Next Steps in this “Model” group**
 
 * Visit **Domains/Embodied‑Interaction** for a deep dive into somatic modeling
 * Visit **Domains/Relational‑Mapping** to explore the climate‑change case and mapping templates

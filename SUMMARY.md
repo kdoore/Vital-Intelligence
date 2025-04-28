@@ -9,7 +9,7 @@
 * [Overview](model/overview.md)
 * [Domains](model/domains.md)
 * [Alignment Matrix](model/alignment-matrix.md)
-* [Regenerative cycle](model/regenerative-cycle.md)
+* [Regenerative Cycle](model/regenerative-cycle.md)
 
 ## Domains
 
