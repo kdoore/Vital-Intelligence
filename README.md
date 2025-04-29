@@ -143,6 +143,6 @@ We believe love is not separate from intelligence—it is the rhythm through whi
 
 ***
 
-
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>H<a href="https://humanityplusplus.com/vital-intelligence">umanity++ Vital Intelligence Model Overview</a></td><td><a href=".gitbook/assets/H++VIM_image.webp">H++VIM_image.webp</a></td></tr><tr><td><a href="https://humanityplusplus.com/">Humanity++</a> </td><td><a href=".gitbook/assets/H++Home_image.png">H++Home_image.png</a></td></tr></tbody></table>
 
 {% include ".gitbook/includes/c-2025-humanity++-this-work....md" %}
