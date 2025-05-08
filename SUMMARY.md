@@ -35,6 +35,7 @@
 
 * [Economic Models](applications-and-extensions/economic-models.md)
 * [Case Studies](applications-and-extensions/case-studies/README.md)
+  * [AI and Mental Health Concerns](applications-and-extensions/case-studies/ai-and-mental-health-concerns.md)
   * [The Art of Kindness](applications-and-extensions/case-studies/the-art-of-kindness.md)
   * [Platform Monopolies](applications-and-extensions/case-studies/platform-monopolies.md)
   * [Surveillance Weaponization](applications-and-extensions/case-studies/surveillance-weaponization.md)
