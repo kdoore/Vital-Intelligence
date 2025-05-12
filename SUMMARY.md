@@ -23,11 +23,13 @@
 * [AI Education](foundations/ai-education.md)
 * [NsK Overview](foundations/nsk-overview.md)
 * [Complexity Science and Modeling](foundations/complexity-science-and-modeling.md)
-* [SOC Basics](foundations/soc-basics/README.md)
+* [Self-Organized Criticality (SOC)](foundations/soc-basics/README.md)
   * [Pink Noise & Dark Matter](foundations/soc-basics/pink-noise.md)
 
 ***
 
+* [Nested Scalable Oversight (NSO)](nested-scalable-oversight-nso.md)
+* [Oscillations in Living Systems](oscillations-in-living-systems.md)
 * [Fuzzy Logic](fuzzy-logic.md)
 * [Playful Environments](playful-environments.md)
 
