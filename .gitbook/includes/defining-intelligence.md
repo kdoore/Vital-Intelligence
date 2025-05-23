@@ -2,5 +2,5 @@
 title: Defining Intelligence
 ---
 
-_“Intelligence is the capacity of an agent to set and achieve goals in a complex environment, integrating both conscious strategies and subconscious pattern‑recognition.”_\
+_“Intelligence is demonstrated by the neuroprocesses when they achieve their goals"  and "Artificial Intelligence is the research program concerned with the design and implementation of machines for tasks requiring significant intelligence of the subconscious neuroprocesses."_\
 — Klaus Truemper, in[ _Artificial Intelligence: Why AI Projects Succeed or Fail_ ](https://klaustruemper.com/2023/03/08/artificial-intelligence/)
