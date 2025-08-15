@@ -2,6 +2,12 @@
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-14 at 3.21.29 PM.png" alt=""><figcaption></figcaption></figure>
 
+### Next Slide:
+
+{% content-ref url="expanding-inner-and-outer-world-models.md" %}
+[expanding-inner-and-outer-world-models.md](expanding-inner-and-outer-world-models.md)
+{% endcontent-ref %}
+
 ### Resources
 
 Atlas of AI, Kate Crawford\
@@ -12,3 +18,6 @@ The Coming Wave, Mustafa Suleyman\
 ChatGPT and the Future of AI, Terrence J. Sejnowski\
 Exit, Voice and Loyalty, Albert O. Hirschman\
 Doughnut Economics Action League\
+
+
+{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}
