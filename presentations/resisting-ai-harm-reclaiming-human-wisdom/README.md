@@ -17,7 +17,6 @@ description: Grassroots pathways through the Doughnut Lens
 ### Resources:
 
 [Doughnut Economics Action Lab](https://doughnuteconomics.org/)\
-\
 Doughnut Economics, Kate Raeworth\
 Atlas of AI, Kate Crawford\
 Why AI Projects Succeed and Fail, Klaus Truemper\
