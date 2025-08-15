@@ -33,6 +33,20 @@
 * [Fuzzy Logic](fuzzy-logic.md)
 * [Playful Environments](playful-environments.md)
 
+## Presentations
+
+* [Resisting AI Harm, Reclaiming Human Wisdom](presentations/resisting-ai-harm-reclaiming-human-wisdom/README.md)
+  * [Earth: Grounding Actions in Planetary Boundaries](presentations/resisting-ai-harm-reclaiming-human-wisdom/earth-grounding-actions-in-planetary-boundaries.md)
+  * [Labor: Work in Motion](presentations/resisting-ai-harm-reclaiming-human-wisdom/labor-work-in-motion.md)
+  * [Data: Politics of Datasets and Models](presentations/resisting-ai-harm-reclaiming-human-wisdom/data-politics-of-datasets-and-models.md)
+  * [Emotions: Reflecting Human Affective States](presentations/resisting-ai-harm-reclaiming-human-wisdom/emotions-reflecting-human-affective-states.md)
+  * [State and Power, Who holds the levers?](presentations/resisting-ai-harm-reclaiming-human-wisdom/state-and-power-who-holds-the-levers.md)
+  * [Expanding Inner and Outer World Models](presentations/resisting-ai-harm-reclaiming-human-wisdom/expanding-inner-and-outer-world-models.md)
+  * [Modeling & Simulation for Complex Living Worlds](presentations/resisting-ai-harm-reclaiming-human-wisdom/modeling-and-simulation-for-complex-living-worlds.md)
+  * [Ethical Technologies by Design](presentations/resisting-ai-harm-reclaiming-human-wisdom/ethical-technologies-by-design.md)
+  * [Avalanche of Kindness](presentations/resisting-ai-harm-reclaiming-human-wisdom/avalanche-of-kindness.md)
+  * [Discussion Prompt](presentations/resisting-ai-harm-reclaiming-human-wisdom/discussion-prompt.md)
+
 ## Applications and Extensions
 
 * [Economic Models](applications-and-extensions/economic-models.md)
@@ -44,9 +58,9 @@
 * [AI and AGI Integration](applications-and-extensions/ai-and-agi-integration.md)
 * [Reverse Mentoring and Wisdom Circles](applications-and-extensions/reverse-mentoring-and-wisdom-circles.md)
 
-## Imagination Engine: A Living Exhibit
+## Imagination Engine:&#x20;
 
-* [Narrative Framework](imagination-engine-a-living-exhibit/narrative-framework.md)
+* [Narrative Framework](imagination-engine/narrative-framework.md)
 
 ***
 

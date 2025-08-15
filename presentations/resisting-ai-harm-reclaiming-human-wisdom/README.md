@@ -1,0 +1,20 @@
+---
+description: Grassroots pathways through the Doughnut Lens
+---
+
+# Resisting AI Harm, Reclaiming Human Wisdom
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-14 at 4.19.44 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-14 at 4.35.37 PM.png" alt=""><figcaption></figcaption></figure>
+
+### Resources:
+
+[Doughnut Economics Action Lab](https://doughnuteconomics.org/)\
+\
+Doughnut Economics, Kate Raeworth\
+Atlas of AI, Kate Crawford\
+Why AI Projects Succeed and Fail, Klaus Truemper\
+Magic Error and Terror, Klaus Truemper\
+Systems Thinking, Donella Meadows\
+Simulation Model Design and Execution, Paul Fishwick\
