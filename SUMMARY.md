@@ -45,6 +45,7 @@
   * [Modeling & Simulation for Complex Living Worlds](presentations/resisting-ai-harm-reclaiming-human-wisdom/modeling-and-simulation-for-complex-living-worlds.md)
   * [Ethical Technologies by Design](presentations/resisting-ai-harm-reclaiming-human-wisdom/ethical-technologies-by-design.md)
   * [Avalanche of Kindness](presentations/resisting-ai-harm-reclaiming-human-wisdom/avalanche-of-kindness.md)
+  * [Language and Narrative](presentations/resisting-ai-harm-reclaiming-human-wisdom/language-and-narrative.md)
   * [Discussion Prompt](presentations/resisting-ai-harm-reclaiming-human-wisdom/discussion-prompt.md)
 
 ## Applications and Extensions

@@ -8,8 +8,8 @@ description: Resonance Energy Alignment with Pro-social tipping points
 
 ### Next Slide:
 
-{% content-ref url="discussion-prompt.md" %}
-[discussion-prompt.md](discussion-prompt.md)
+{% content-ref url="language-and-narrative.md" %}
+[language-and-narrative.md](language-and-narrative.md)
 {% endcontent-ref %}
 
 {% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}
