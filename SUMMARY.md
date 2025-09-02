@@ -35,6 +35,10 @@
 
 ## Presentations
 
+* [Doughnut Economics Action Lab: September 2025](presentations/doughnut-economics-action-lab-september-2025/README.md)
+  * [Crisis of Virtual Worlds: Symbolic Terrains, Planet-Scale World Models](presentations/doughnut-economics-action-lab-september-2025/crisis-of-virtual-worlds-symbolic-terrains-planet-scale-world-models.md)
+  * [See the Big Picture: Resisting AI Harms, Reclaiming Human Wisdom](presentations/doughnut-economics-action-lab-september-2025/see-the-big-picture-resisting-ai-harms-reclaiming-human-wisdom.md)
+  * [Change the Goal](presentations/doughnut-economics-action-lab-september-2025/change-the-goal.md)
 * [Resisting AI Harm, Reclaiming Human Wisdom](presentations/resisting-ai-harm-reclaiming-human-wisdom/README.md)
   * [Earth: Grounding Actions in Planetary Boundaries](presentations/resisting-ai-harm-reclaiming-human-wisdom/earth-grounding-actions-in-planetary-boundaries.md)
   * [Labor: Work in Motion](presentations/resisting-ai-harm-reclaiming-human-wisdom/labor-work-in-motion.md)

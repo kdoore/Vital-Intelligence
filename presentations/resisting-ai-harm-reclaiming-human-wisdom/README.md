@@ -1,5 +1,5 @@
 ---
-description: Grassroots pathways through the Doughnut Lens
+description: Grassroots pathways through the Doughnut Lens -- UU Presentation August 2025
 ---
 
 # Resisting AI Harm, Reclaiming Human Wisdom
