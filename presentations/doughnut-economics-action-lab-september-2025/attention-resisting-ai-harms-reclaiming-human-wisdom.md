@@ -37,4 +37,8 @@ Danielle Murteza, N. (2022). A Fractal Mindset in Design Education: Explorations
 **Wellbeing Breath-focused Interventions:** \
 Gerbarg, P. L., & Brown, R. P. (2024). Breath-focused mind-body therapy for global mental health: war and other mass disasters. Academia Mental Health and Well-Being, 1. https://doi.org/https://doi.org/10.20935/MHealthWellB6198
 
+### **MidJourney Image Prompt**
+
+_watercolor and ink painting of a toroidal energy form seen three-quarters view, nested spirals and ribbon-like currents orbiting and weaving through the ring, subtle interference rings like standing waves, indigo and teal washes with sepia hatching, delicate starlike nodes hinting at parametric structure, vintage atlas paper texture, the 2D doughnut blossoming into a multi-dimensional geometry_
+
 {% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

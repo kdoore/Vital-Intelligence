@@ -21,6 +21,9 @@ Neuroscience advances using AI systems have helped highlight the structure of \
 The complexity of this expanded world model increases difficulty of decision-making for human systems.\
 
 
+**Midjourney Prompt**\
+&#xNAN;_&#x76;intage atlas watercolor of two interlocked rings around a dark globe, left ring painted as oceans, forests, rivers (biosphere) with flowing blue-green water and energy currents, right ring painted as luminous token-streams and filament networks (infosphere) with gold flecks for attention and soft silver threads for trust, subtle arrows suggested by brushstrokes indicating circulation between the rings, faint cartographic grid ghosted beneath, serene and wordless_
+
 ### Resources and References:
 
 

@@ -19,12 +19,15 @@ In reality, we are interdependent with our environments, so as the environment c
 This ripples out from individual, collective and environmental wellbeing to form a holistic life-long learning approach.&#x20;
 
 [OECD Teaching Compass](https://www.oecd.org/en/publications/oecd-teaching-compass_8297a24a-en.html]) - Lifelong Learning in the context of exponential changes requires developing nervous-system self-regulation skills.  \
-\
 
 
 > &#x20;"Individual wellbeing emphasizes personal growth, resilience and the competencies needed for navigating a rapidly evolving and uncertain world".  Education, in this context, fosters personal fullfillment, equipping learners to manage challanges proactively.  Collective wellbeing expands the scope beyond the individual, stressing the importance of social cohesion, inclusion, and collaborative efforts within communities" It promotes shared goals, mutual respect, and collective responsibility.  Environmental well-being broadens the lens further, underscoring sustainability, environmental stewardship, and responsible resource management to ensure a thriving future for subsequent generations" \
 > \
 >
+
+### _Midjourney Image Prompt_
+
+_vintage hand-drawn atlas watercolor on aged paper, brass compass at center radiating a calm inner glow, subtle concentric rings around it evoking the Doughnut (inner ring + outer ring as soft translucent bands), gentle resonance waves indicating curiosity and questioning, layered topographic contour lines and faint coastlines, muted blues/teals/ochres, distant stormy clouds at edges fading toward serenity near the compass, fine ink linework, no labels_
 
 ### _Healing Trauma Resources: Coming Soon_ 
 

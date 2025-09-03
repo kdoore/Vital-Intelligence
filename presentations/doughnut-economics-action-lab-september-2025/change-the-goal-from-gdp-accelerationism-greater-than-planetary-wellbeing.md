@@ -40,5 +40,8 @@ COVID was a global trauma, it was an opportunity for humans to understand the in
 \
 [ControlAI.com:](http://www.controlai.com/) Learn how to contact legislators to support international regulations for frontier LLM's.
 
+_**MidJourney Prompt**_\
+&#xNAN;_&#x76;intage atlas watercolor of a luminous torus floating above a calm indigo sea, inner lagoon smooth like breath at rest and outer waters gently textured, three soft waypoints glowing along the ring to suggest being→belonging→becoming, ghosted compass rose at center, antique cartographic contour lines, ultramarine and indigo washes, sepia ink hatching, tiny gold flecks for signal, serene, no figures_
+
 {% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}
 
