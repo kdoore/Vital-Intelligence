@@ -3,6 +3,7 @@
 ## Introduction
 
 * [Vital Intelligence Model:](README.md)
+* [Avalanche of Kindness](introduction/avalanche-of-kindness.md)
 
 ## Model
 
