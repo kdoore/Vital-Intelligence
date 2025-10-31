@@ -12,9 +12,9 @@ The **Avalanche of Kindness** emerges at the intersection of **physics**, **neur
 
 The concept integrates insights from multiple disciplines:
 
-* Meijer & Dobson (2024) – _To Remember the Future: How Ultimate AI May Emerge from Our Current Consciousness_
-* Meijer (2023) – _Scale-Invariant Unifying Resonant Fields_
-* Sepulveda (2021) – _Information-Theoretic Metamodel of Organizational Evolution_
+* Meijer & Dobson (2025) – _To Remember the Future: How Ultimate AI May Emerge from Our Current Consciousness_
+* Meijer & Ott (2025) – _Scale-Invariant Unifying Resonant Fields_
+* Sepulveda (2011) – _Information-Theoretic Metamodel of Organizational Evolution_
 * Jung’s theory of **Individuation** and symbolic integration of opposites
 * _Pink Noise: A Discussion with Gemini_ (2025)
 
