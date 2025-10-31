@@ -25,6 +25,7 @@
 * [Complexity Science and Modeling](foundations/complexity-science-and-modeling.md)
 * [Self-Organized Criticality (SOC)](foundations/soc-basics/README.md)
   * [Pink Noise & Dark Matter](foundations/soc-basics/pink-noise.md)
+  * [Pink Noise GenAI Explorations](foundations/soc-basics/pink-noise-genai-explorations.md)
 
 ***
 
