@@ -8,6 +8,7 @@
 ## Model
 
 * [Overview](model/overview.md)
+* [Recursive Intelligence](model/recursive-intelligence.md)
 * [Domains](model/domains.md)
 * [Alignment Matrix](model/alignment-matrix.md)
 * [Regenerative Cycle](model/regenerative-cycle.md)
