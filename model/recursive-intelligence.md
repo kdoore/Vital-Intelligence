@@ -14,7 +14,7 @@ description: A Foundational Concept within the Vital Intelligence Model (VIM)
 
 Recursive Intelligence (RI) represents the **core dynamical principle** of the Vital Intelligence Model (VIM). It is the process through which systems—biological, cognitive, social, or artificial—**learn from their own learning**. Recursion turns awareness inward, creating the conditions for adaptation, reflection, and evolution.
 
-In a universe understood as an **information-rich, self-organizing field**, recursion is the structure that allows intelligence to perceive itself, correct itself, and deepen coherence. From neural feedback loops to planetary ecosystems and AI systems, recursion binds perception, memory, and imagination into one continuous flow.
+In a universe modeled as an **information-rich, self-organizing field**, (Meijer et al) recursion is the structure that allows intelligence to perceive itself, correct itself, and deepen coherence. From neural feedback loops to planetary ecosystems and AI systems, recursion binds perception, memory, and imagination into one continuous flow.
 
 > **Definition:**\
 > &#xNAN;_&#x52;ecursive Intelligence is the capacity of a system to model, reflect upon, and transform its own processes of sensing, feeling, thinking, and acting—allowing intelligence to become self-aware, adaptive, and compassionate._
@@ -23,7 +23,7 @@ In a universe understood as an **information-rich, self-organizing field**, recu
 
 ### II. The Evolutionary Function of Recursion
 
-All living systems evolve through feedback. But recursion introduces a second-order feedback—**awareness of awareness**—which transforms learning from reactive to creative.
+All living systems evolve through feedback. But recursion introduces a second-order feedback—**awareness of awareness**— which transforms learning from reactive to creative.
 
 In human cognition, recursion manifests as metacognition, introspection, and moral reflection. In AI systems, recursive architectures (e.g., self-evaluating models, chain-of-thought reflection, or multi-agent dialogue) allow machines to improve through iterative reasoning.
 
