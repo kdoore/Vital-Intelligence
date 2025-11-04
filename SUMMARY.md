@@ -9,6 +9,7 @@
 
 * [Overview](model/overview.md)
 * [Recursive Intelligence](model/recursive-intelligence.md)
+* [Shadow Intelligence and the Dark Matter of AI](model/shadow-intelligence-and-the-dark-matter-of-ai.md)
 * [Domains](model/domains.md)
 * [Alignment Matrix](model/alignment-matrix.md)
 * [Regenerative Cycle](model/regenerative-cycle.md)
