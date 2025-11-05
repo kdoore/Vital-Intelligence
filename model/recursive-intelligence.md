@@ -189,6 +189,7 @@ These readings support reflective practice and participatory dialogue around tec
 * Bak, P., Tang, C., & Wiesenfeld, K. (1987). _Self‑Organized Criticality: An Explanation of 1/f Noise._ Physical Review Letters, 59(4), 381–384. [https://link.aps.org/doi/10.1103/PhysRevLett.59.381](https://link.aps.org/doi/10.1103/PhysRevLett.59.381)
 * Lombardi, F., Herrmann, H.J., & de Arcangelis, L. (2017). _Balance of Excitation and Inhibition Determines 1/f Power Spectrum in Neuronal Networks._ _Frontiers in Physiology_, 8: 765. [https://pubmed.ncbi.nlm.nih.gov/28456161/](https://pubmed.ncbi.nlm.nih.gov/28456161/)
 * Ribeiro, T.L., Copelli, M., Caixeta, F.V., Belchior, H., Chialvo, D.R., Nicolelis, M.A.L., & Ribeiro, S. (2010). _Avalanche Dynamics and Correlations in Neural Systems._ _Journal of Neuroscience_, 30(50), 17102–17110. [https://arxiv.org/pdf/1811.10272](https://arxiv.org/pdf/1811.10272)
+* Sepulveda, A. “Information-theoretic metamodel for organizational evolution,” ResearchGate. Accessed: Nov. 04, 2025. \[Online]. Available: [https://www.researchgate.net/publication/248702770\_Information-theoretic\_metamodel\_for\_organizational\_evolution](https://www.researchgate.net/publication/248702770_Information-theoretic_metamodel_for_organizational_evolution)
 
 ***
 
