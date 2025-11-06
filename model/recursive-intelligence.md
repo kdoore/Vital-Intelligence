@@ -74,6 +74,8 @@ Neuroscientific models of brain function, such as the work by Lombardi and colle
 
 ***
 
+<figure><img src="../.gitbook/assets/ChatGPT Image Nov 5, 2025, 11_54_06 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ### VI. Recursive Intelligence and Individuation
 
 Recursive processes underlie the **psychological evolution** of the individual and the species. In Jungian terms, individuation—the integration of shadow and light—is a recursive transformation of the psyche. Each reflection reorganizes the system toward greater wholeness.
@@ -203,3 +205,6 @@ A visual diagram represents the **feedback loops between attention, awareness, a
 4. **Compassion → Perception** – compassionate perception refines the next cycle, creating an upward spiral of coherence.
 
 This loop mirrors both neural dynamics and social feedback processes, symbolizing how recursive practice transforms the individual and collective nervous systems into instruments of harmony.
+
+
+

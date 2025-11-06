@@ -27,7 +27,9 @@ In AI, this imbalance manifests as technologies designed for surveillance, behav
 * **Deepfake and non-consensual media:** The rise of AI-generated sexual imagery targeting women, children, and marginalized communities.\
 
 
-References
+References\
+\
+[Make it Real Report - Mapping AI-Facilitated Gendered Harm](https://tattle.co.in/make-it-real-report.pdf) - Ratifoundation.org, Tattle.co.in
 
 [The Guardian — “Strike 3 porn copyright lawsuits”](https://www.theguardian.com/society/ng-interactive/2025/nov/04/strike-3-porn-copyright-lawsuits)
 
@@ -35,7 +37,9 @@ References
 
 [The Guardian — “The dark world of sexual deepfakes—and the women fighting back”](https://www.theguardian.com/technology/2025/jan/12/would-love-to-see-her-faked-the-dark-world-of-sexual-deepfakes-and-the-women-fighting-back)\
 \
-[The Guardian - Deep-Fakes as News, AI, Media](https://www.theguardian.com/technology/2025/sep/26/deepfakes-ai-slop-now-part-of-news-cycle-south-park-v-trump)
+[The Guardian - Deep-Fakes as News, AI, Media](https://www.theguardian.com/technology/2025/sep/26/deepfakes-ai-slop-now-part-of-news-cycle-south-park-v-trump)\
+\
+[The Guardian - "The Chilling Effect of Deep Fakes on Women in India"](https://www.theguardian.com/global-development/2025/nov/05/india-women-ai-deepfakes-internet-social-media-artificial-intelligence-nudify-extortion-abuse)
 
 ***
 

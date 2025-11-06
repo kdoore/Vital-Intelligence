@@ -87,6 +87,7 @@
 ## Resources
 
 * [Further Reading & References](resources/further-reading-and-references.md)
+* [Trauma, Abusive Relationships](resources/trauma-abusive-relationships.md)
 * [Downloads](resources/downloads/README.md)
   * [Vital Intelligence Model: Zine](resources/downloads/vital-intelligence-zine.md)
 * [Tools & Benchmarks](resources/tools-and-benchmarks.md)
