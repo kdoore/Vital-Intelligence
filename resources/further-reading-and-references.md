@@ -23,13 +23,30 @@
 
 * [Turcotte, D. L. (1999). Self-organized criticality](https://pubs.geoscienceworld.org/ssa/srl/article-abstract/70/5/521/140508/Self-organized-criticality)
 
+
+
 **Artificial Intelligence**
 
 * Truemper, K. (2023). [_Artificial Intelligence: Why AI Projects Succeed or Fail_. Leibniz Company. ISBN 978‑0999140253](https://klaustruemper.com/2023/03/08/artificial-intelligence/)
 * [Crawford, K. (2021). _Atlas of AI_](https://yalebooks.yale.edu/book/9780300209570/atlas-of-ai/)
 * [Russell, S. (2019). _Human Compatible_](https://www.penguinrandomhouse.com/books/622175/human-compatible-by-stuart-russell/)
 
-**Complexity and Systems**
+**Complexity and Systems**\
+
+
+### **Opinion Articles:**&#x20;
+
+**Transhumanist Ideas and Technology**&#x20;
+
+{% embed url="https://www.theguardian.com/science/2025/nov/10/investors-transhumanist-ideas-neurotech-progress-elon-musk" %}
+
+**Climate Crisis, Humanity, and Global Finance**\
+\
+[https://www.theguardian.com/commentisfree/2025/nov/08/bill-gates-climate-crisis-billionaire-essay-cop30](https://www.theguardian.com/commentisfree/2025/nov/08/bill-gates-climate-crisis-billionaire-essay-cop30)
+
+
+
+
 
 
 
