@@ -1,5 +1,7 @@
 # Further Reading & References
 
+### Research and Blogs of Interest
+
 **Pink Noise & Complexity Science**
 
 * [Bak, P. (1996). _How Nature Works_](https://www.goodreads.com/book/show/126488.How_Nature_Works)
@@ -11,6 +13,9 @@
 * [Antonio Damasio - The Feeling of What Happens (Book Overview)](https://en.wikipedia.org/wiki/The_Feeling_of_What_Happens)
 * [Thompson, E. (2007). _Mind in Life_](https://www.hup.harvard.edu/books/9780674025110)
 * Thomas Parr, Giovanni Pezzulo, & Karl Friston ( 2022) Active Inference
+* Qualia Towards Computational Simulations of Cessation: [https://qri.org/blog/cessation-simulations](https://qri.org/blog/cessation-simulations)
+* [Symmetry Theory of Valence](https://qualiacomputing.com/2020/12/17/the-symmetry-theory-of-valence-2020-presentation/)
+* Wireheading Done Right: [https://qualiacomputing.com/2016/08/20/wireheading\_done\_right/](https://qualiacomputing.com/2016/08/20/wireheading_done_right/)
 
 **Trauma-Informed Systems**
 
@@ -22,8 +27,7 @@
 **Self-Organized Criticality & Systems Thinking**
 
 * [Turcotte, D. L. (1999). Self-organized criticality](https://pubs.geoscienceworld.org/ssa/srl/article-abstract/70/5/521/140508/Self-organized-criticality)
-
-
+* [https://substack.com/home/post/p-177292609](https://substack.com/home/post/p-177292609)
 
 **Artificial Intelligence**
 
@@ -42,9 +46,15 @@
 
 **Climate Crisis, Humanity, and Global Finance**\
 \
-[https://www.theguardian.com/commentisfree/2025/nov/08/bill-gates-climate-crisis-billionaire-essay-cop30](https://www.theguardian.com/commentisfree/2025/nov/08/bill-gates-climate-crisis-billionaire-essay-cop30)
+[https://www.theguardian.com/commentisfree/2025/nov/08/bill-gates-climate-crisis-billionaire-essay-cop30](https://www.theguardian.com/commentisfree/2025/nov/08/bill-gates-climate-crisis-billionaire-essay-cop30)\
+\
+**Technology Platform Business Models for Scams**\
+\
+[https://www.platformer.news/meta-scams-prevalence/?ref=platformer-newsletter](https://www.platformer.news/meta-scams-prevalence/?ref=platformer-newsletter)
 
+{% embed url="https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06/?ref=platformer.news" %}
 
+> Meta projected 10% of its 2024 revenue would come from ads for scams and banned goods, documents seen by Reuters show. And the social media giant internally estimates that its platforms show users 15 billion scam ads a day.
 
 
 
