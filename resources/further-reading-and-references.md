@@ -35,7 +35,14 @@
 * [Crawford, K. (2021). _Atlas of AI_](https://yalebooks.yale.edu/book/9780300209570/atlas-of-ai/)
 * [Russell, S. (2019). _Human Compatible_](https://www.penguinrandomhouse.com/books/622175/human-compatible-by-stuart-russell/)
 
-**Complexity and Systems**\
+**Complexity and Systems**
+
+[Performance Systems Blog](https://performancesystems.substack.com/p/what-makes-some-systems-better-than?utm_source=post-email-title\&publication_id=3353928\&post_id=175716528\&utm_campaign=email-post-title\&isFreemail=true\&r=jxjez\&triedRedirect=true\&utm_medium=email)
+
+**Children and Media**\
+[Sweden - Reversing Media Exposure Patterns for Children](https://www.afterbabel.com/p/sweden-went-all-in-on-screens-in?utm_campaign=email-half-post\&r=jxjez\&utm_source=substack\&utm_medium=email)&#x20;
+
+[Smartphone-free Childhood](https://www.smartphonefreechildhood.org/)\
 
 
 ### **Opinion Articles:**&#x20;
@@ -48,7 +55,7 @@
 \
 [https://www.theguardian.com/commentisfree/2025/nov/08/bill-gates-climate-crisis-billionaire-essay-cop30](https://www.theguardian.com/commentisfree/2025/nov/08/bill-gates-climate-crisis-billionaire-essay-cop30)\
 \
-**Technology Platform Business Models for Scams**\
+**Technology Platform Business Models:  Algorithmic Profiteering**\
 \
 [https://www.platformer.news/meta-scams-prevalence/?ref=platformer-newsletter](https://www.platformer.news/meta-scams-prevalence/?ref=platformer-newsletter)
 

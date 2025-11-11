@@ -74,7 +74,7 @@ Neuroscientific models of brain function, such as the work by Lombardi and colle
 
 ***
 
-<figure><img src="../.gitbook/assets/ChatGPT Image Nov 5, 2025, 11_54_06 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ChatGPT Image Nov 5, 2025, 11_54_06 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### VI. Recursive Intelligence and Individuation
 

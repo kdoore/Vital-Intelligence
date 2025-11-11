@@ -8,7 +8,8 @@
 ## Model
 
 * [Overview](model/overview.md)
-* [Recursive Intelligence](model/recursive-intelligence.md)
+* [Recursive Intelligence](model/recursive-intelligence/README.md)
+  * [Recursive Intelligence: Flow of Awareness and Transformation](model/recursive-intelligence/recursive-intelligence-flow-of-awareness-and-transformation.md)
 * [Shadow Intelligence and the Dark Matter of AI](model/shadow-intelligence-and-the-dark-matter-of-ai.md)
 * [Domains](model/domains.md)
 * [Alignment Matrix](model/alignment-matrix.md)
