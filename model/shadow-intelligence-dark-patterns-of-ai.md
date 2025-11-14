@@ -1,8 +1,8 @@
 ---
-description: Exploring the Yin Energy of Awareness in a Culture of Control
+description: Exploring the Yin Energy of Awareness in a Culture of Projections of Control
 ---
 
-# Shadow Intelligence and the Dark Matter of AI
+# Shadow Intelligence, Dark Patterns of AI
 
 ### I. Introduction — Facing the Shadow
 

@@ -6,10 +6,17 @@
 
 {% embed url="https://www.theguardian.com/us-news/2025/nov/13/ai-campaign-videos-elections" %}
 
-### &#x20;Algorithms for Profit from Scams 
+### Misconceptions about Brain Computer Interfaces:&#x20;
+
+[https://pmc.ncbi.nlm.nih.gov/articles/PMC11004276/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11004276/)
+
+#### Social Media Algorithms Profit from Scamers and Fraud
+
+{% embed url="https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06" %}
 
 ### Algorithms Amplify Polarization
 
-
+{% embed url="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media?" %}
 
 ### AI Deep Fakes
+
