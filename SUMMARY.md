@@ -90,7 +90,8 @@
 
 * [Further Reading & References](resources/further-reading-and-references/README.md)
   * [Climate Crisis and Complexity](resources/further-reading-and-references/climate-crisis-and-complexity.md)
-  * [Trauma, Abusive Relationships](resources/further-reading-and-references/trauma-abusive-relationships.md)
+  * [Trauma, Anxiety, Dysfunctional Relationships](resources/further-reading-and-references/trauma-anxiety-dysfunctional-relationships.md)
+  * [Dysfunctional Academic Organizational Structures](resources/further-reading-and-references/dysfunctional-academic-organizational-structures.md)
   * [AI Disinformation / Misinformation](resources/further-reading-and-references/ai-disinformation-misinformation.md)
 * [Downloads](resources/downloads/README.md)
   * [Vital Intelligence Model: Zine](resources/downloads/vital-intelligence-zine.md)

@@ -1,12 +1,21 @@
----
-description: 'Gemini Chat: Abusive people'
----
+# Trauma, Anxiety, Dysfunctional Relationships
 
-# Trauma, Abusive Relationships
+### Anxiety: Data, Medications
 
-### Gemini Prompt: please explain the phenomena associated with abusive people being blind to the fact that they are abusive....from politicians to children
+Anxiety is the [most common](https://ourworldindata.org/grapher/mental-illnesses-prevalence) mental health condition globally. It’s estimated that [4% to 5%](https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders) of people in the world have an anxiety disorder at any given time.
 
-### 🧠 Psychological & Neuroscientific Explanation
+Long-term surveys in the United States suggest that around [one-third of people](https://www.nimh.nih.gov/health/statistics/any-anxiety-disorder) experience an anxiety disorder at some point in their lives.[<sup>1</sup>](https://ourworldindata.org/timeline-anxiety-medications?utm_source=OWID+Newsletter\&utm_campaign=b89ec79386-owid-brief-2025-11-14\&utm_medium=email\&utm_term=0_-0c7f305164-599450460#note-1)
+
+There is often poor data on the prevalence of mental health conditions, especially in lower-income countries. Even in rich countries, these figures might be an undercount due to the stigma that many feel in admitting they struggle with mental health.
+
+That means most of us will either struggle with anxiety ourselves or know someone close who has or will. This is also true for the two of us, and seeing how big an impact it can have on people’s everyday lives, we know that having effective treatments that alleviate or at least reduce symptoms can be life-changing.
+
+In this article, we examine the history of pharmacological treatments — specifically, drugs — used to treat anxiety since the 1950s. These have changed a lot in the five decades until the early 2000s, but there have been no new anxiety medications approved since 2004.[<sup>2</sup>](https://ourworldindata.org/timeline-anxiety-medications?utm_source=OWID+Newsletter\&utm_campaign=b89ec79386-owid-brief-2025-11-14\&utm_medium=email\&utm_term=0_-0c7f305164-599450460#note-2)\
+[https://ourworldindata.org/timeline-anxiety-medications?](https://ourworldindata.org/timeline-anxiety-medications?)
+
+#### Gemini Prompt: please explain the phenomena associated with abusive people being blind to the fact that they are abusive....from politicians to children
+
+#### 🧠 Psychological & Neuroscientific Explanation
 
 **The blindness to their own abuse is not typically a simple lack of information, but an active, often unconscious, process of self-deception that protects their ego and self-image.**
 
