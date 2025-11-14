@@ -2,8 +2,14 @@
 
 Articles
 
-### International Collaboration: Defense vs Climate Spending
+#### International Collaboration: Defense vs Climate Spending
 
 “The more we defund \[aid to and cooperation with developing countries], the more we lose the ability to act,” he said. “There is a loss of control, because you no longer can cooperate with countries that you depend on to solve these problems \[such as the climate]. You are curtailing your own ability to create a more resilient national economy, in this world of interconnectedness.”
 
 The climate crisis will potentially spiral out of control unless countries recognise their international obligations, he warned. “The greatest risk is not necessarily the territorial threat of a neighbouring country’s army, though that will always remain a potential risk,” he said. “It is cyberterrorism; the next pandemic for which we are not prepared; and most certainly the domino effect of runaway climate change.”  [https://www.theguardian.com/environment/2025/sep/06/higher-defence-spending-pointless-without-climate-aid-says-un-chief](https://www.theguardian.com/environment/2025/sep/06/higher-defence-spending-pointless-without-climate-aid-says-un-chief)
+
+#### Grass Roots Efforts - Climate Crisis:
+
+Across the Gulf south, communities are demanding accountability. In St James Parish, [Sharon Lavigne](https://www.theguardian.com/us-news/2024/jan/22/plastics-plant-louisianas-cancer-alley-air-permits) has also spent years fighting Formosa’s $9.4bn complex in what’s known as Louisiana’s Cancer Alley. In Port Arthur and Corpus Christi, organizers are [fighting new gas export terminals](https://www.theguardian.com/us-news/2025/oct/29/liquefied-natural-gas-terminal-pollution-limits). These aren’t isolated nimby fights; they’re part of a regional reckoning with a century of extraction. As record heat and hurricanes grow deadlier, Exxon still defends oil and petrochemical projects as “[accelerating a just transition](https://corporate.exxonmobil.com/-/media/global/files/sustainability-report/2024/sustainability-report.pdf)”, a phrase that borders on self-parody.
+
+Wilson’s small-town lawsuit shouldn’t matter in Exxon’s [$500bn](https://companiesmarketcap.com/exxon-mobil/marketcap/) universe – but it does. It reminds us that grassroots power still works, even in refinery country. “Eventually I lost my husband, the house, the boat,” she told me due to her activism. “But you can lose it all and gain your soul.” When a community like Seadrift demands transparency, it widens the space for others to question why their towns should subsidize pollution in the name of development. [https://www.theguardian.com/commentisfree/2025/nov/14/texas-shrimper-exxon-plastics](https://www.theguardian.com/commentisfree/2025/nov/14/texas-shrimper-exxon-plastics)
