@@ -28,8 +28,9 @@
 * [NsK Overview](foundations/nsk-overview.md)
 * [Complexity Science and Modeling](foundations/complexity-science-and-modeling.md)
 * [Self-Organized Criticality (SOC)](foundations/soc-basics/README.md)
-  * [Pink Noise & Dark Matter](foundations/soc-basics/pink-noise.md)
+  * [Pink Noise & Fractal Dynamics](foundations/soc-basics/pink-noise.md)
   * [Pink Noise GenAI Explorations](foundations/soc-basics/pink-noise-genai-explorations.md)
+* [Consiousness Theories](foundations/consiousness-theories.md)
 
 ***
 
@@ -87,8 +88,10 @@
 
 ## Resources
 
-* [Further Reading & References](resources/further-reading-and-references.md)
-* [Trauma, Abusive Relationships](resources/trauma-abusive-relationships.md)
+* [Further Reading & References](resources/further-reading-and-references/README.md)
+  * [Climate Crisis and Complexity](resources/further-reading-and-references/climate-crisis-and-complexity.md)
+  * [Trauma, Abusive Relationships](resources/further-reading-and-references/trauma-abusive-relationships.md)
+  * [AI Disinformation / Misinformation](resources/further-reading-and-references/ai-disinformation-misinformation.md)
 * [Downloads](resources/downloads/README.md)
   * [Vital Intelligence Model: Zine](resources/downloads/vital-intelligence-zine.md)
 * [Tools & Benchmarks](resources/tools-and-benchmarks.md)

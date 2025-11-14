@@ -16,6 +16,7 @@
 * Qualia Towards Computational Simulations of Cessation: [https://qri.org/blog/cessation-simulations](https://qri.org/blog/cessation-simulations)
 * [Symmetry Theory of Valence](https://qualiacomputing.com/2020/12/17/the-symmetry-theory-of-valence-2020-presentation/)
 * Wireheading Done Right: [https://qualiacomputing.com/2016/08/20/wireheading\_done\_right/](https://qualiacomputing.com/2016/08/20/wireheading_done_right/)
+* [Healing Trauma with Neural Annealing](https://qualiacomputing.com/2021/05/08/healing-trauma-with-neural-annealing/)
 
 **Trauma-Informed Systems**
 
@@ -67,4 +68,4 @@
 
 
 
-{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

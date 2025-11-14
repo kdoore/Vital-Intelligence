@@ -60,3 +60,23 @@ Here are highly-recommended, free, and confidential national resources for suppo
 #### 🚨 Remember: If you are in immediate danger, please call 911.
 
 Please be aware of your digital safety when looking up or contacting resources. If you are concerned that your computer or phone use is being monitored, it is best to use a safe device (like a public library computer, a friend's phone, or a work computer) or call a hotline directly.
+
+### **Articles and Resources**
+
+[https://www.theguardian.com/world/2025/nov/13/mexico-sexual-abuse-president-groped](https://www.theguardian.com/world/2025/nov/13/mexico-sexual-abuse-president-groped)\
+&#xNAN;_“There’s a theory that if we include it in the penal code and increase the penalties, making it a harsher punishment, meaning more years in prison, then it will prevent people from doing it,” she said. “That’s the theory, but there’s no evidence to support it. It hasn’t been proven that this is a realistic, or long-term measure.”_
+
+_Rather, the activists said, the government should be focused on educational campaigns to bring about a societal shift where this kind of abuse is no longer viewed as acceptable._
+
+_“There has to be cultural change in masculinity,” said López. “What are we doing so that men have a masculinity that isn’t toxic, that isn’t violent, that isn’t invasive – so that they’re not abusive?”_
+
+[_https://www.theguardian.com/world/2025/nov/12/female-politicians-such-as-mexicos-claudia-sheinbaum-face-backlash-driven-by-discrimination_](https://www.theguardian.com/world/2025/nov/12/female-politicians-such-as-mexicos-claudia-sheinbaum-face-backlash-driven-by-discrimination)\
+_“It’s definitely part of a pattern,” said Zeina Hilal, of the Inter-Parliamentary Union, the global organisation of national parliaments. “It’s really an illustration of what women in politics are facing.”_
+
+_In 2016, the organisation_ [_surveyed_](http://archive.ipu.org/pdf/publications/issuesbrief-e.pdf) _55 female politicians from 39 countries about their experiences of sexism, harassment and violence._
+
+[_The Guardian view on the assault of Mexico’s Claudia Sheinbaum: when a president is groped, no woman can feel safeRead more_](https://www.theguardian.com/commentisfree/2025/nov/09/the-guardian-view-on-the-assault-of-mexicos-claudia-sheinbaum-when-a-president-is-groped-no-woman-can-feel-safe)
+
+[_What they found_](http://archive.ipu.org/press-e/pressrelease201610261.htm#gsc.tab=0) _was alarming; 82% reported experiencing psychological violence, a category that included sexist remarks as well as persistent and intimidating behaviour, while 44% reported receiving death threats or threats of rape or beatings._\
+\
+_“Threats or physical aggression, persistent undermining, sexualised harassment or efforts to delegitimise a woman’s authority – all these reinforce patriarchal boundaries,” she said._
