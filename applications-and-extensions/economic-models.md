@@ -70,3 +70,4 @@ By combining VIM’s four domains with Doughnut Economics’ grassroots framing,
 * J. Sterman, “System Dynamics: Systems Thinking and Modeling for a Complex World,” Massachusetts Institute of Technology. Engineering Systems Division, Working Paper, May 2002. Accessed: Nov. 15, 2025. \[Online]. Available: [https://dspace.mit.edu/handle/1721.1/102741](https://dspace.mit.edu/handle/1721.1/102741)
 * Fishwick, P. A. (2007). “Modeling, Simulation, and Graphics for Economics Education.” _Simulation & Gaming_, 38(4), 432–449.
 * Wilensky, U., & Rand, W. (2015). _An Introduction to Agent‑Based Modeling: Modeling Natural, Social, and Engineered Complex Systems with NetLogo_.
+* K. Doore and P. Fishwick, “Prototyping an analog computing representation of predator prey dynamics,” in _Proceedings of the Winter Simulation Conference 2014_, Dec. 2014, pp. 3561–3571a. doi:[10.1109/WSC.2014.7020186](https://doi.org/10.1109/WSC.2014.7020186).
