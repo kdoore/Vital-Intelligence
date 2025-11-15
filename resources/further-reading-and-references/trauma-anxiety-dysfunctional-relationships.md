@@ -13,6 +13,10 @@ That means most of us will either struggle with anxiety ourselves or know someon
 In this article, we examine the history of pharmacological treatments — specifically, drugs — used to treat anxiety since the 1950s. These have changed a lot in the five decades until the early 2000s, but there have been no new anxiety medications approved since 2004.[<sup>2</sup>](https://ourworldindata.org/timeline-anxiety-medications?utm_source=OWID+Newsletter\&utm_campaign=b89ec79386-owid-brief-2025-11-14\&utm_medium=email\&utm_term=0_-0c7f305164-599450460#note-2)\
 [https://ourworldindata.org/timeline-anxiety-medications?](https://ourworldindata.org/timeline-anxiety-medications?)
 
+#### The Art of Physics applied to Work-Life Balance
+
+{% embed url="https://www.theguardian.com/commentisfree/2025/nov/15/burned-out-physics-helped-understand-hard-work-success-science" %}
+
 ### Research: Wealth Reduces Compassion, Perspectives
 
 {% embed url="https://www.scientificamerican.com/article/how-wealth-reduces-compassion/" %}
