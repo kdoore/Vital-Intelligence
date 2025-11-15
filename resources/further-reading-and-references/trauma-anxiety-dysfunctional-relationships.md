@@ -1,5 +1,11 @@
 # Trauma, Anxiety, Dysfunctional Relationships
 
+### Mental Illness: NIH Website: 2022 Data
+
+Mental illnesses are common in the United States and around the world. It is estimated that more than one in five U.S. adults live with a mental illness (59.3 million in 2022; 23.1% of the U.S. adult population). Mental illnesses include many different conditions that vary in degree of severity, ranging from mild to moderate to severe. Two broad categories can be used to describe these conditions: Any Mental Illness (AMI) and Serious Mental Illness (SMI). AMI encompasses all recognized mental illnesses. SMI is a smaller and more severe subset of AMI. Additional information on mental illnesses can be found on the [NIMH Health Topics Pages](https://www.nimh.nih.gov/health/topics).
+
+{% embed url="https://www.nimh.nih.gov/health/statistics/mental-illness" %}
+
 ### Anxiety: Work - Life Balance: Data 2025:&#x20;
 
 And in a warning sign of a breakdown in trust between employers and younger workers, the proportion of 18-24-year-olds who would feel comfortable opening up to a line manager about pressure and stress dropped sharply from 75% in the Burnout Report 2024 to 56% in the past year.
@@ -31,6 +37,31 @@ In this article, we examine the history of pharmacological treatments — specif
 {% embed url="https://www.scientificamerican.com/article/how-wealth-reduces-compassion/" %}
 
 {% embed url="https://www.nature.com/articles/s41598-025-01493-2" %}
+
+### Coercive Control
+
+{% embed url="https://www.theguardian.com/society/2020/jun/07/coercive-control-sally-challen-domestic-abuse-bill" %}
+
+{% embed url="https://www.theguardian.com/society/2021/feb/21/jane-monckton-smith-in-control-domestic-abuse-murder-public-protection" %}
+
+But we know we’ve got an adversarial system so we need to be able to circumvent some of the problems it raises. If lawyers and judges had more knowledge about how domestic abuse works that would then become part of the adversarial arguments. I also think courts need to recognise the power dynamic.\
+\
+In this book, she argues that people rarely murder their partners or ex-partners on a whim. Rather, almost invariably, the killing is the culmination of a clearly defined eight-stage timeline. They know what they are doing. Forceful and manipulative, ending their partner/ex-partner’s life, and convincing others they were justified in doing so (often in a court of law), is the ultimate demonstration of their power.\
+By breaking down the domestic homicide timeline into these eight distinct phases, Monckton-Smith has shown us what to look out for in controlling and coercive relationships and, just as importantly, what to target to arrest the progression, to save a life.\
+[https://pmc.ncbi.nlm.nih.gov/articles/PMC10544534/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10544534/)\
+\
+&#xNAN;_&#x54;HE EIGHT-STAGE KILLING TIMELINE_
+
+1. _‘A history of control or stalking’; not necessarily a criminal history, but a mindset, a tendency to dominate earlier partners._
+2. _‘The commitment whirlwind’; everything from the first meeting moves at an unhealthy, breakneck pace._
+3. _‘Living with control’; because their partner aims to control everything about them, the victim adapts their behaviours._
+4. _‘Trigger’; something (for example, a potential split, pregnancy, or illness) threatens to break the circuit of control._
+5. _’Escalation’; the controlling behaviour intensifies._
+6. _‘A change in thinking’; something switches, the coercion may appear to lessen, or the perpetrator changes tack._
+7. _‘Planning’ (such as preparing a ‘murder kit’)._
+8. _‘Homicide and/or suicide’; either murder or, because of prolonged and relentless coercion and control, the victim commits suicide._
+
+
 
 #### Gemini Prompt: please explain the phenomena associated with abusive people being blind to the fact that they are abusive....from politicians to children
 
