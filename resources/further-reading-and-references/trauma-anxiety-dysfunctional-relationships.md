@@ -1,6 +1,19 @@
 # Trauma, Anxiety, Dysfunctional Relationships
 
-### Anxiety: Data, Medications
+### Anxiety: Work - Life Balance: Data 2025:&#x20;
+
+And in a warning sign of a breakdown in trust between employers and younger workers, the proportion of 18-24-year-olds who would feel comfortable opening up to a line manager about pressure and stress dropped sharply from 75% in the Burnout Report 2024 to 56% in the past year.
+
+> _“**We’re calling on employers to reconsider the approach to mental health and explore reasonable adjustments and workplace wellbeing initiatives in collaboration with their young employees. Otherwise, they risk losing out on the newest generation of workers as they either seek employment elsewhere or disengage.** Unfortunately, many organisations still offer 20th century mental health support for a 21st century workforce. Companies understandably have their bottom lines to bear in mind, but **improved mental health support will benefit all workers and boost productivity, and should be seen as a win-win.”**_ \
+> Brian Dow, Chief Executive of Mental Health UK
+
+[https://mentalhealth-uk.org/blog/burnout-report-2025-reveals-generational-divide-in-levels-of-stress-and-work-absence/](https://mentalhealth-uk.org/blog/burnout-report-2025-reveals-generational-divide-in-levels-of-stress-and-work-absence/)
+
+#### The Art of Physics applied to Work-Life Balance
+
+{% embed url="https://www.theguardian.com/commentisfree/2025/nov/15/burned-out-physics-helped-understand-hard-work-success-science" %}
+
+### Anxiety: Data, Medications ( Data from 2021)
 
 Anxiety is the [most common](https://ourworldindata.org/grapher/mental-illnesses-prevalence) mental health condition globally. It’s estimated that [4% to 5%](https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders) of people in the world have an anxiety disorder at any given time.
 
@@ -12,10 +25,6 @@ That means most of us will either struggle with anxiety ourselves or know someon
 
 In this article, we examine the history of pharmacological treatments — specifically, drugs — used to treat anxiety since the 1950s. These have changed a lot in the five decades until the early 2000s, but there have been no new anxiety medications approved since 2004.[<sup>2</sup>](https://ourworldindata.org/timeline-anxiety-medications?utm_source=OWID+Newsletter\&utm_campaign=b89ec79386-owid-brief-2025-11-14\&utm_medium=email\&utm_term=0_-0c7f305164-599450460#note-2)\
 [https://ourworldindata.org/timeline-anxiety-medications?](https://ourworldindata.org/timeline-anxiety-medications?)
-
-#### The Art of Physics applied to Work-Life Balance
-
-{% embed url="https://www.theguardian.com/commentisfree/2025/nov/15/burned-out-physics-helped-understand-hard-work-success-science" %}
 
 ### Research: Wealth Reduces Compassion, Perspectives
 

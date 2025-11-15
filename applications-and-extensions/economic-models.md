@@ -8,8 +8,8 @@ description: >-
 
 ### 1. Origins & Interactive Explorations
 
-* **Predator–Prey Virtual Analog:** Your early web app used coupled differential equations to illustrate resource–consumer cycles, sparking insights into feedback loops and oscillatory dynamics.
-  * _Link:_ Predator–Prey Simulator
+* **Predator–Prey Virtual Analog:** an interactive web app used coupled differential equations to illustrate resource–consumer cycles, sparking insights into feedback loops and oscillatory dynamics.
+  * [_Link:_ Predator–Prey Simulator](http://visuals.kdoore.com/)
 * **Key Insight:** Simple, interactive visual models can turn abstract equations into embodied learning experiences, revealing non‑linear behaviors and stability boundaries.
 
 ***
@@ -67,5 +67,6 @@ By combining VIM’s four domains with Doughnut Economics’ grassroots framing,
 * Meadows, D. H., Meadows, D. L., & Randers, J. (1972). _The Limits to Growth_.
 * Raworth, K. (2017). _Doughnut Economics: Seven Ways to Think Like a 21st‑Century Economist_.
 * Sterman, J. D. (2000). _Business Dynamics: Systems Thinking and Modeling for a Complex World_.
+* J. Sterman, “System Dynamics: Systems Thinking and Modeling for a Complex World,” Massachusetts Institute of Technology. Engineering Systems Division, Working Paper, May 2002. Accessed: Nov. 15, 2025. \[Online]. Available: [https://dspace.mit.edu/handle/1721.1/102741](https://dspace.mit.edu/handle/1721.1/102741)
 * Fishwick, P. A. (2007). “Modeling, Simulation, and Graphics for Economics Education.” _Simulation & Gaming_, 38(4), 432–449.
 * Wilensky, U., & Rand, W. (2015). _An Introduction to Agent‑Based Modeling: Modeling Natural, Social, and Engineered Complex Systems with NetLogo_.
