@@ -1,3 +1,7 @@
+---
+description: Thermodynamic Metaphors for Healing through Contemplative Arts Practices
+---
+
 # Avalanche of Kindness
 
 ## The Science and Metaphysics of the Avalanche of Kindness
@@ -280,3 +284,7 @@ This context reframes the Avalanche of Kindness not only as a scientific hypothe
 4. Porges, S. (2011). _The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation._
 5. Jung, C.G. (1959). _Aion: Researches into the Phenomenology of the Self._
 6. \[Gemini Dialogue on Pink Noise and Recursive Healing, 2025. Vital Intelligence GitBook.]
+
+
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
