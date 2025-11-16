@@ -1,0 +1,66 @@
+<svg width="400" height="300" viewBox="0 0 400 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="400" height="300" fill="#07131b" />
+
+  <!-- OUTER TEAL HOLON: dashed = porous boundary -->
+  <circle cx="200" cy="150" r="115"
+          fill="none"
+          stroke="#245a7a"
+          stroke-width="6"
+          stroke-opacity="0.95"
+          stroke-dasharray="40 18" />
+
+  <!-- MIDDLE VIOLET HOLON: also porous -->
+  <circle cx="200" cy="150" r="80"
+          fill="none"
+          stroke="#6f4aa8"
+          stroke-width="5"
+          stroke-opacity="0.95"
+          stroke-dasharray="26 14" />
+
+  <!-- INNER GOLD HOLON: core of care / awareness -->
+  <circle cx="200" cy="150" r="30"
+          fill="none"
+          stroke="#ffdf8a"
+          stroke-width="4"
+          stroke-opacity="0.95" />
+
+  <!-- GOLD SEED at the center -->
+  <circle cx="200" cy="150" r="10" fill="#ffdf8a" />
+  <circle cx="200" cy="150" r="4"  fill="#fff6d8" />
+
+  <!-- GOLD FLOW DOTS just inside the outer boundary -->
+  <circle cx="265" cy="115" r="4" fill="#ffdf8a" />
+  <circle cx="130" cy="185" r="4" fill="#ffdf8a" />
+
+  <!-- GOLD FLOW DOTS just outside the outer boundary -->
+  <circle cx="295" cy="95" r="4" fill="#ffdf8a" />
+  <circle cx="105" cy="205" r="4" fill="#ffdf8a" />
+
+  <!-- BREATHING FLOW: gold curve crossing boundary (right side) -->
+  <path d="M 250 120
+           C 275 105, 290 95, 305 90"
+        fill="none"
+        stroke="#ffdf8a"
+        stroke-width="3"
+        stroke-linecap="round"
+        stroke-opacity="0.9" />
+  <!-- Arrowhead for outward flow -->
+  <polygon points="305,90 298,86 300,94"
+           fill="#ffdf8a" />
+
+  <!-- BREATHING FLOW: gold curve crossing boundary (left side, inward) -->
+  <path d="M 90 210
+           C 110 200, 125 192, 140 185"
+        fill="none"
+        stroke="#ffdf8a"
+        stroke-width="3"
+        stroke-linecap="round"
+        stroke-opacity="0.9" />
+  <!-- Arrowhead for inward flow -->
+  <polygon points="140,185 133,181 135,189"
+           fill="#ffdf8a" />
+
+</svg>

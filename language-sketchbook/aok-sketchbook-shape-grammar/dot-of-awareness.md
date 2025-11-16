@@ -183,6 +183,6 @@ This minimal diagram shows:
 * the **kindness line** bending through the system,
 * the **teal and violet** circles representing structure + integration fields.
 
-<figure><img src="../.gitbook/assets/kindline.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kindline.svg" alt=""><figcaption></figcaption></figure>
 
-{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

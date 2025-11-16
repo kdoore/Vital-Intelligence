@@ -1,0 +1,42 @@
+<svg width="400" height="300" viewBox="0 0 400 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="0" y="0" width="400" height="300" fill="#07131b" />
+
+  <!-- Holarchy field -->
+  <circle cx="200" cy="150" r="110"
+          fill="none"
+          stroke="#245a7a"
+          stroke-width="6"
+          stroke-opacity="0.9" />
+
+  <!-- Integration field -->
+  <circle cx="200" cy="150" r="75"
+          fill="none"
+          stroke="#6f4aa8"
+          stroke-width="5"
+          stroke-opacity="0.9" />
+
+  <!-- Hope arc (gold, upward) -->
+  <path d="M 110 180
+           C 150 120, 250 120, 290 180"
+        fill="none"
+        stroke="#ffdf8a"
+        stroke-width="4"
+        stroke-linecap="round"
+        stroke-opacity="0.95" />
+
+  <!-- Relief arc (violet, downward) -->
+  <path d="M 110 120
+           C 150 180, 250 180, 290 120"
+        fill="none"
+        stroke="#6f4aa8"
+        stroke-width="4"
+        stroke-linecap="round"
+        stroke-opacity="0.95" />
+
+  <!-- Integration seed in the center -->
+  <circle cx="200" cy="150" r="7" fill="#ffdf8a" />
+  <circle cx="200" cy="150" r="3" fill="#fff6d8" />
+
+</svg>

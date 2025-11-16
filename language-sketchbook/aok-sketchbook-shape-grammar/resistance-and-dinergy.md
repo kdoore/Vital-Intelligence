@@ -210,6 +210,6 @@ This diagram shows:
 * and a **violet segment** as the line bends around it—\
   the moment dinergy appears.
 
-<figure><img src="../.gitbook/assets/dinergy.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dinergy.svg" alt=""><figcaption></figcaption></figure>
 
-{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

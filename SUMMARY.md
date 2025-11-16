@@ -19,9 +19,13 @@
 
 ## Language \~ Sketchbook
 
-* [AoK Sketchbook: Shape Grammar](language-sketchbook/aok-sketchbook-shape-grammar.md)
-* [Dot of Awareness](language-sketchbook/dot-of-awareness.md)
-* [Resistance & Dinergy](language-sketchbook/resistance-and-dinergy.md)
+* [Avalanche of Kindness Handbook](language-sketchbook/avalanche-of-kindness-handbook.md)
+* [AoK Sketchbook: Shape Grammar](language-sketchbook/aok-sketchbook-shape-grammar/README.md)
+  * [Dot of Awareness](language-sketchbook/aok-sketchbook-shape-grammar/dot-of-awareness.md)
+  * [Resistance & Dinergy](language-sketchbook/aok-sketchbook-shape-grammar/resistance-and-dinergy.md)
+  * [Emotional Trajectories](language-sketchbook/aok-sketchbook-shape-grammar/emotional-trajectories.md)
+  * [Circles that Breathe: Holarchy](language-sketchbook/aok-sketchbook-shape-grammar/circles-that-breathe-holarchy.md)
+  * [Branching: Emergent Growth](language-sketchbook/aok-sketchbook-shape-grammar/branching-emergent-growth.md)
 
 ## Domains
 

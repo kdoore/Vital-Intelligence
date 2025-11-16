@@ -1,0 +1,90 @@
+<svg width="400" height="320" viewBox="0 0 400 320"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="400" height="320" fill="#07131b" />
+
+  <!-- Outer teal holon -->
+  <circle cx="200" cy="160" r="115"
+          fill="none"
+          stroke="#245a7a"
+          stroke-width="6"
+          stroke-opacity="0.9" />
+
+  <!-- Middle violet holon -->
+  <circle cx="200" cy="160" r="80"
+          fill="none"
+          stroke="#6f4aa8"
+          stroke-width="5"
+          stroke-opacity="0.9" />
+
+  <!-- Inner gold circle -->
+  <circle cx="200" cy="160" r="28"
+          fill="none"
+          stroke="#ffdf8a"
+          stroke-width="4"
+          stroke-opacity="0.9" />
+
+  <!-- Gold seed -->
+  <circle cx="200" cy="160" r="10" fill="#ffdf8a" />
+  <circle cx="200" cy="160" r="4"  fill="#fff6d8" />
+
+  <!-- Branches -->
+  <!-- Upper-right branch -->
+  <path d="M 200 160
+           C 230 130, 260 115, 290 105"
+        fill="none"
+        stroke="#ffdf8a"
+        stroke-width="4"
+        stroke-linecap="round" />
+  <!-- Sub-branch -->
+  <path d="M 260 115
+           C 280 95, 305 85, 325 85"
+        fill="none"
+        stroke="#ffdf8a"
+        stroke-width="3"
+        stroke-linecap="round" />
+
+  <!-- Upper-left branch -->
+  <path d="M 200 160
+           C 170 130, 140 120, 110 110"
+        fill="none"
+        stroke="#ffdf8a"
+        stroke-width="4"
+        stroke-linecap="round" />
+  <path d="M 140 120
+           C 120 105, 100 100, 80 98"
+        fill="none"
+        stroke="#ffdf8a"
+        stroke-width="3"
+        stroke-linecap="round" />
+
+  <!-- Lower-right branch -->
+  <path d="M 200 160
+           C 230 185, 260 205, 290 220"
+        fill="none"
+        stroke="#ffdf8a"
+        stroke-width="4"
+        stroke-linecap="round" />
+  <path d="M 260 205
+           C 285 225, 310 240, 330 245"
+        fill="none"
+        stroke="#ffdf8a"
+        stroke-width="3"
+        stroke-linecap="round" />
+
+  <!-- Lower-left branch -->
+  <path d="M 200 160
+           C 170 185, 140 200, 110 205"
+        fill="none"
+        stroke="#ffdf8a"
+        stroke-width="4"
+        stroke-linecap="round" />
+  <path d="M 140 200
+           C 120 215, 95 223, 70 225"
+        fill="none"
+        stroke="#ffdf8a"
+        stroke-width="3"
+        stroke-linecap="round" />
+
+</svg>

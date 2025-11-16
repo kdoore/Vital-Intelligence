@@ -163,8 +163,8 @@ This AoK Sketchbook marks the beginning of a growing ecosystem dedicated to help
 
 ### **Poster Illustrating AoK Shape Grammar Primitives**&#x20;
 
-<figure><img src="../.gitbook/assets/KindGrammar.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KindGrammar.svg" alt=""><figcaption></figcaption></figure>
 
 ***
 
-{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}
