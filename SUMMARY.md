@@ -17,6 +17,10 @@
 * [Alignment Matrix](model/alignment-matrix.md)
 * [Regenerative Cycle](model/regenerative-cycle.md)
 
+## Language \~ Sketchbook
+
+* [AoK Sketchbook: Shape Grammar](language-sketchbook/aok-sketchbook-shape-grammar.md)
+
 ## Domains
 
 * [Embodied Interaction](domains/embodied-interaction.md)
