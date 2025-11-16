@@ -2,7 +2,8 @@
 
 ## Introduction
 
-* [Vital Intelligence Model:](README.md)
+* [Humanity++: Visions for Evolutionary Transformations](README.md)
+* [Vital Intelligence Model:](<README (1).md>)
 * [Avalanche of Kindness](introduction/avalanche-of-kindness.md)
 
 ## Model
