@@ -20,6 +20,8 @@
 ## Language \~ Sketchbook
 
 * [AoK Sketchbook: Shape Grammar](language-sketchbook/aok-sketchbook-shape-grammar.md)
+* [Dot of Awareness](language-sketchbook/dot-of-awareness.md)
+* [Resistance & Dinergy](language-sketchbook/resistance-and-dinergy.md)
 
 ## Domains
 
