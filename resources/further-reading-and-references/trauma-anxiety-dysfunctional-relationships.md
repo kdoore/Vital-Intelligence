@@ -15,9 +15,13 @@ And in a warning sign of a breakdown in trust between employers and younger work
 
 [https://mentalhealth-uk.org/blog/burnout-report-2025-reveals-generational-divide-in-levels-of-stress-and-work-absence/](https://mentalhealth-uk.org/blog/burnout-report-2025-reveals-generational-divide-in-levels-of-stress-and-work-absence/)
 
-#### The Art of Physics applied to Work-Life Balance
+#### Thermodynamics of Work-Life Balance and Cultural Expectations
 
 {% embed url="https://www.theguardian.com/commentisfree/2025/nov/15/burned-out-physics-helped-understand-hard-work-success-science" %}
+
+{% embed url="https://www.theguardian.com/books/2025/nov/16/is-there-a-dark-side-to-gratitude" %}
+
+###
 
 ### Anxiety: Data, Medications ( Data from 2021)
 
