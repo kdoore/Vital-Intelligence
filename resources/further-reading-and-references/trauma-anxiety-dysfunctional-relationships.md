@@ -21,7 +21,11 @@ And in a warning sign of a breakdown in trust between employers and younger work
 
 {% embed url="https://www.theguardian.com/books/2025/nov/16/is-there-a-dark-side-to-gratitude" %}
 
-###
+### The Dynamics of Cults
+
+{% embed url="https://www.theguardian.com/science/2025/nov/19/how-to-leave-a-cult-experts-intervention" %}
+
+
 
 ### Anxiety: Data, Medications ( Data from 2021)
 

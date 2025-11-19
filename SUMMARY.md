@@ -36,7 +36,9 @@
 
 ## Foundations
 
-* [AI Education](foundations/ai-education.md)
+* [AI Education](foundations/ai-education/README.md)
+  * [AI and Global Knowledge Collapse](foundations/ai-education/ai-and-global-knowledge-collapse.md)
+  * [AI - Global Perspectives](foundations/ai-education/ai-global-perspectives.md)
 * [NsK Overview](foundations/nsk-overview.md)
 * [Complexity Science and Modeling](foundations/complexity-science-and-modeling.md)
 * [Self-Organized Criticality (SOC)](foundations/soc-basics/README.md)
@@ -102,8 +104,9 @@
 
 * [Further Reading & References](resources/further-reading-and-references/README.md)
   * [Climate Crisis and Complexity](resources/further-reading-and-references/climate-crisis-and-complexity.md)
+  * [Technology Infrastructure](resources/further-reading-and-references/technology-infrastructure.md)
   * [Trauma, Anxiety, Dysfunctional Relationships](resources/further-reading-and-references/trauma-anxiety-dysfunctional-relationships.md)
-  * [Dysfunctional Academic Organizational Structures](resources/further-reading-and-references/dysfunctional-academic-organizational-structures.md)
+  * [Dysfunctional Organizational Structures](resources/further-reading-and-references/dysfunctional-organizational-structures.md)
   * [AI Disinformation / Misinformation](resources/further-reading-and-references/ai-disinformation-misinformation.md)
 * [Downloads](resources/downloads/README.md)
   * [Vital Intelligence Model: Zine](resources/downloads/vital-intelligence-zine.md)

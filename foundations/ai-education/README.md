@@ -33,13 +33,13 @@ AI education should be an **ongoing journey** throughout one's life, from early 
 
 ### 3. **Integration with the Art of Kindness Case Study**
 
-The [**Art of Kindness**](../applications-and-extensions/case-studies/the-art-of-kindness.md) contest serves as a prime example of how **AI education** can integrate **empathy**, **creativity**, and **neuroscience**. This collaborative effort between **UT Dallas Center for Brain Health**, **ATEC**, and **Computer Science faculty** highlights the importance of teaching students not just technical skills but also the humanity behind technology. Through this project, students develop **computational, creative, technical literacy** and **emotional intelligence**, ensuring they are prepared to create and interact with AI technologies in ways that are compassionate, inclusive, and human-centered.
+The [**Art of Kindness**](../../applications-and-extensions/case-studies/the-art-of-kindness.md) contest serves as a prime example of how **AI education** can integrate **empathy**, **creativity**, and **neuroscience**. This collaborative effort between **UT Dallas Center for Brain Health**, **ATEC**, and **Computer Science faculty** highlights the importance of teaching students not just technical skills but also the humanity behind technology. Through this project, students develop **computational, creative, technical literacy** and **emotional intelligence**, ensuring they are prepared to create and interact with AI technologies in ways that are compassionate, inclusive, and human-centered.
 
 ***
 
 ### 4. **The Interactive Compass Tool as an AI Education Model**
 
-The interactive [NsK **compass tool**](../applications-and-extensions/case-studies/the-art-of-kindness.md#nsk-compass-tool) in the Art of Kindness curriculum can also be a **model for interactive AI tools**. It invites students to engage with creativity in a structured way, paralleling how AI systems might guide human creativity by allowing for dynamic, personalized interactions. AI could help students explore diverse perspectives when learning about AI ethics, creativity, and human-centered design.  In the VIM framework, we will use metaphors like compass to express ideas complex ideas like fuzzy logic and randomness.
+The interactive [NsK **compass tool**](../../applications-and-extensions/case-studies/the-art-of-kindness.md#nsk-compass-tool) in the Art of Kindness curriculum can also be a **model for interactive AI tools**. It invites students to engage with creativity in a structured way, paralleling how AI systems might guide human creativity by allowing for dynamic, personalized interactions. AI could help students explore diverse perspectives when learning about AI ethics, creativity, and human-centered design. In the VIM framework, we will use metaphors like compass to express ideas complex ideas like fuzzy logic and randomness.
 
 ***
 
@@ -58,4 +58,3 @@ Looking ahead, the future of AI education is about more than just mastering new 
 ### **Resources & Further Reading**
 
 * [White House AI Education Policy Statement](https://www.whitehouse.gov/presidential-actions/2025/04/advancing-artificial-intelligence-education-for-american-youth/)
-

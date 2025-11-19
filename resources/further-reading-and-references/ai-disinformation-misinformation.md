@@ -1,6 +1,8 @@
 # AI Disinformation / Misinformation
 
+### AI and Missing or Biased Information
 
+{% embed url="https://www.theguardian.com/news/2025/nov/18/what-ai-doesnt-know-global-knowledge-collapse" %}
 
 ### AI in Politics
 
