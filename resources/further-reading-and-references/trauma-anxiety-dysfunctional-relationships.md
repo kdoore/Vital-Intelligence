@@ -25,7 +25,12 @@ And in a warning sign of a breakdown in trust between employers and younger work
 
 {% embed url="https://www.theguardian.com/science/2025/nov/19/how-to-leave-a-cult-experts-intervention" %}
 
-
+> Kelly and Ryan are not looking to convince people of any particular version of reality or truth. They do not seem to be interested in truth at all, really. **When you use your experience to test whether or not something is true (the holiness of a guru, the righteousness of a cause) then, Ryan told me: “The person who gives you that experience will own you.” Their work is to usher people into a state of skepticism about the conclusion they have drawn from their experiences; beginning to open them up to the idea that individual experience is not the same as truth or reality.**\
+> They neither fully endorse cults’ rights to exist, nor consider groups as bad per se. They arrive from as ideologically empty a place as they can, a skeptical place that is neither here, nor there. Doing work like this, the big question of epistemology, of what we can know and what to believe, become everyday practical quandaries.
+>
+> “I just know what is not real,” Ryan told me once. Take even the broadest existential question: what are we doing here?
+>
+> “The only way that can be answered, in my mind, is by a feeling,” he said. “And, that feeling is so easily manipulated.”
 
 ### Anxiety: Data, Medications ( Data from 2021)
 
