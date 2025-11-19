@@ -44,6 +44,9 @@
 [Sweden - Reversing Media Exposure Patterns for Children](https://www.afterbabel.com/p/sweden-went-all-in-on-screens-in?utm_campaign=email-half-post\&r=jxjez\&utm_source=substack\&utm_medium=email)&#x20;
 
 [Smartphone-free Childhood](https://www.smartphonefreechildhood.org/)\
+\
+Safer.IO:  Tools to detect CSAM by  Thorn: [https://safer.io/solutions/](https://safer.io/solutions/?utm_source=platformer\&utm_medium=email\&utm_campaign=safer_leadgen#cse-text)
+
 
 
 ### **Opinion Articles:**&#x20;
