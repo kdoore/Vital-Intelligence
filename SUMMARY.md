@@ -108,6 +108,7 @@
   * [Trauma, Anxiety, Dysfunctional Relationships](resources/further-reading-and-references/trauma-anxiety-dysfunctional-relationships.md)
   * [Dysfunctional Organizational Structures](resources/further-reading-and-references/dysfunctional-organizational-structures.md)
   * [AI Disinformation / Misinformation](resources/further-reading-and-references/ai-disinformation-misinformation.md)
+  * [Linguistics Research](resources/further-reading-and-references/linguistics-research.md)
 * [Downloads](resources/downloads/README.md)
   * [Vital Intelligence Model: Zine](resources/downloads/vital-intelligence-zine.md)
 * [Tools & Benchmarks](resources/tools-and-benchmarks.md)
