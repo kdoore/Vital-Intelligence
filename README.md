@@ -13,7 +13,7 @@ _**We stand at the threshold of one of the most promising transformations in hum
 This essay uses material metaphors—snowflakes and silicon, quasicrystals and borosilicate glass—to illuminate how this transition can unfold not through collapse, but through conscious, compassionate design.\
 Yet within this same material lies the invitation to shift from brittle, isolated forms of intelligence to integrated, relational, and regenerative ways of knowing.
 
-> “To see a world in a grain of sand…” —William Blake
+> _**“To see a world in a grain of sand…” —William Blake**_
 
 This line captures the paradox of our age: silicon—refined sand—has become the substrate upon which we project our highest aspirations and our deepest fears. What once symbolized the infinite in the smallest particle now underpins a global architecture of machine logic, black-box decision-making, and technological mystique. Silicon offers clarity and precision, yet it has also become the veil behind which dysfunctional leadership hides, obscuring accountability while amplifying power.\
 This panel explores how the metaphors drawn from physical materials—glass, metals, quasicrystals, water—reveal deep insights about human nervous systems, collective behavior, and organizational resilience. Here we add a crucial missing dimension: the rise of **single-crystal silicon** and rare-earth metals as the dominant substrate of modern information processing.
@@ -26,7 +26,7 @@ Silicon now acts as the hidden god of our age: omnipresent, invisible, inscrutab
 
 ### 1. Silicon: The Oracle of the Information Age
 
-#### Single-Crystal Silicon as a Modern Sacred Object
+#### Single-Crystal Silicon as a Modern Sacred Object: _The world in a crystal of sand_
 
 Modern computation relies on **monocrystalline silicon wafers**, engineered with astonishing precision:
 
