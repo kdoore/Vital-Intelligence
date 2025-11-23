@@ -11,7 +11,6 @@
 ### Resources:  &#x20;
 
 Atlas of AI, Kate Crawford\
-Unmasking AI, Joy Boulamwini\
-
+Unmasking AI, Joy Boulamwini<br>
 
 {% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

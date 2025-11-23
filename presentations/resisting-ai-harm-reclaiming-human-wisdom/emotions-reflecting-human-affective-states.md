@@ -18,7 +18,6 @@ description: Protecting Humans from Manipulation
 Permission to Feel, Marc Brackett, PhD\
 Divergent Mind, Jenara Nerenberg\
 Magic, Error and Terror, Klaus Truemper\
-The Anxious Generation, Jonathan Haidt\
-
+The Anxious Generation, Jonathan Haidt<br>
 
 {% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

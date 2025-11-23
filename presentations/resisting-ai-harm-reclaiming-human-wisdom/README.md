@@ -22,7 +22,6 @@ Atlas of AI, Kate Crawford\
 Why AI Projects Succeed and Fail, Klaus Truemper\
 Magic Error and Terror, Klaus Truemper\
 Systems Thinking, Donella Meadows\
-Simulation Model Design and Execution, Paul Fishwick\
-
+Simulation Model Design and Execution, Paul Fishwick<br>
 
 {% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

@@ -8,6 +8,8 @@ description: >-
 
 ### Articles:&#x20;
 
+{% embed url="https://www.theguardian.com/commentisfree/2025/nov/23/ai-use-strengthen-democracy" %}
+
 {% embed url="https://www.theguardian.com/technology/2025/oct/26/internet-infrastructure-fragile-system-holding-modern-world-together" %}
 
 {% embed url="https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps" %}

@@ -30,6 +30,10 @@ description: >-
 * **HCI & Grassroots Impact:** Interactive online dashboards and participatory workshops empower communities to localize the Doughnut framework.
 * **Case Example:** Amsterdam’s Doughnut City initiative—mapping local data onto the doughnut and co-designing action plans.
 
+### Grassroots Economics:&#x20;
+
+{% embed url="https://willruddick.substack.com/p/grassroots-economics-the-book-is" %}
+
 ***
 
 ### 4. Modeling Snapshots
@@ -71,3 +75,5 @@ By combining VIM’s four domains with Doughnut Economics’ grassroots framing,
 * Fishwick, P. A. (2007). “Modeling, Simulation, and Graphics for Economics Education.” _Simulation & Gaming_, 38(4), 432–449.
 * Wilensky, U., & Rand, W. (2015). _An Introduction to Agent‑Based Modeling: Modeling Natural, Social, and Engineered Complex Systems with NetLogo_.
 * K. Doore and P. Fishwick, “Prototyping an analog computing representation of predator prey dynamics,” in _Proceedings of the Winter Simulation Conference 2014_, Dec. 2014, pp. 3561–3571a. doi:[10.1109/WSC.2014.7020186](https://doi.org/10.1109/WSC.2014.7020186).
+* [https://willruddick.substack.com/p/grassroots-economics-the-book-is](https://willruddick.substack.com/p/grassroots-economics-the-book-is)
+

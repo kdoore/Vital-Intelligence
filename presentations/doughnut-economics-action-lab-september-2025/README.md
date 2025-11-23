@@ -42,7 +42,6 @@ Kalmykov, Vyacheslav L., and Lev V. Kalmykov. “Manifesto for Transparent Mathe
 
 Danielle Murteza, N. (2022). A Fractal Mindset in Design Education: Explorations in Wellbeing, Form Creation/Aesthetics, and Design Thinking. Congress of the International Association of Societies of Design Research. [https://doi.org/10.1007/978-981-19-4472-7\_225](https://doi.org/10.1007/978-981-19-4472-7_225)\
 \
-Gerbarg, P. L., & Brown, R. P. (2024). Breath-focused mind-body therapy for global mental health: war and other mass disasters. Academia Mental Health and Well-Being, 1. https://doi.org/https://doi.org/10.20935/MHealthWellB6198\
-
+Gerbarg, P. L., & Brown, R. P. (2024). Breath-focused mind-body therapy for global mental health: war and other mass disasters. Academia Mental Health and Well-Being, 1. https://doi.org/https://doi.org/10.20935/MHealthWellB6198<br>
 
 {% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

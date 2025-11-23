@@ -12,7 +12,6 @@
 
 \
 Unmasking AI, Joy Boulamwini\
-Atlas of AI, Kate Crawford\
-
+Atlas of AI, Kate Crawford<br>
 
 {% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

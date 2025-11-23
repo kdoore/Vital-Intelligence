@@ -14,7 +14,6 @@
 Doughnut Economics, Kate Raeworth\
 Atlas of AI, Kate Crawford\
 Our Shared Illusions, Joachim Raese, MD and Trip Venturella\
-Drawdown, Paul Hawken, Editor\
-
+Drawdown, Paul Hawken, Editor<br>
 
 {% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

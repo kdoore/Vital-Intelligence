@@ -1,4 +1,8 @@
-# Dysfunctional Organizational Structures
+---
+description: References and Articles about Organizational Structures
+---
+
+# Organizational Structures: Dysfunctional vs Grassroots
 
 ### US Education Institutions under Stress
 
@@ -25,6 +29,12 @@
 > The survey interviewed nearly 4,000 faculty across the southern U.S., including more than 1,100 from Texas. About a quarter of the Texas professors said they have applied for higher education jobs in other states in the last two years, and more than 25% said they soon intend to start searching for out-of-state positions. Of those who aren’t thinking of leaving, more than one-fifth said they don’t plan to stay in higher education in the long-term.
 
 ## GrassRoots Movements
+
+### Grassroots Economics - Will Ruddick
+
+{% embed url="https://willruddick.substack.com/p/grassroots-economics-the-book-is" %}
+
+### Articles
 
 {% embed url="https://www.theguardian.com/us-news/2025/nov/21/us-activism-protests-boycotts-mutual-aid" %}
 

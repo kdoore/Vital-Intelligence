@@ -24,8 +24,7 @@ In AI, this imbalance manifests as technologies designed for surveillance, behav
 
 * **Algorithmic exploitation:** AI recommendation systems that feed addictive or harmful content, amplifying social polarization and misinformation.
 * **Surveillance capitalism:** Data extraction and profiling that erode privacy, autonomy, and trust.
-* **Deepfake and non-consensual media:** The rise of AI-generated sexual imagery targeting women, children, and marginalized communities.\
-
+* **Deepfake and non-consensual media:** The rise of AI-generated sexual imagery targeting women, children, and marginalized communities.<br>
 
 References\
 \

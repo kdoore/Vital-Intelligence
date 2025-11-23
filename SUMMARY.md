@@ -5,6 +5,9 @@
 * [Humanity++: Visions for Evolutionary Transformations](README.md)
 * [Vital Intelligence Model:](<README (1).md>)
 * [Avalanche of Kindness](introduction/avalanche-of-kindness.md)
+* Theoretical Frameworks
+  * [Evolutionary Transformations](introduction/theoretical-frameworks/evolutionary-transformations.md)
+  * [Complexity and Evoloutionary Frameworks](introduction/theoretical-frameworks/complexity-and-evoloutionary-frameworks.md)
 
 ## Model
 
@@ -106,7 +109,7 @@
   * [Climate Crisis and Complexity](resources/further-reading-and-references/climate-crisis-and-complexity.md)
   * [Technology Infrastructure](resources/further-reading-and-references/technology-infrastructure.md)
   * [Trauma, Anxiety, Dysfunctional Relationships](resources/further-reading-and-references/trauma-anxiety-dysfunctional-relationships.md)
-  * [Dysfunctional Organizational Structures](resources/further-reading-and-references/dysfunctional-organizational-structures.md)
+  * [Organizational Structures: Dysfunctional vs Grassroots](resources/further-reading-and-references/organizational-structures-dysfunctional-vs-grassroots.md)
   * [AI Disinformation / Misinformation](resources/further-reading-and-references/ai-disinformation-misinformation.md)
   * [Linguistics Research](resources/further-reading-and-references/linguistics-research.md)
 * [Downloads](resources/downloads/README.md)
