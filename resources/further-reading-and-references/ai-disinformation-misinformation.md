@@ -8,6 +8,10 @@
 
 {% embed url="https://www.theguardian.com/us-news/2025/nov/13/ai-campaign-videos-elections" %}
 
+{% embed url="https://www.theguardian.com/us-news/ng-interactive/2025/nov/23/america-christian-evangelical-discrimination-immigration" %}
+
+> Trump has managed to turn America’s idea of itself entirely upside down. And he has done it with the active consent of an entire political party. Speaker of the House Mike Johnson, when asked about the poop video, for once did not bother lying that he had not seen it. Instead he said: “_**The president uses social media to make the point. You can argue he’s probably the most effective person who’s ever used social media.**_”
+
 ### Misconceptions about Brain Computer Interfaces:&#x20;
 
 [https://pmc.ncbi.nlm.nih.gov/articles/PMC11004276/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11004276/)

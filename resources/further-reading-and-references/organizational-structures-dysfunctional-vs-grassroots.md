@@ -34,6 +34,18 @@ description: References and Articles about Organizational Structures
 
 {% embed url="https://willruddick.substack.com/p/grassroots-economics-the-book-is" %}
 
+### Indigenous Cultures and Trauma
+
+{% embed url="https://www.theguardian.com/artanddesign/2025/oct/23/blackfeet-nation-bison-food-sovereignty-montana" %}
+
+> For the Blackfeet, bison are as much a source of food as they are a part of their cultural identity. Before the bison’s extermination, their movements across the plains shaped the Blackfeet way of life so much that nearly 200 years later, the community is still grappling with the generational trauma resulting from the sudden loss of these animals from the prairie.
+>
+> Recognizing these problems, the tribal government, a variety of non-profits and dedicated community members decided to take action. In 2016, the Blackfeet Nation became one of the first tribal governments to implement a program that would assert tribal management over agricultural resources within the reservation, with the greater goal of establishing food sovereignty and tribal self-determination.
+>
+> Known as an agricultural resource management plan (ARMP), the program created by the Blackfeet was the first in the nation to be built around cultural practices, and centered on the five pillars of Blackfeet values: **creating sustainable economic development, strengthening cultural knowledge, increasing organizational development, investing in the Piikani people and promoting health, healing and nutrition.**
+>
+> In addition to non-profits like PLHI, Blackfeet Community College (BCC) has started providing students with the tools and space to explore traditional practices paired with modern science to help to make food sovereignty a reality on the Blackfeet reservation.
+
 ### Articles
 
 {% embed url="https://www.theguardian.com/us-news/2025/nov/21/us-activism-protests-boycotts-mutual-aid" %}
