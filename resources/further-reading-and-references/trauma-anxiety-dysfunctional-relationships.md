@@ -6,6 +6,16 @@ Mental illnesses are common in the United States and around the world. It is est
 
 {% embed url="https://www.nimh.nih.gov/health/statistics/mental-illness" %}
 
+### Inequity and Neuroscience
+
+{% embed url="https://www.theguardian.com/science/2025/sep/30/study-links-greater-inequality-to-structural-changes-in-childrens-brains" %}
+
+> Scientists have linked the impact of living in an unequal society to structural changes in the brains of children – regardless of individual wealth – for the first time.
+>
+> A study of more than 10,000 young people in the US discovered **altered brain development in children from wealthy and lower-income families in areas with higher rates of inequality, which were also associated with poorer mental health.**
+>
+> The data was gathered from the Adolescent Brain Cognitive Development study and [published in the journal](https://www.nature.com/articles/s44220-025-00508-1) Nature Mental Health.
+
 ### Anxiety: Work - Life Balance: Data 2025:&#x20;
 
 And in a warning sign of a breakdown in trust between employers and younger workers, the proportion of 18-24-year-olds who would feel comfortable opening up to a line manager about pressure and stress dropped sharply from 75% in the Burnout Report 2024 to 56% in the past year.

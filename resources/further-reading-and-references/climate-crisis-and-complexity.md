@@ -12,6 +12,14 @@ description: Articles and Resources to Support Climate Actions
 
 The climate crisis will potentially spiral out of control unless countries recognise their international obligations, he warned. “The greatest risk is not necessarily the territorial threat of a neighbouring country’s army, though that will always remain a potential risk,” he said. “It is cyberterrorism; the next pandemic for which we are not prepared; and most certainly the domino effect of runaway climate change.”  [https://www.theguardian.com/environment/2025/sep/06/higher-defence-spending-pointless-without-climate-aid-says-un-chief](https://www.theguardian.com/environment/2025/sep/06/higher-defence-spending-pointless-without-climate-aid-says-un-chief)
 
+{% embed url="https://www.theguardian.com/environment/2025/nov/25/trump-cop30-lacks-us-climate-progress" %}
+
+> **“President Trump has been clear: he will not jeopardize our country’s economic and national security to pursue vague climate goals that are killing other countries,” said Taylor Rogers, a White House spokeswoman. “President Trump serves the American people, not radical climate activists who have fallen victim to the biggest scam of the century.”**
+>
+> But while Cop30 ended in frustration, there was still recognition from observers that the world is still moving away from the age of fossil fuels, with [double](https://www.iea.org/news/global-energy-investment-set-to-rise-to-33-trillion-in-2025-amid-economic-uncertainty-and-energy-security-concerns) the amount, globally, invested in renewables like wind and solar than traditional energy sources last year.
+>
+> And while China didn’t fully step into the leadership vacuum in Belem, it is certainly leading as a clean energy superpower, even outstripping its antediluvian competitor – **China is now** [**making more money**](https://www.economist.com/leaders/2025/11/06/chinas-clean-energy-revolution-will-reshape-markets-and-politics) **from exporting green technology than America earns from exporting fossil fuels.**
+
 #### Grass Roots Efforts - Climate Crisis:
 
 Across the Gulf south, communities are demanding accountability. In St James Parish, [Sharon Lavigne](https://www.theguardian.com/us-news/2024/jan/22/plastics-plant-louisianas-cancer-alley-air-permits) has also spent years fighting Formosa’s $9.4bn complex in what’s known as Louisiana’s Cancer Alley. In Port Arthur and Corpus Christi, organizers are [fighting new gas export terminals](https://www.theguardian.com/us-news/2025/oct/29/liquefied-natural-gas-terminal-pollution-limits). These aren’t isolated nimby fights; they’re part of a regional reckoning with a century of extraction. As record heat and hurricanes grow deadlier, Exxon still defends oil and petrochemical projects as “[accelerating a just transition](https://corporate.exxonmobil.com/-/media/global/files/sustainability-report/2024/sustainability-report.pdf)”, a phrase that borders on self-parody.
