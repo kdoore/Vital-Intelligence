@@ -43,6 +43,8 @@ description: >-
 * Each holon is both _a whole_ and _a part_.
 * Cultural change requires coherence across levels.
 
+<figure><img src="../../.gitbook/assets/ProSocial.svg" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### **3. Legacy Trauma as an Evolutionary Variable**

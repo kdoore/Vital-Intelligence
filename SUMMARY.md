@@ -5,7 +5,7 @@
 * [Humanity++: Visions for Evolutionary Transformations](README.md)
 * [Vital Intelligence Model:](<README (1).md>)
 * [Avalanche of Kindness](introduction/avalanche-of-kindness.md)
-* Theoretical Frameworks
+* [Theoretical Frameworks](introduction/theoretical-frameworks/README.md)
   * [Evolutionary Transformations](introduction/theoretical-frameworks/evolutionary-transformations.md)
   * [Complexity and Evoloutionary Frameworks](introduction/theoretical-frameworks/complexity-and-evoloutionary-frameworks.md)
 

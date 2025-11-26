@@ -1,0 +1,107 @@
+<svg width="900" height="550" viewBox="0 0 900 550" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .box {
+      fill: #f6f6fb;
+      stroke: #555577;
+      stroke-width: 2;
+      rx: 20;
+      ry: 20;
+    }
+    .title {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-weight: 600;
+      font-size: 20px;
+      fill: #222236;
+      text-anchor: middle;
+    }
+    .subtitle {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      fill: #555577;
+      text-anchor: middle;
+    }
+    .label {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-weight: 500;
+      font-size: 14px;
+      fill: #444455;
+    }
+    .arrow {
+      stroke: #8888aa;
+      stroke-width: 2;
+      fill: none;
+      marker-end: url(#arrowhead);
+    }
+    .arrow-strong {
+      stroke: #ff9f7a;
+      stroke-width: 3;
+      fill: none;
+      marker-end: url(#arrowhead-strong);
+    }
+    .caption {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-weight: 400;
+      font-size: 13px;
+      fill: #666677;
+      text-anchor: middle;
+    }
+  </style>
+
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+            refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#8888aa" />
+    </marker>
+    <marker id="arrowhead-strong" markerWidth="12" markerHeight="8" 
+            refX="10" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#ff9f7a" />
+    </marker>
+  </defs>
+
+  <!-- Top box: Conscious Evolution -->
+  <rect class="box" x="160" y="60" width="580" height="120" />
+  <text class="title" x="450" y="100">Conscious Evolution</text>
+  <text class="subtitle" x="450" y="130">
+    Recursive reflection on what we select, reward, and replicate
+  </text>
+
+  <!-- Middle box: Prosocial Governance -->
+  <rect class="box" x="160" y="215" width="580" height="120" />
+  <text class="title" x="450" y="255">Prosocial Governance</text>
+  <text class="subtitle" x="450" y="285">
+    Ostrom / Wilson–inspired core design principles for groups and institutions
+  </text>
+
+  <!-- Bottom box: Trauma-Informed & AoK -->
+  <rect class="box" x="160" y="370" width="580" height="120" />
+  <text class="title" x="450" y="410">
+    Trauma-Informed Design &amp; Avalanche of Kindness
+  </text>
+  <text class="subtitle" x="450" y="440">
+    Nervous-system–aware practices in everyday interactions and workflows
+  </text>
+
+  <!-- Upward arrow: selection & feedback -->
+  <path class="arrow-strong" d="M140 430 C110 380, 110 320, 140 270" />
+  <path class="arrow-strong" d="M140 270 C110 220, 110 160, 140 110" />
+  <text class="label" x="80" y="340" transform="rotate(-90 80 340)">
+    Selection &amp; lived feedback
+  </text>
+
+  <!-- Downward arrow: guiding principles -->
+  <path class="arrow" d="M760 120 C790 170, 790 230, 760 280" />
+  <path class="arrow" d="M760 280 C790 330, 790 390, 760 440" />
+  <text class="label" x="820" y="280" transform="rotate(90 820 280)">
+    Guiding models &amp; shared principles
+  </text>
+
+  <!-- Captions at bottom -->
+  <text class="caption" x="450" y="515">
+    Bottom-up: trauma-informed practices reshape governance structures.
+  </text>
+  <text class="caption" x="450" y="535">
+    Top-down: conscious evolutionary models guide prosocial norms and design.
+  </text>
+</svg>

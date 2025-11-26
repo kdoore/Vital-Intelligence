@@ -2,6 +2,9 @@
 
 ### Research and Blogs of Interest
 
+**AI Ethics:**\
+[**Montreal AI Ethics Institute:**](https://montrealethics.ai/) [**State of AI Ethics - Vol 7**](https://montrealethics.ai/saier-vol-7-landing/)
+
 **Pink Noise & Complexity Science**
 
 * [Bak, P. (1996). _How Nature Works_](https://www.goodreads.com/book/show/126488.How_Nature_Works)
