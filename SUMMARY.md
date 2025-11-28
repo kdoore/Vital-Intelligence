@@ -8,6 +8,7 @@
 * [Theoretical Frameworks](introduction/theoretical-frameworks/README.md)
   * [Evolutionary Transformations](introduction/theoretical-frameworks/evolutionary-transformations.md)
   * [Complexity and Evoloutionary Frameworks](introduction/theoretical-frameworks/complexity-and-evoloutionary-frameworks.md)
+* [Trauma-Informed Holarchy](introduction/trauma-informed-holarchy.md)
 
 ## Model
 
