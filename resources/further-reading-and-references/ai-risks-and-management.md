@@ -1,6 +1,10 @@
-# AI Disinformation / Misinformation
+# AI Risks & Management
 
-### AI and Missing or Biased Information
+### AI Risk Management Frameworks
+
+{% embed url="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf?utm_source=chatgpt.com" %}
+
+### Knowledge Collapse
 
 {% embed url="https://www.theguardian.com/news/2025/nov/18/what-ai-doesnt-know-global-knowledge-collapse" %}
 

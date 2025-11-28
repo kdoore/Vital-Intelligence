@@ -110,7 +110,7 @@
   * [AI Platforms and Concerns](resources/further-reading-and-references/ai-platforms-and-concerns.md)
   * [Trauma, Anxiety, Dysfunctional Relationships](resources/further-reading-and-references/trauma-anxiety-dysfunctional-relationships.md)
   * [Organizational Structures: Dysfunctional vs Grassroots](resources/further-reading-and-references/organizational-structures-dysfunctional-vs-grassroots.md)
-  * [AI Disinformation / Misinformation](resources/further-reading-and-references/ai-disinformation-misinformation.md)
+  * [AI Risks & Management](resources/further-reading-and-references/ai-risks-and-management.md)
   * [Linguistics Research](resources/further-reading-and-references/linguistics-research.md)
 * [Downloads](resources/downloads/README.md)
   * [Vital Intelligence Model: Zine](resources/downloads/vital-intelligence-zine.md)
