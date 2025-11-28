@@ -23,7 +23,19 @@ And in a warning sign of a breakdown in trust between employers and younger work
 > _“**We’re calling on employers to reconsider the approach to mental health and explore reasonable adjustments and workplace wellbeing initiatives in collaboration with their young employees. Otherwise, they risk losing out on the newest generation of workers as they either seek employment elsewhere or disengage.** Unfortunately, many organisations still offer 20th century mental health support for a 21st century workforce. Companies understandably have their bottom lines to bear in mind, but **improved mental health support will benefit all workers and boost productivity, and should be seen as a win-win.”**_ \
 > Brian Dow, Chief Executive of Mental Health UK
 
-[https://mentalhealth-uk.org/blog/burnout-report-2025-reveals-generational-divide-in-levels-of-stress-and-work-absence/](https://mentalhealth-uk.org/blog/burnout-report-2025-reveals-generational-divide-in-levels-of-stress-and-work-absence/)
+{% embed url="https://mentalhealth-uk.org/blog/burnout-report-2025-reveals-generational-divide-in-levels-of-stress-and-work-absence/" %}
+
+#### Trauma, Environments, and Healing
+
+{% embed url="https://www.theguardian.com/us-news/2025/nov/28/utah-valley-university-charlie-kirk" %}
+
+>
+>
+> In a recent live interview with the [Washington Post](https://www.youtube.com/watch?v=-a0yxly0DkY), the UVU president, Dr Astrid Tuminez, responded cautiously when asked about the plans for a Kirk memorial. She urged students and the committee to think carefully about the purpose of memorials, asking: “What do we want to memorialize?” and “Twenty or thirty years from now, is this a memorial everybody can love and be proud of?”
+>
+> José, 19, doesn’t think the university has any control over the legacy, saying: “I don’t think anyone wants that to be our legacy. People come here to study and do their work. Nobody wants to be tied to that event.”
+>
+> What he wants people to remember is something quieter and more ordinary. “UVU is more than what happened. It promotes unity, collaboration, hard work and community,” he said. “I want people not to judge it based on that day.”
 
 #### Thermodynamics of Work-Life Balance and Cultural Expectations
 
@@ -73,18 +85,7 @@ But we know we’ve got an adversarial system so we need to be able to circumven
 \
 In this book, she argues that people rarely murder their partners or ex-partners on a whim. Rather, almost invariably, the killing is the culmination of a clearly defined eight-stage timeline. They know what they are doing. Forceful and manipulative, ending their partner/ex-partner’s life, and convincing others they were justified in doing so (often in a court of law), is the ultimate demonstration of their power.\
 By breaking down the domestic homicide timeline into these eight distinct phases, Monckton-Smith has shown us what to look out for in controlling and coercive relationships and, just as importantly, what to target to arrest the progression, to save a life.\
-[https://pmc.ncbi.nlm.nih.gov/articles/PMC10544534/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10544534/)\
-\
-&#xNAN;_&#x54;HE EIGHT-STAGE KILLING TIMELINE_
-
-1. _‘A history of control or stalking’; not necessarily a criminal history, but a mindset, a tendency to dominate earlier partners._
-2. _‘The commitment whirlwind’; everything from the first meeting moves at an unhealthy, breakneck pace._
-3. _‘Living with control’; because their partner aims to control everything about them, the victim adapts their behaviours._
-4. _‘Trigger’; something (for example, a potential split, pregnancy, or illness) threatens to break the circuit of control._
-5. _’Escalation’; the controlling behaviour intensifies._
-6. _‘A change in thinking’; something switches, the coercion may appear to lessen, or the perpetrator changes tack._
-7. _‘Planning’ (such as preparing a ‘murder kit’)._
-8. _‘Homicide and/or suicide’; either murder or, because of prolonged and relentless coercion and control, the victim commits suicide._
+[https://pmc.ncbi.nlm.nih.gov/articles/PMC10544534/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10544534/)
 
 
 

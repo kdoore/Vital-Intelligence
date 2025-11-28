@@ -107,7 +107,7 @@
 
 * [Further Reading & References](resources/further-reading-and-references/README.md)
   * [Climate Crisis and Complexity](resources/further-reading-and-references/climate-crisis-and-complexity.md)
-  * [Technology Infrastructure](resources/further-reading-and-references/technology-infrastructure.md)
+  * [AI Platforms and Concerns](resources/further-reading-and-references/ai-platforms-and-concerns.md)
   * [Trauma, Anxiety, Dysfunctional Relationships](resources/further-reading-and-references/trauma-anxiety-dysfunctional-relationships.md)
   * [Organizational Structures: Dysfunctional vs Grassroots](resources/further-reading-and-references/organizational-structures-dysfunctional-vs-grassroots.md)
   * [AI Disinformation / Misinformation](resources/further-reading-and-references/ai-disinformation-misinformation.md)

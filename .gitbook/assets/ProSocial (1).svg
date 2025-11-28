@@ -1,0 +1,119 @@
+<svg width="900" height="570" viewBox="0 0 900 570" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mainTitle {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-weight: 700;
+      font-size: 26px;
+      fill: #222236;
+      text-anchor: middle;
+    }
+    .box {
+      fill: #f6f6fb;
+      stroke: #555577;
+      stroke-width: 2;
+      rx: 20;
+      ry: 20;
+    }
+    .title {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-weight: 600;
+      font-size: 20px;
+      fill: #222236;
+      text-anchor: middle;
+    }
+    .subtitle {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      fill: #555577;
+      text-anchor: middle;
+    }
+    .label {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-weight: 500;
+      font-size: 14px;
+      fill: #444455;
+    }
+    .arrow {
+      stroke: #8888aa;
+      stroke-width: 2;
+      fill: none;
+      marker-end: url(#arrowhead);
+    }
+    .arrow-strong {
+      stroke: #ff9f7a;
+      stroke-width: 3;
+      fill: none;
+      marker-end: url(#arrowhead-strong);
+    }
+    .caption {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-weight: 400;
+      font-size: 13px;
+      fill: #666677;
+      text-anchor: middle;
+    }
+  </style>
+
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+            refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#8888aa" />
+    </marker>
+    <marker id="arrowhead-strong" markerWidth="12" markerHeight="8" 
+            refX="10" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#ff9f7a" />
+    </marker>
+  </defs>
+
+  <!-- Main title -->
+  <text class="mainTitle" x="450" y="40">
+    Engineering Prosocial Human–AI Alignment
+  </text>
+
+  <!-- Top box: Conscious Evolution -->
+  <rect class="box" x="160" y="80" width="580" height="120" />
+  <text class="title" x="450" y="120">Conscious Evolution</text>
+  <text class="subtitle" x="450" y="150">
+    Recursive reflection on what we select, reward, and replicate
+  </text>
+
+  <!-- Middle box: Prosocial Holarchy & Governance -->
+  <rect class="box" x="160" y="235" width="580" height="120" />
+  <text class="title" x="450" y="275">Prosocial Holarchy &amp; Governance</text>
+  <text class="subtitle" x="450" y="305">
+    Ostrom / Wilson–inspired core design principles for nested, holarchic groups
+  </text>
+
+  <!-- Bottom box: Trauma-Informed & AoK -->
+  <rect class="box" x="160" y="390" width="580" height="120" />
+  <text class="title" x="450" y="430">
+    Trauma-Informed Design &amp; Avalanche of Kindness
+  </text>
+  <text class="subtitle" x="450" y="460">
+    Nervous-system–aware practices in everyday interactions and workflows
+  </text>
+
+  <!-- Upward arrow: selection & feedback -->
+  <path class="arrow-strong" d="M140 450 C110 400, 110 340, 140 290" />
+  <path class="arrow-strong" d="M140 290 C110 240, 110 180, 140 130" />
+  <text class="label" x="80" y="350" transform="rotate(-90 80 350)">
+    Selection &amp; lived feedback
+  </text>
+
+  <!-- Downward arrow: guiding principles -->
+  <path class="arrow" d="M760 140 C790 190, 790 250, 760 300" />
+  <path class="arrow" d="M760 300 C790 350, 790 410, 760 460" />
+  <text class="label" x="820" y="290" transform="rotate(90 820 290)">
+    Guiding models &amp; shared principles
+  </text>
+
+  <!-- Captions at bottom -->
+  <text class="caption" x="450" y="540">
+    Bottom-up: trauma-informed practices reshape holarchic governance structures.
+  </text>
+  <text class="caption" x="450" y="560">
+    Top-down: conscious evolutionary models guide prosocial norms, design, and AI integration.
+  </text>
+</svg>
