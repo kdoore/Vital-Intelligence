@@ -6,6 +6,42 @@ description: >-
 
 # AI Platforms and Concerns
 
+{% embed url="https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai" %}
+
+> “The most interesting, yet challenging aspect of my job is \[working out] **how we get that balance between being really bold, moving at velocity, tremendous pace and innovation, and at the same time doing it responsibly, safely, ethically,”** said Tom Lue, a Google DeepMind vice-president with responsibility for policy, legal, safety and governance, who stopped work for 30 minutes to talk to the Guardian.
+>
+> Donald Trump’s White House takes a permissive approach to AI regulation and there is no comprehensive nationwide legislation in the US or the UK. Yoshua Bengio, a computer scientist known as a godfather of AI, said [in a Ted Talk](https://www.youtube.com/watch?v=qe9QSCF-d88) this summer: “**A sandwich has more regulation than AI.”**
+>
+> The competitors have therefore found they bear responsibility for setting the limits of what AIs should be allowed to do.
+>
+> “Our calculus is not so much looking over our shoulders at what \[the other] companies are doing, but **how do we make sure that we are the ones in the lead, so that we have influence in impacting how this technology is developed and setting the norms across society,” said Lue. “You have to be in a position of strength and leadership to set that.”**
+>
+> “**If it’s just a race and all gas, no brakes and it’s basically a race to the bottom, that’s a terrible outcome for society,**” said Lue, who is pushing for coordinated action between the racers and governments.
+>
+> But strict state regulation may not be the answer either. “We support regulation that’s going to help AI be delivered to the world in a way that’s positive,” said Helen King, Google DeepMind’s vice-president for responsibility. “**The tricky part is always how do you regulate in a way that doesn’t actually slow down the good guys and give the bad guys loopholes**.”
+>
+> Anthropic this month [revealed](https://www.theguardian.com/technology/2025/nov/14/ai-anthropic-chinese-state-sponsored-cyber-attack) that its Claude Code AI, widely seen as the best system for automating computer programming, was used by a Chinese state-sponsored group in **“the first documented case of a cyber-attack largely executed without human intervention at scale”.**
+>
+> It sent shivers through some. “Wake the f up,” said one US senator on X. “**This is going to destroy us – sooner than we think**”. By contrast, Prof Yann LeCun, who is about to step down after 12 years as Meta’s chief AI scientist, said **Anthropic was “scaring everyone” to encourage regulation that might hinder rivals. .**
+>
+> **Tests of other state-of-the-art models** [**found**](https://arxiv.org/pdf/2509.14260) **they sometimes sabotaged programming intended to ensure humans can interrupt them, a worrying trait called “shutdown resistance”.**
+>
+> But with nearly [$2bn a week](https://www.ey.com/en_ie/newsroom/2025/06/generative-ai-vc-funding-49-2b-h1-2025-ey-report) in new venture capital investment pouring into generative AI in the first half of 2025, the pressure to realise profits will quickly rise. Tech companies realised they could make fortunes from monetising human attention on social media platforms that caused serious social problems. **The fear is that profit maximisation in the age of AGI could result in far greater adverse consequences.**\
+> “It is imbalanced because it’s such a costly technology,” he said. “Early on, the companies working on AI were very open about the techniques they were using. They published, and it was quasi-academic. But then \[they] started cracking down and saying, ‘**No, we don’t want to talk about … the technology under the hood, because it’s too important to us – it’s proprietary’.”** ....he now calls on governments to create a counterweight to the huge AI firms by investing in a facility for independent, academic research. It would have a similar function to the state-funded Cern organisation for high-energy physics on the France-Switzerland border. The European Commission president, Ursula von der Leyen, has [called](https://commission.europa.eu/document/download/e6cd4328-673c-4e7a-8683-f63ffb2cf648_en?filename=Political%20Guidelines%202024-2029_EN.pdf) for something similar and [advocates believe](https://cfg.eu/building-cern-for-ai/?utm_source=chatgpt.com) it could steer the technology towards trustworthy, public interest outcomes.
+>
+> “**These are technologies that are going to produce the greatest boost in productivity ever seen,” Etchemendy said. “You have to make sure that the benefits are spread through society, rather than benefiting Elon Musk.”**\
+> \
+> They were part of a rapidly growing community of entrepreneurs hustling to apply AI to real world money-making ideas and there was zero support for any brakes on progress towards AGI to allow for its social impacts to be checked. “**We don’t do that in Silicon Valley,” said one. “If everyone here stops, it still keeps going,” said another. “It’s really hard to opt out now.”**\
+> Another declared: “**Morality is best thought of as a machine-learning problem.”** Their neighbour said AI meant every cancer would be cured in 10 years. Aggressive, clever and hyped up – the young talent driving the AI boom wants it all and fast.\
+> \
+> Frequently you hear AI researchers say they want the push to AGI to “go well”. It is a vague phrase suggesting a wish the technology should not cause harm, but its woolliness masks trepidation.
+>
+> Altman has talked about “**crazy sci-fi technology becoming reality” and having “extremely deep worries about what technology is doing to kids”. He admitted: “No one knows what happens next. It’s like, we’re gonna figure this out. It’s this weird emergent thing.”**
+>
+> “There’s clearly real risks,” he said in an interview with the comedian Theo Von, which was short on laughs. “It kind of feels like you should be able to say something more than that, but in truth, I think all we know right now is that we have discovered … something extraordinary that is going to reshape the course of our history.”
+
+
+
 #### Platforms: Articles:
 
 {% embed url="https://www.theguardian.com/commentisfree/2025/nov/23/ai-use-strengthen-democracy" %}
@@ -33,3 +69,8 @@ We’re building a digital safety net to protect children. At Thorn, we put tech
 
 > The letter contains a range of demands for [Amazon](https://www.theguardian.com/technology/amazon), concerning its impact on the workplace and the environment. Staffers are calling on the company to power all its data centers with clean energy, make sure its AI-powered products and services do not enable “violence, surveillance and mass deportation”, and form a working group comprised of non-managers “that will have significant ownership over org-level goals and how or if AI should be used in their orgs, how or if AI-related layoffs or headcount freezes are implemented, and how to mitigate or minimize the collateral effects of AI use, such as environmental impact”.\
 > Workers emphasized they are not against AI outright, rather they want it to be developed sustainably and with input from the people building and using it. “I see Amazon using AI to justify a power grab over community resources like water and energy, but also over its own workers, who are increasingly subject to surveillance, work speedups, and implicit threats of layoffs,” said the senior software engineer. “There is a culture of fear around openly discussing the drawbacks of AI at work, and one thing the letter is setting out to accomplish is to show our colleagues that many of us feel this way and that another path is possible.”
+
+### AI Leadership & Media
+
+{% embed url="https://www.theguardian.com/technology/2025/nov/29/big-tech-silicon-valley-ceo-media" %}
+

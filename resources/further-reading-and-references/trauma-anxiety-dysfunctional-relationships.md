@@ -27,6 +27,8 @@ And in a warning sign of a breakdown in trust between employers and younger work
 
 #### Trauma, Environments, and Healing
 
+{% embed url="https://www.theguardian.com/society/ng-interactive/2025/dec/01/it-was-extremely-pornographic-cara-hunter-on-the-deepfake-video-that-nearly-ended-her-political-career" %}
+
 {% embed url="https://www.theguardian.com/us-news/2025/nov/28/utah-valley-university-charlie-kirk" %}
 
 >
