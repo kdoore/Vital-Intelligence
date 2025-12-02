@@ -127,7 +127,7 @@ The Regenerative Cycle is one such bridge: a way to translate symbolic insight a
 VIM situates the Regenerative Cycle inside a **holarchic, multilevel selection** frame:
 
 * **Holarchy:** individuals nested in groups, groups nested in institutions, institutions nested in ecosystems and the biosphere.
-* **Multilevel selection**: prosocial groups that regulate self-interest and care for the common good can outcompete groups organized around pure dominance and extraction (Wilson, 2013; Wilson et al., 2020).
+* **Multilevel selection**: prosocial groups that regulate self-interest and care for the common good can outcompete groups organized around pure dominance and extraction (Atkins et al, 2019; Wilson et al., 2020).
 * **Ostrom’s core design principles:** robust commons-governing groups share features like clear boundaries, fair decision-making, monitoring and feedback, graduated responses to harm, conflict-resolution processes, and nested governance (Ostrom, 1990).
 
 Within VIM, these principles are not just governance rules; they are **extensions of the Regenerative Cycle up the holarchy**:
@@ -188,6 +188,7 @@ Through this lens, the Regenerative Cycle—read through enso, ouroboros, torus,
 * Jung, C. G. (1963). _Mysterium Coniunctionis: An Inquiry into the Separation and Synthesis of Psychic Opposites in Alchemy_. Princeton University Press.
 * Meijer, D. K. F., & Geesink, H. J. H. (2017). Consciousness in the Universe is Scale Invariant and Implies an Event Horizon of the Human Brain. _Neuroquantology, 15_(3), 41–79. [Link:](https://www.semanticscholar.org/paper/Consciousness-in-the-Universe-is-Scale-Invariant-an-Meijer-Geesink/1460db3f467c6b71cb418c92cd46545c799ec25f)
 * Ostrom, E. (1990). _Governing the Commons: The Evolution of Institutions for Collective Action_. Cambridge University Press.
-* Wilson, D. S. (2013). _Darwin’s Cathedral: Evolution, Religion, and the Nature of Society_. University of Chicago Press.
+* Atkins, P. W. B., Wilson, D. S., & Hayes, S. C. (2019). _Prosocial: Using evolutionary science to build productive, equitable, and collaborative groups_. Oakland, CA: Context Press / New Harbinger Publications.
 * Wilson, D. S., Philip, M. M., MacDonald, I. F., Atkins, P. W. B., & Kniffin, K. M. (2020). Core design principles for nurturing organization-level selection. _Scientific Reports, 10_(1), 13989. https://doi.org/10.1038/s41598-020-70632-8
+* Brown, R. P., & Gerbarg, P. L. (2012). _The healing power of the breath: Simple techniques to reduce stress and anxiety, enhance concentration, and balance your emotions_. Boston, MA: Shambhala Publications.
 
