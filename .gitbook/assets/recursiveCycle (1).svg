@@ -1,0 +1,99 @@
+<svg width="800" height="520" viewBox="0 0 800 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: sans-serif; font-size: 20px; fill: #111827; }
+      .label { font-family: sans-serif; font-size: 14px; fill: #111827; }
+      .small { font-family: sans-serif; font-size: 12px; fill: #4b5563; }
+      .phase { font-family: sans-serif; font-size: 14px; fill: #111827; font-weight: 600; }
+    </style>
+    <marker id="arrowhead" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <polygon points="0 0 8 4 0 8" fill="#111827" />
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" class="title">
+    Regenerative Cycle – Recursive Intelligence at the Center
+  </text>
+
+  <!-- Center: Recursive Intelligence -->
+  <circle cx="400" cy="260" r="75" fill="#eef2ff" stroke="#4f46e5" stroke-width="2" />
+  <text x="400" y="240" text-anchor="middle" class="label">
+    Recursive
+  </text>
+  <text x="400" y="260" text-anchor="middle" class="label">
+    Intelligence
+  </text>
+  <text x="400" y="280" text-anchor="middle" class="small">
+    updates NI &amp; AI models
+  </text>
+
+  <!-- Phase nodes (larger boxes) -->
+
+  <!-- Recognize (top) -->
+  <rect x="320" y="75" width="160" height="60" rx="10" ry="10"
+        fill="#e0f2fe" stroke="#0369a1" stroke-width="2" />
+  <text x="400" y="100" text-anchor="middle" class="phase">
+    Recognize
+  </text>
+  <text x="400" y="125" text-anchor="middle" class="small">
+    stress enters
+  </text>
+
+  <!-- Release (right) -->
+  <rect x="580" y="230" width="160" height="60" rx="10" ry="10"
+        fill="#dcfce7" stroke="#16a34a" stroke-width="2" />
+  <text x="660" y="260" text-anchor="middle" class="phase">
+    Release
+  </text>
+  <text x="660" y="280" text-anchor="middle" class="small">
+    guided regulation
+  </text>
+
+  <!-- Reconnect (bottom) -->
+  <rect x="320" y="385" width="160" height="60" rx="10" ry="10"
+        fill="#fee2e2" stroke="#b91c1c" stroke-width="2" />
+  <text x="400" y="415" text-anchor="middle" class="phase">
+    Reconnect
+  </text>
+  <text x="400" y="435" text-anchor="middle" class="small">
+    presence &amp; co-regulation
+  </text>
+  
+
+  <!-- Respond (left) -->
+  <rect x="60" y="230" width="160" height="60" rx="10" ry="10"
+        fill="#ffedd5" stroke="#ea580c" stroke-width="2" />
+  <text x="140" y="260" text-anchor="middle" class="phase">
+    Respond
+  </text>
+  <text x="140" y="280" text-anchor="middle" class="small">
+    creative output
+  </text>
+
+  <!-- Arrows between phases (clockwise) -->
+
+  <!-- Recognize -> Release (right, diagonal) -->
+  <line x1="480" y1="130" x2="580" y2="230"
+        stroke="#111827" stroke-width="2" marker-end="url(#arrowhead)" />
+
+  <!-- Release -> Reconnect (from bottom-left corner to top-right corner) -->
+  <line x1="580" y1="290" x2="480" y2="385"
+        stroke="#111827" stroke-width="2" marker-end="url(#arrowhead)" />
+
+  <!-- Reconnect -> Respond (diagonal up-left) -->
+  <line x1="320" y1="385" x2="220" y2="290"
+        stroke="#111827" stroke-width="2" marker-end="url(#arrowhead)" />
+
+  <!-- Respond -> Recognize (diagonal up-right) -->
+  <line x1="220" y1="230" x2="320" y2="125"
+        stroke="#111827" stroke-width="2" marker-end="url(#arrowhead)" />
+
+  <!-- Bottom caption -->
+  <text x="400" y="495" text-anchor="middle" class="small">
+    Each pass through Recognize → Release → Reconnect → Respond feeds Recursive Intelligence,
+  </text>
+  <text x="400" y="513" text-anchor="middle" class="small">
+    so NI and AI return to the next challenge with more integrated patterns instead of repeating the past.
+  </text>
+</svg>

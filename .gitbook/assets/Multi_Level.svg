@@ -1,0 +1,125 @@
+<svg width="800" height="550" viewBox="0 0 800 550" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: sans-serif; font-size: 20px; fill: #111827; }
+      .label { font-family: sans-serif; font-size: 14px; fill: #111827; }
+      .small { font-family: sans-serif; font-size: 12px; fill: #4b5563; }
+      .box  { fill: none; stroke: #111827; stroke-width: 1.5; rx: 8; ry: 8; }
+    </style>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" class="title">
+    Holarchic Regenerative Cycles – From Individuals to Planet
+  </text>
+
+  <!-- Level 1: Individual -->
+  <rect x="120" y="90" width="560" height="80" class="box" />
+  <!-- Simple person icon (circle + body line) -->
+  <circle cx="170" cy="120" r="10" fill="none" stroke="#111827" stroke-width="1.5" />
+  <line x1="170" y1="130" x2="170" y2="150" stroke="#111827" stroke-width="1.5" />
+  <line x1="170" y1="135" x2="160" y2="145" stroke="#111827" stroke-width="1.2" />
+  <line x1="170" y1="135" x2="180" y2="145" stroke="#111827" stroke-width="1.2" />
+
+  <text x="230" y="120" class="label">Individual</text>
+  <text x="230" y="140" class="small">
+    self-regulation &amp; ego pattern reconfiguration
+  </text>
+
+  <!-- Mini enso icon (open circle) for individual -->
+  <path d="
+      M 640 115
+      A 14 14 0 1 1 621 108
+    "
+    fill="none" stroke="#111827" stroke-width="2" stroke-linecap="round" />
+  <text x="640" y="140" text-anchor="middle" class="small">
+    local regenerative
+  </text>
+  <text x="640" y="156" text-anchor="middle" class="small">
+    Recognize → Release → Reconnect → Respond
+  </text>
+
+  <!-- Level 2: Group / Team -->
+  <rect x="120" y="190" width="560" height="80" class="box" />
+  <!-- Group icon (three circles in a cluster) -->
+  <circle cx="160" cy="220" r="8" fill="none" stroke="#111827" stroke-width="1.5" />
+  <circle cx="180" cy="210" r="8" fill="none" stroke="#111827" stroke-width="1.5" />
+  <circle cx="200" cy="220" r="8" fill="none" stroke="#111827" stroke-width="1.5" />
+
+  <text x="230" y="220" class="label">Group / Team</text>
+  <text x="230" y="240" class="small">
+    non-violent communication, conflict repair, shared shadow work
+  </text>
+
+  <!-- Mini enso for group -->
+  <path d="
+      M 640 215
+      A 14 14 0 1 1 621 208
+    "
+    fill="none" stroke="#111827" stroke-width="2" stroke-linecap="round" />
+  <text x="640" y="240" text-anchor="middle" class="small">
+    group-level cycle:
+  </text>
+  <text x="640" y="256" text-anchor="middle" class="small">
+    norms &amp; agreements update
+  </text>
+
+  <!-- Level 3: Institution / Platform -->
+  <rect x="120" y="290" width="560" height="80" class="box" />
+  <!-- Institution icon (simple building) -->
+  <rect x="150" y="310" width="60" height="40"
+        fill="none" stroke="#111827" stroke-width="1.5" />
+  <line x1="150" y1="325" x2="210" y2="325" stroke="#111827" stroke-width="1.2" />
+  <line x1="150" y1="335" x2="210" y2="335" stroke="#111827" stroke-width="1.2" />
+
+  <text x="250" y="320" class="label">Institution / Platform</text>
+  <text x="250" y="340" class="small">
+    policies, incentives, and infrastructures redesigned in response to stress signals
+  </text>
+
+  <!-- Mini enso for institution -->
+  <path d="
+      M 640 315
+      A 14 14 0 1 1 621 308
+    "
+    fill="none" stroke="#111827" stroke-width="2" stroke-linecap="round" />
+  <text x="640" y="340" text-anchor="middle" class="small">
+    institutional cycle:
+  </text>
+  <text x="640" y="356" text-anchor="middle" class="small">
+    governance &amp; structure update
+  </text>
+
+  <!-- Level 4: Ecosystem / Planet -->
+  <rect x="120" y="390" width="560" height="80" class="box" />
+  <!-- Planet icon (circle with simple continent hint) -->
+  <circle cx="170" cy="430" r="18" fill="none" stroke="#111827" stroke-width="1.5" />
+  <path d="M160 425 C165 420 175 420 180 425" fill="none" stroke="#111827" stroke-width="1.2" />
+  <path d="M160 435 C165 440 175 440 180 435" fill="none" stroke="#111827" stroke-width="1.2" />
+
+  <text x="250" y="425" class="label">Ecosystem / Planet</text>
+  <text x="250" y="445" class="small">
+    ecological feedback recognized as global stress signal; coordinated regenerative response
+  </text>
+
+  <!-- Mini enso for planet -->
+  <path d="
+      M 640 415
+      A 14 14 0 1 1 621 408
+    "
+    fill="none" stroke="#111827" stroke-width="2" stroke-linecap="round" />
+  <text x="640" y="440" text-anchor="middle" class="small">
+    planetary cycle:
+  </text>
+  <text x="640" y="456" text-anchor="middle" class="small">
+    collective learning &amp; adaptation
+  </text>
+
+  <!-- Bottom caption -->
+  <text x="400" y="510" text-anchor="middle" class="small">
+    Regenerative Cycles repeat across the holarchy—individuals, groups, institutions, and the planet—
+  </text>
+  <text x="400" y="528" text-anchor="middle" class="small">
+    supporting prosocial multilevel selection and trauma-informed evolution toward universal kindness.
+  </text>
+</svg>

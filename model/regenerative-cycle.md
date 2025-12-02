@@ -10,20 +10,22 @@ description: Regenerative Cycle – Integrating Shadow into Wisdom
 > Stress enters the system → Guided Regulation cools energy → Presence & Co‑Regulation restores attunement → Creative Output returns vitality to Baseline Readiness.\
 > A small white gap symbolizes renewal and the ever‑present potential for new challenge.
 
+<figure><img src="../.gitbook/assets/recursiveCycle (1).svg" alt=""><figcaption></figcaption></figure>
+
 ### ![](<../.gitbook/assets/image (7).png>)Recognize: (Observe concerning events)
 
 Not reacting immediately, take time to observe and acknowledge concerning events or triggers
 
-### ![](<../.gitbook/assets/image (8).png>)Release:  ( Pause to witness anti-patterns and structural harms)
+### ![](<../.gitbook/assets/image (8).png>)Release: ( Pause to witness anti-patterns and structural harms)
 
-Release ties to the process of distilling insight - letting go of old patterns, old ways of thinking, \
+Release ties to the process of distilling insight - letting go of old patterns, old ways of thinking,\
 accept the unpredictability of life...letting go of preconceptions
 
 ### ![](<../.gitbook/assets/image (9).png>)Reconnect: (Presence & co-regulation)
 
 Reconnection happens in the **now**, grounded in empathy, attunement , and mutual regulation
 
-### ![](<../.gitbook/assets/image (10).png>)Respond: ( Creative output &  regenerative response )
+### ![](<../.gitbook/assets/image (10).png>)Respond: ( Creative output & regenerative response )
 
 Embed new practices and creative output into systems to close feedback loops towards wellbeing
 
@@ -31,7 +33,7 @@ Embed new practices and creative output into systems to close feedback loops tow
 
 ***
 
-### 1. ![](<../.gitbook/assets/image (7).png>)Recognize:  Stress Enters the System
+### 1. ![](<../.gitbook/assets/image (7).png>)Recognize: Stress Enters the System
 
 * **What**: External demands (deadlines, crises) or internal triggers (old trauma, self‑criticism) push the nervous system toward hyperarousal.
 * **Neuroscience (**[**NsK link**](../foundations/nsk-overview.md)**)**: Sympathetic activation raises cortisol and adrenaline; mirror‑neuron systems may amplify social stress[^1].
@@ -93,8 +95,6 @@ Embed new practices and creative output into systems to close feedback loops tow
 
 * [NsK Overview: ](../foundations/nsk-overview.md)“Neuroscience of Kindness” in GitBook
 * [Self‑Organized Criticality](../foundations/soc-basics/) and [pink‑noise](../foundations/soc-basics/pink-noise.md) rhythms in complex systems
-
-
 
 {% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
 

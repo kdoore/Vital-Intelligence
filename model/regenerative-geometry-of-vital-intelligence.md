@@ -17,6 +17,8 @@ In VIM, these are not religious claims; they are **symbolic lenses on real dynam
 
 ***
 
+<figure><img src="../.gitbook/assets/tranquil_axolotl_54302_a_minimalist_open_enso_where_the_brush_5a65e99b-9870-4358-8cba-278f772b5b0f_3.png" alt=""><figcaption></figcaption></figure>
+
 ### 2. Enso & Ouroboros – Recursive Shadow Integration
 
 #### Enso: Open Wholeness and the White Gap
@@ -148,6 +150,8 @@ In this sense, **stress is information**:
 * At the planetary level, ecological breakdown is a macro-level stress signal about our collective world-model.
 
 The Regenerative Cycle teaches us to **treat stress as data, not as an enemy**—to integrate shadow rather than numb it.
+
+<figure><img src="../.gitbook/assets/Multi_Level (1).svg" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -1,0 +1,94 @@
+<svg width="800" height="560" viewBox="0 0 800 560" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: sans-serif; font-size: 20px; fill: #111827; }
+      .label { font-family: sans-serif; font-size: 14px; fill: #111827; }
+      .small { font-family: sans-serif; font-size: 12px; fill: #4b5563; }
+      .box  { fill: none; stroke: #111827; stroke-width: 1.5; rx: 10; ry: 10; }
+    </style>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" class="title">
+    Holarchic Regenerative Cycles – From Individual to Planet
+  </text>
+
+  <!-- Level 1: Individual -->
+  <rect x="80" y="70" width="640" height="90" class="box" />
+
+  <!-- Individual icon: simple person -->
+  <circle cx="120" cy="105" r="10" fill="none" stroke="#111827" stroke-width="1.5" />
+  <line x1="120" y1="115" x2="120" y2="135" stroke="#111827" stroke-width="1.5" />
+  <line x1="120" y1="122" x2="110" y2="132" stroke="#111827" stroke-width="1.2" />
+  <line x1="120" y1="122" x2="130" y2="132" stroke="#111827" stroke-width="1.2" />
+
+  <!-- Individual text -->
+  <text x="170" y="100" class="label">Individual</text>
+  <text x="170" y="118" class="small">
+    Self-regulation &amp; ego-pattern reconfiguration
+  </text>
+  <text x="170" y="136" class="small">
+    Trauma-informed awareness and somatic release
+  </text>
+
+  <!-- Level 2: Group / Team -->
+  <rect x="80" y="180" width="640" height="90" class="box" />
+
+  <!-- Group icon: three heads -->
+  <circle cx="115" cy="215" r="7" fill="none" stroke="#111827" stroke-width="1.5" />
+  <circle cx="135" cy="205" r="7" fill="none" stroke="#111827" stroke-width="1.5" />
+  <circle cx="155" cy="215" r="7" fill="none" stroke="#111827" stroke-width="1.5" />
+
+  <!-- Group text -->
+  <text x="190" y="210" class="label">Group / Team</text>
+  <text x="190" y="228" class="small">
+    Non-violent communication &amp; conflict repair
+  </text>
+  <text x="190" y="246" class="small">
+    Shared shadow work, psychological safety, co-regulation
+  </text>
+
+  <!-- Level 3: Institution / Platform -->
+  <rect x="80" y="290" width="640" height="90" class="box" />
+
+  <!-- Institution icon: simple building -->
+  <rect x="110" y="310" width="60" height="40"
+        fill="none" stroke="#111827" stroke-width="1.5" />
+  <line x1="110" y1="325" x2="170" y2="325" stroke="#111827" stroke-width="1.2" />
+  <line x1="110" y1="335" x2="170" y2="335" stroke="#111827" stroke-width="1.2" />
+
+  <!-- Institution text -->
+  <text x="190" y="310" class="label">Institution / Platform</text>
+  <text x="190" y="328" class="small">
+    Policies, incentives, and structures updated in response to stress signals
+  </text>
+  <text x="190" y="346" class="small">
+    Prosocial design (Ostrom, Prosocial) embedded in governance
+  </text>
+
+  <!-- Level 4: Ecosystem / Planet -->
+  <rect x="80" y="400" width="640" height="90" class="box" />
+
+  <!-- Planet icon -->
+  <circle cx="120" cy="445" r="18" fill="none" stroke="#111827" stroke-width="1.5" />
+  <path d="M110 440 C115 435 125 435 130 440" fill="none" stroke="#111827" stroke-width="1.2" />
+  <path d="M110 450 C115 455 125 455 130 450" fill="none" stroke="#111827" stroke-width="1.2" />
+
+  <!-- Planet text -->
+  <text x="170" y="435" class="label">Ecosystem / Planet</text>
+  <text x="170" y="453" class="small">
+    Ecological breakdown recognized as global stress signal
+  </text>
+  <text x="170" y="471" class="small">
+    Coordinated regenerative response across scales
+  </text>
+
+  <!-- Bottom caption -->
+  <text x="400" y="520" text-anchor="middle" class="small">
+    Regenerative Cycles repeat across the holarchy—individuals, groups, institutions, and the planet—
+  </text>
+  <text x="400" y="538" text-anchor="middle" class="small">
+    supporting prosocial multilevel selection and trauma-informed evolution toward universal kindness.
+  </text>
+</svg>
+
