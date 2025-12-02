@@ -4,6 +4,8 @@ description: Enso · Ouroboros · Torus · Holarchy · Prosocial Evolution
 
 # Regenerative Geometry of Vital Intelligence
 
+<figure><img src="../.gitbook/assets/recursiveCycle (1).svg" alt=""><figcaption></figcaption></figure>
+
 ### 1. Why Geometry and Symbol Belong in VIM
 
 The Vital Intelligence Model (VIM) treats intelligence as **recursive**: systems that sense themselves, model themselves, and update themselves in response to experience. Across cultures and sciences, this recursion keeps appearing in **geometric** and **mythic** forms:
@@ -16,8 +18,6 @@ The Vital Intelligence Model (VIM) treats intelligence as **recursive**: systems
 In VIM, these are not religious claims; they are **symbolic lenses on real dynamics** in nervous systems, groups, and AI-mediated infrastructures.
 
 ***
-
-<figure><img src="../.gitbook/assets/tranquil_axolotl_54302_a_minimalist_open_enso_where_the_brush_5a65e99b-9870-4358-8cba-278f772b5b0f_3.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Enso & Ouroboros – Recursive Shadow Integration
 
@@ -35,6 +35,8 @@ VIM focuses on the **open ensō** because it visually encodes:
   * New possibilities emerge before the next loop begins.
 
 In VIM, this gap is the space between **Respond** and the next **Recognize** in the Regenerative Cycle—the contemplative pause where experience is digested into new capacity.
+
+<figure><img src="../.gitbook/assets/tranquil_axolotl_54302_a_minimalist_open_enso_where_the_brush_5a65e99b-9870-4358-8cba-278f772b5b0f_3.png" alt=""><figcaption></figcaption></figure>
 
 #### Ouroboros: Shadow Integration and Feedback
 
