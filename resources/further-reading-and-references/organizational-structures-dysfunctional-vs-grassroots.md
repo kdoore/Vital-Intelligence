@@ -34,6 +34,8 @@ description: References and Articles about Organizational Structures
 
 {% embed url="https://willruddick.substack.com/p/grassroots-economics-the-book-is" %}
 
+{% embed url="https://www.theguardian.com/environment/2025/dec/04/miss-having-a-dog-village-banned-pets-save-wildlife" %}
+
 ### Indigenous Cultures and Trauma
 
 {% embed url="https://www.theguardian.com/artanddesign/2025/oct/23/blackfeet-nation-bison-food-sovereignty-montana" %}

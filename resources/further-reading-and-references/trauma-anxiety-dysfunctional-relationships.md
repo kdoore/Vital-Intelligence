@@ -16,6 +16,12 @@ Mental illnesses are common in the United States and around the world. It is est
 >
 > The data was gathered from the Adolescent Brain Cognitive Development study and [published in the journal](https://www.nature.com/articles/s44220-025-00508-1) Nature Mental Health.
 
+### Recovery from Moral Injuries
+
+{% embed url="https://greatergood.berkeley.edu/article/item/how_to_recover_after_acting_against_your_own_values?" %}
+
+{% embed url="https://greatergood.berkeley.edu/article/item/how_todays_righteous_violence_turns_into_tomorrows_psychological_suffering?" %}
+
 ### Anxiety: Work - Life Balance: Data 2025:&#x20;
 
 And in a warning sign of a breakdown in trust between employers and younger workers, the proportion of 18-24-year-olds who would feel comfortable opening up to a line manager about pressure and stress dropped sharply from 75% in the Burnout Report 2024 to 56% in the past year.

@@ -113,7 +113,7 @@
   * [Trauma, Anxiety, Dysfunctional Relationships](resources/further-reading-and-references/trauma-anxiety-dysfunctional-relationships.md)
   * [Organizational Structures: Dysfunctional vs Grassroots](resources/further-reading-and-references/organizational-structures-dysfunctional-vs-grassroots.md)
   * [AI Risks & Management](resources/further-reading-and-references/ai-risks-and-management.md)
-  * [Linguistics Research](resources/further-reading-and-references/linguistics-research.md)
+  * [Prosocial Research](resources/further-reading-and-references/prosocial-research.md)
 * [Downloads](resources/downloads/README.md)
   * [Vital Intelligence Model: Zine](resources/downloads/vital-intelligence-zine.md)
 * [Tools & Benchmarks](resources/tools-and-benchmarks.md)
