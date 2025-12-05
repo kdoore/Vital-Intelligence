@@ -40,7 +40,9 @@ description: >-
 >
 > “There’s clearly real risks,” he said in an interview with the comedian Theo Von, which was short on laughs. “It kind of feels like you should be able to say something more than that, but in truth, I think all we know right now is that we have discovered … something extraordinary that is going to reshape the course of our history.”
 
+#### Deep Fakes, AI Porn Platforms
 
+{% embed url="https://www.theguardian.com/society/ng-interactive/2025/dec/05/it-was-about-degrading-someone-completely-the-story-of-mr-deepfakes-the-worlds-most-notorious-ai-porn-site" %}
 
 #### Platforms: Articles:
 
