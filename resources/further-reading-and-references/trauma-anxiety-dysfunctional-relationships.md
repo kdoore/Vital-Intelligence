@@ -22,6 +22,12 @@ Mental illnesses are common in the United States and around the world. It is est
 
 {% embed url="https://greatergood.berkeley.edu/article/item/how_todays_righteous_violence_turns_into_tomorrows_psychological_suffering?" %}
 
+> &#x20;You remember the decisions you made with adrenaline screaming in your ears. You remember your first gunfight and how your hand hurt for days from how hard you were squeezing the pistol grip on your M-4. That distance between who you were and who you are is what [moral injury](https://greatergood.berkeley.edu/article/item/how_to_recover_after_acting_against_your_own_values) really is. It’s not post-traumatic stress disorder; it’s not nightmares or jumpiness or noise. It’s the collapse of the story you told yourself to get through the war, the collapse of the person you thought you were.
+
+### Contextual Behavior Science
+
+{% embed url="https://beingprosocial.substack.com/p/six-core-ideas-from-contextual-behavioural" %}
+
 ### Anxiety: Work - Life Balance: Data 2025:&#x20;
 
 And in a warning sign of a breakdown in trust between employers and younger workers, the proportion of 18-24-year-olds who would feel comfortable opening up to a line manager about pressure and stress dropped sharply from 75% in the Burnout Report 2024 to 56% in the past year.
