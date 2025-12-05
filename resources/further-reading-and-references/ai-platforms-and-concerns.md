@@ -44,6 +44,9 @@ description: >-
 
 {% embed url="https://www.theguardian.com/society/ng-interactive/2025/dec/05/it-was-about-degrading-someone-completely-the-story-of-mr-deepfakes-the-worlds-most-notorious-ai-porn-site" %}
 
+> In fact, that scenario was entirely possible. The origins of Mr Deepfakes stretch back to 2017-18 when AI porn was just beginning to build on social media sites such as Reddit. One anonymous Redditor and AI porn “pioneer” who went by the name of “deepfakes” (and is thus credited with coining the term) gave an [early interview](https://www.vice.com/en/article/gal-gadot-fake-ai-porn/) to Vice about its potential. Shortly after, though, in early 2018, [Reddit banned deepfake porn](https://www.theguardian.com/technology/2018/feb/08/reddit-bans-deepfakes-face-swap-porn-community) from its site. “We have screenshots from their message boards at that time and the deepfake community, which was small, was freaking out and jumping ship,” says Compton. This is when Mr DeepFakes was created, with the early domain name dpfks.com. The administrator carried the same username – dpfks – and was the person who advertised for volunteers to work as moderators, and posted rules and guidelines, as well as deepfake videos and an in-depth guide to using software for deepfake porn.\
+> “What’s so depressing about reading the messages and seeing the genesis is realising how easily governments could have stopped this in its tracks,” says Compton. “The people doing it didn’t believe they were going to be allowed free rein. They were saying: ‘They’re coming for us!’, ‘They’re never going to let us do this!’ But as they continued without any problems at all, you see this growing emboldenment.
+
 #### Platforms: Articles:
 
 {% embed url="https://www.theguardian.com/commentisfree/2025/nov/23/ai-use-strengthen-democracy" %}
