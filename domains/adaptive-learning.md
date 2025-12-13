@@ -88,8 +88,6 @@ This loop illustrates VI in action: human creativity sets direction, AI provides
 
 ***
 
-_Next:_ Move to [**Domains/Ethical‑Alignment**](ethical-alignment.md) for shadow‑integration frameworks, or explore [**Alignment Matrix**](../model/alignment-matrix.md) to see how NI, AI, and VI distribute across all domains.
-
-
+_Next:_ Move to [**Domains/Ethical‑Alignment**](ethical-alignment.md) for shadow‑integration frameworks, or explore [**Alignment Matrix**](../models/alignment-matrix.md) to see how NI, AI, and VI distribute across all domains.
 
 {% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}

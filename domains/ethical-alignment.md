@@ -78,6 +78,6 @@ This example shows VI at work: human empathy guides AI audits, and together they
 
 ***
 
-_Next:_ Explore [**Alignment Matrix**](../model/alignment-matrix.md) for a cross‑domain snapshot of NI, AI, and VI roles, or view the [**Regenerative Cycle**](../model/regenerative-cycle.md) to see how ethical insights fuel systemic renewal.
+_Next:_ Explore [**Alignment Matrix**](../models/alignment-matrix.md) for a cross‑domain snapshot of NI, AI, and VI roles, or view the [**Regenerative Cycle**](../models/regenerative-cycle.md) to see how ethical insights fuel systemic renewal.
 
 {% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}

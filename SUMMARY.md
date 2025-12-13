@@ -10,17 +10,17 @@
   * [Complexity and Evoloutionary Frameworks](introduction/theoretical-frameworks/complexity-and-evoloutionary-frameworks.md)
 * [Trauma-Informed Holarchy](introduction/trauma-informed-holarchy.md)
 
-## Model
+## Models
 
-* [Overview: VIM: NI & AI](model/overview.md)
-* [Regenerative Geometry of Vital Intelligence](model/regenerative-geometry-of-vital-intelligence.md)
-* [Domains](model/domains.md)
-* [Alignment Matrix](model/alignment-matrix.md)
-* [Regenerative Cycle](model/regenerative-cycle.md)
-* [Recursive Intelligence](model/recursive-intelligence/README.md)
-  * [Recursive Intelligence: Flow of Awareness and Transformation](model/recursive-intelligence/recursive-intelligence-flow-of-awareness-and-transformation.md)
-  * [Recursive Healing in An Age of Acceleration](model/recursive-intelligence/recursive-healing-in-an-age-of-acceleration.md)
-* [Shadow Intelligence, Dark Patterns of AI](model/shadow-intelligence-dark-patterns-of-ai.md)
+* [Overview: VIM: NI & AI](models/overview.md)
+* [Regenerative Geometry of Vital Intelligence](models/regenerative-geometry-of-vital-intelligence.md)
+* [Domains](models/domains.md)
+* [Alignment Matrix](models/alignment-matrix.md)
+* [Regenerative Cycle](models/regenerative-cycle.md)
+* [Recursive Intelligence](models/recursive-intelligence/README.md)
+  * [Recursive Intelligence: Flow of Awareness and Transformation](models/recursive-intelligence/recursive-intelligence-flow-of-awareness-and-transformation.md)
+  * [Recursive Healing in An Age of Acceleration](models/recursive-intelligence/recursive-healing-in-an-age-of-acceleration.md)
+* [Shadow Intelligence, Dark Patterns of AI](models/shadow-intelligence-dark-patterns-of-ai.md)
 
 ## Language \~ Sketchbook
 
@@ -83,6 +83,12 @@
   * [Avalanche of Kindness](presentations/resisting-ai-harm-reclaiming-human-wisdom/avalanche-of-kindness.md)
   * [Language and Narrative](presentations/resisting-ai-harm-reclaiming-human-wisdom/language-and-narrative.md)
   * [Discussion Prompt](presentations/resisting-ai-harm-reclaiming-human-wisdom/discussion-prompt.md)
+* [TAI-KPI Project](presentations/tai-kpi-project/README.md)
+  * [TAI-KPI: Conceptual Overview](presentations/tai-kpi-project/tai-kpi-conceptual-overview.md)
+  * [Pedagogical Framework](presentations/tai-kpi-project/pedagogical-framework.md)
+  * [Creative Automata: ARGs, Playful Simulations:](presentations/tai-kpi-project/creative-automata-args-playful-simulations/README.md)
+    * [Narrative Prototypes](presentations/tai-kpi-project/creative-automata-args-playful-simulations/narrative-prototypes.md)
+  * [Cognitive Resonance Mapping](presentations/tai-kpi-project/cognitive-resonance-mapping.md)
 
 ## Applications and Extensions
 
