@@ -80,4 +80,4 @@ This cycle shows VI in action: AI’s scale and data‑speed meet your human cap
 
 ***
 
-_Next:_ See [**Domains/Relational‑Mapping**](relational-mapping.md) for network‑level meaning‑making, or [**Alignment Matrix**](../models/alignment-matrix.md) to compare NI, AI, and VI across all four domains.
+_Next:_ See [**Domains/Relational‑Mapping**](relational-mapping.md) for network‑level meaning‑making, or [**Alignment Matrix**](../model/alignment-matrix.md) to compare NI, AI, and VI across all four domains.

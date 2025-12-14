@@ -6,6 +6,12 @@ Mental illnesses are common in the United States and around the world. It is est
 
 {% embed url="https://www.nimh.nih.gov/health/statistics/mental-illness" %}
 
+{% embed url="https://www.theguardian.com/us-news/ng-interactive/2025/dec/14/trauma-mental-health" %}
+
+{% embed url="https://www.theguardian.com/us-news/ng-interactive/2025/nov/09/healthcare-artificial-intelligence-ai" %}
+
+> The problem is that when it is installed in a health sector that prizes efficiency, surveillance and profit extraction, AI becomes not a tool for care and community but simply another instrument for commodifying human life.
+
 ### Inequity and Neuroscience
 
 {% embed url="https://www.theguardian.com/science/2025/sep/30/study-links-greater-inequality-to-structural-changes-in-childrens-brains" %}

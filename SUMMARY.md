@@ -12,15 +12,15 @@
 
 ## Models
 
-* [Overview: VIM: NI & AI](models/overview.md)
-* [Regenerative Geometry of Vital Intelligence](models/regenerative-geometry-of-vital-intelligence.md)
-* [Domains](models/domains.md)
-* [Alignment Matrix](models/alignment-matrix.md)
-* [Regenerative Cycle](models/regenerative-cycle.md)
-* [Recursive Intelligence](models/recursive-intelligence/README.md)
-  * [Recursive Intelligence: Flow of Awareness and Transformation](models/recursive-intelligence/recursive-intelligence-flow-of-awareness-and-transformation.md)
-  * [Recursive Healing in An Age of Acceleration](models/recursive-intelligence/recursive-healing-in-an-age-of-acceleration.md)
-* [Shadow Intelligence, Dark Patterns of AI](models/shadow-intelligence-dark-patterns-of-ai.md)
+* [Overview: VIM: NI & AI](model/overview.md)
+* [Regenerative Geometry of Vital Intelligence](model/regenerative-geometry-of-vital-intelligence.md)
+* [Domains](model/domains.md)
+* [Alignment Matrix](model/alignment-matrix.md)
+* [Regenerative Cycle](model/regenerative-cycle.md)
+* [Recursive Intelligence](model/recursive-intelligence/README.md)
+  * [Recursive Intelligence: Flow of Awareness and Transformation](model/recursive-intelligence/recursive-intelligence-flow-of-awareness-and-transformation.md)
+  * [Recursive Healing in An Age of Acceleration](model/recursive-intelligence/recursive-healing-in-an-age-of-acceleration.md)
+* [Shadow Intelligence, Dark Patterns of AI](model/shadow-intelligence-dark-patterns-of-ai.md)
 
 ## Language \~ Sketchbook
 

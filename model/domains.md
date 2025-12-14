@@ -4,7 +4,7 @@ description: Four Interdependent Domains of Dynamic Intelligence
 
 # Domains
 
-### Vital Intelligence Modeled as Dynamic Cycles of Information Processing&#x20;
+### Vital Intelligence Modeled as Dynamic Cycles of Information Processing
 
 <figure><img src="../.gitbook/assets/ChatGPT Image Apr 24, 2025, 04_10_19 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
