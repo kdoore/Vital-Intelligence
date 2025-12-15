@@ -23,7 +23,7 @@ TAI-KPI proposes that if we want trustworthy, sustainable AI integration, we nee
 * **Organizational structures that support bidirectional feedback**, not just top-down control.
 * **AI-literate humans** who can see their own nervous systems, their institutions, and their tools as parts of a larger, living system.
 
-### [TAI-KPI Conceptual Overview](./#tai-kpi-conceptual-overview)
+### [TAI-KPI Conceptual Overview](tai-kpi-conceptual-overview.md)
 
 ### [Pedagogical Framework](./#pedagogical-framework-cognitive-resonance-mapping)  [Cognitive Resonance Mapping](./#pedagogical-framework-cognitive-resonance-mapping)
 
