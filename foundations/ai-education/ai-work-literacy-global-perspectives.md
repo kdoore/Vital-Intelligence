@@ -1,8 +1,13 @@
 ---
-description: 'China-US AI Perspectives on AGI: Researcher Song-Chun Zhu'
+description: AI Literacy and Impacts
 ---
 
-# AI - Global Perspectives
+# AI - Work, Literacy: Global Perspectives
+
+{% embed url="https://www.lse.ac.uk/study-at-lse/executive-education/insights/articles/the-10-most-in-demand-tech-careers-of-2026?" %}
+
+> As AI becomes embedded across industries, it’s driving expansion in cybersecurity, data sharing and a new generation of hybrid roles that combine technical skill, strategic judgement and ethical awareness. The World Economic Forum estimates that [39%](https://www.weforum.org/publications/the-future-of-jobs-report-2025/in-full/3-skills-outlook/) of workers’ core skills will change by 2030 as employers adapt to technologies such as generative AI. By 2026, the most sought-after professionals will combine **AI literacy and data analytics with human problem-solving**, working confidently alongside intelligent systems.\
+> This list of the most in-demand tech careers for 2026 spans AI, data science, cloud and DevOps engineering, cybersecurity and UX/UI design, and is now joined by emerging fields such as data governance, AI ethics and AI product management, all of which have seen sharp growth in the UK’s digital economy.
 
 {% embed url="https://www.theguardian.com/news/ng-interactive/2025/sep/16/song-chun-zhu-why-one-of-the-worlds-most-brilliant-ai-scientists-left-the-us-for-china" %}
 

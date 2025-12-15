@@ -28,7 +28,7 @@ This is the “Observer” that can invite other crew members to help steer.
 
 ***
 
-#### We Are All Running Simulations
+### We Are All Running Simulations
 
 From the outside, we look like humans in conversation. On the inside, each starship is:
 
@@ -36,9 +36,9 @@ From the outside, we look like humans in conversation. On the inside, each stars
 * filling in the gaps with its favorite function (pilot bias),
 * and running a simulation of **what it thinks other starships are thinking.**
 
-That simulation of “what must be going on in their head” is our **theory of mind**. It is essential for cooperation—and deeply unreliable.
+That simulation of “what must be going on in their head” is our **theory of mind**. It is essential for cooperation—**and deeply unreliable**.
 
-Our inner models are shaped by:
+**Our inner models are shaped by:**
 
 * personal history and trauma,
 * culture and language,
@@ -49,7 +49,7 @@ From this perspective, we are all a little bit alien to each other. We never get
 
 ***
 
-#### Why Kindness Matters for Simulation-Based Creatures
+### Why Kindness Matters for Simulation-Based Creatures
 
 When we are in survival mode—high threat, high stress—our starship shrinks. The pilot grabs the controls, slams the throttle, and locks the doors. Our simulation of the world narrows to:
 
@@ -74,7 +74,7 @@ This opens the door for genuine collaboration and for **reverse mentoring**: you
 
 ***
 
-#### Holarchy Inside One Starship
+### Holarchy Inside One Starship
 
 The holarchy model doesn’t just apply to societies or AI systems; it also applies _inside_ one person.
 

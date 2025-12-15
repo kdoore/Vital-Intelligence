@@ -1,5 +1,5 @@
 ---
-description: Humans as information processing systems
+description: Humans as Information Processing Systems
 ---
 
 # Cognitive Resonance Mapping

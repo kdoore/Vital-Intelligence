@@ -21,6 +21,12 @@
   * [Recursive Intelligence: Flow of Awareness and Transformation](model/recursive-intelligence/recursive-intelligence-flow-of-awareness-and-transformation.md)
   * [Recursive Healing in An Age of Acceleration](model/recursive-intelligence/recursive-healing-in-an-age-of-acceleration.md)
 * [Shadow Intelligence, Dark Patterns of AI](model/shadow-intelligence-dark-patterns-of-ai.md)
+* [TAI-KPI Project](models/tai-kpi-project/README.md)
+  * [TAI-KPI: Conceptual Overview](models/tai-kpi-project/tai-kpi-conceptual-overview.md)
+  * [Pedagogical Framework](models/tai-kpi-project/pedagogical-framework.md)
+  * [Cognitive Resonance Mapping](models/tai-kpi-project/cognitive-resonance-mapping.md)
+  * [Creative Automata: ARGs, Playful Simulations:](models/tai-kpi-project/creative-automata-args-playful-simulations/README.md)
+    * [Narrative Prototypes](models/tai-kpi-project/creative-automata-args-playful-simulations/narrative-prototypes.md)
 
 ## Language \~ Sketchbook
 
@@ -43,7 +49,7 @@
 
 * [AI Education](foundations/ai-education/README.md)
   * [AI and Global Knowledge Collapse](foundations/ai-education/ai-and-global-knowledge-collapse.md)
-  * [AI - Global Perspectives](foundations/ai-education/ai-global-perspectives.md)
+  * [AI - Work, Literacy: Global Perspectives](foundations/ai-education/ai-work-literacy-global-perspectives.md)
 * [NsK Overview](foundations/nsk-overview.md)
 * [Complexity Science and Modeling](foundations/complexity-science-and-modeling.md)
 * [Self-Organized Criticality (SOC)](foundations/soc-basics/README.md)
@@ -83,12 +89,6 @@
   * [Avalanche of Kindness](presentations/resisting-ai-harm-reclaiming-human-wisdom/avalanche-of-kindness.md)
   * [Language and Narrative](presentations/resisting-ai-harm-reclaiming-human-wisdom/language-and-narrative.md)
   * [Discussion Prompt](presentations/resisting-ai-harm-reclaiming-human-wisdom/discussion-prompt.md)
-* [TAI-KPI Project](presentations/tai-kpi-project/README.md)
-  * [TAI-KPI: Conceptual Overview](presentations/tai-kpi-project/tai-kpi-conceptual-overview.md)
-  * [Pedagogical Framework](presentations/tai-kpi-project/pedagogical-framework.md)
-  * [Creative Automata: ARGs, Playful Simulations:](presentations/tai-kpi-project/creative-automata-args-playful-simulations/README.md)
-    * [Narrative Prototypes](presentations/tai-kpi-project/creative-automata-args-playful-simulations/narrative-prototypes.md)
-  * [Cognitive Resonance Mapping](presentations/tai-kpi-project/cognitive-resonance-mapping.md)
 
 ## Applications and Extensions
 

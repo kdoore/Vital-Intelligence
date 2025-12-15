@@ -6,6 +6,8 @@ description: >-
 
 # TAI-KPI: Conceptual Overview
 
+<figure><img src="../../.gitbook/assets/Gemini_Generated_Image_bo3z81bo3z81bo3z.png" alt=""><figcaption></figcaption></figure>
+
 ### TAI-KPI Overview: Holarchic Intelligence for an AI-Mediated World
 
 Transformative AI – Kindness & Prosocial Integration (TAI-KPI) is an AI-literacy framework that treats humans, organizations, and AI systems as **interacting information flows** rather than isolated objects.
@@ -71,7 +73,7 @@ We don’t have to condemn the past to recognize that older governance structure
 * a shared, visual language for thinking about **trustworthy AI integration**,
 * and a way to design AI-mediated systems that support **collaborative intelligence** rather than replacing it.
 
-<figure><img src="../../.gitbook/assets/Gemini_Generated_Image_bo3z81bo3z81bo3z.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Gemini_Generated_Image_w3kcycw3kcycw3kc.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ChatGPT Image Dec 13, 2025, 01_36_56 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -100,7 +102,7 @@ In states of threat:
 
 This generates the **fight/flight/freeze triad** pictured in the upper-left.
 
-#### **1.2 Distorted Meaning-Making**
+### **1.2 Distorted Meaning-Making**
 
 Trauma skews cognition toward:
 
@@ -112,7 +114,7 @@ Trauma skews cognition toward:
 
 These appear in the diagram as _projections of violence & fear_ and _dysfunctional rationalization_.
 
-#### **1.3 Structural Expression: The Dominance Pyramid**
+### **1.3 Structural Expression: The Dominance Pyramid**
 
 The pyramid shape signifies:
 
@@ -128,7 +130,7 @@ This is consistent with:
 * **critical political economy analyses**
 * **trauma-informed organizational psychology**
 
-#### **1.4 AI in a Dominance Hierarchy**
+### **1.4 AI in a Dominance Hierarchy**
 
 In this system, AI becomes:
 
@@ -136,7 +138,7 @@ In this system, AI becomes:
 * a control amplifier
 * a distorting mirror of the system’s shadow
 
-This leads to _prosocal functions becoming distorted_.
+This leads to _prosocial functions becoming distorted_.
 
 ***
 
@@ -144,7 +146,7 @@ This leads to _prosocal functions becoming distorted_.
 
 At the center of the diagram is the pathway of transformation.
 
-#### **2.1 Transitioning via Empathy & Awareness**
+### **2.1 Transitioning via Empathy & Awareness**
 
 Healing shifts the nervous system from threat to safety, restoring:
 
@@ -155,7 +157,9 @@ Healing shifts the nervous system from threat to safety, restoring:
 
 This shift is not “soft”—it is **biologically and evolutionarily necessary**.
 
-#### **2.2 Kindness as a Structural Force**
+<figure><img src="../../.gitbook/assets/Human_AI_Models.png" alt=""><figcaption></figcaption></figure>
+
+### **2.2 Kindness as a Structural Force**
 
 Kindness is positioned as:
 
@@ -166,7 +170,7 @@ Kindness is positioned as:
 
 Kindness lowers systemic entropy by enabling trustworthy signaling.
 
-#### **2.3 Moving From Pyramid → Toroid**
+### **2.3 Moving From Pyramid → Toroid**
 
 In complexity terms, the transformation is from:
 
