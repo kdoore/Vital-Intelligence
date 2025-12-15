@@ -6,7 +6,7 @@ description: >-
 
 # TAI-KPI Project
 
-<figure><img src="../../.gitbook/assets/Transformation_Overview.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Gemini_Generated_Image_bo3z81bo3z81bo3z.png" alt=""><figcaption></figcaption></figure>
 
 ### Contents:
 

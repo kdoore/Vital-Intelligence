@@ -10,7 +10,10 @@ Mental illnesses are common in the United States and around the world. It is est
 
 {% embed url="https://www.theguardian.com/us-news/ng-interactive/2025/nov/09/healthcare-artificial-intelligence-ai" %}
 
-> The problem is that when it is installed in a health sector that prizes efficiency, surveillance and profit extraction, AI becomes not a tool for care and community but simply another instrument for commodifying human life.
+> The problem is that when it is installed in a health sector that prizes efficiency, surveillance and profit extraction, AI becomes not a tool for care and community but simply another instrument for commodifying human life.\
+> Two-thirds of [American physicians](https://www.ama-assn.org/practice-management/digital-health/2-3-physicians-are-using-health-ai-78-2023) – a 78% jump from the year prior – and 86% of [health systems](https://www.himss.org/futureofai/) used artificial intelligence as part of their practice in 2024. “AI will be as common in healthcare as the stethoscope,” [predicts](https://www.gsb.stanford.edu/insights/ai-will-be-common-healthcare-stethoscope) Dr Robert Pearl, the former CEO of Permanente Medical Group, one of the largest physician groups in the country. As my colleague Craig Spencer [has observed](https://www.theatlantic.com/health/archive/2025/08/ai-health-inequities/684047/): “Soon, not using AI to help determine diagnoses or treatments could be seen as malpractice.”
+
+{% embed url="https://www.theguardian.com/us-news/2025/nov/13/rejecting-generative-ai-in-healthcare-wont-protect-patients-it-will-harm-them" %}
 
 ### Inequity and Neuroscience
 
@@ -56,6 +59,8 @@ And in a warning sign of a breakdown in trust between employers and younger work
 > José, 19, doesn’t think the university has any control over the legacy, saying: “I don’t think anyone wants that to be our legacy. People come here to study and do their work. Nobody wants to be tied to that event.”
 >
 > What he wants people to remember is something quieter and more ordinary. “UVU is more than what happened. It promotes unity, collaboration, hard work and community,” he said. “I want people not to judge it based on that day.”
+
+{% embed url="https://www.theguardian.com/society/2025/dec/13/psychedelics-ocd-treatment-psilocybin" %}
 
 #### Thermodynamics of Work-Life Balance and Cultural Expectations
 

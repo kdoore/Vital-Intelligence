@@ -1,5 +1,13 @@
 # AI Risks & Management
 
+{% embed url="https://www.theguardian.com/uk-news/2025/dec/15/new-mi6-head-blaise-metreweli-speech-russia-threat" %}
+
+> “Mastery of technology must infuse everything we do. Not just in our labs, but in the field, in our tradecraft, and even more importantly, in the mindset of every officer. We must be as comfortable with lines of code as we are with human sources, as fluent in Python as we are in multiple languages,” she is expected to say.
+>
+> “The defining challenge of the 21st century is not simply who wields the most powerful technologies, but who guides them with the greatest wisdom. Our security, our prosperity, and our humanity depend on it,” the new chief will say.
+>
+> The spy chief is expected to say that “we all have choices to make ahead” and that <sup>“</sup>it will be our rediscovery of our shared humanity, our ability to listen, and our courage that will determine how our future unfolds”.
+
 ### AI Risk Management Frameworks
 
 {% embed url="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf?utm_source=chatgpt.com" %}

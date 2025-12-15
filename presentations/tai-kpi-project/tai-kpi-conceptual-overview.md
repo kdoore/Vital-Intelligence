@@ -71,11 +71,11 @@ We don’t have to condemn the past to recognize that older governance structure
 * a shared, visual language for thinking about **trustworthy AI integration**,
 * and a way to design AI-mediated systems that support **collaborative intelligence** rather than replacing it.
 
+<figure><img src="../../.gitbook/assets/Gemini_Generated_Image_bo3z81bo3z81bo3z.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/ChatGPT Image Dec 13, 2025, 01_36_56 PM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ChatGPT Image Dec 13, 2025, 01_39_35 PM.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Transformation_Overview.png" alt=""><figcaption></figcaption></figure>
 
 The diagrams above capture the central conceptual movements of the TAI-KPI framework: **a transition from trauma-patterned dominance hierarchies toward prosocial, holonic, toroidal collaborative intelligence**. This movement is not metaphorical—it reflects well-established neurobiological, psychological, evolutionary, and systems-theoretic principles. It guides humans in learning emotional self-regulation and co-regulation using reverse mentoring dynamics.
 
