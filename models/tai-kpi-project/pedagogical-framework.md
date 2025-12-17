@@ -31,7 +31,7 @@ That means AI alignment is not only about what happens _inside_ a model. It is i
 * between multiple AI systems,
 * and between AI and the organizations or communities in which it is embedded.
 
-## **1. Why Use Simple Automata for AI Literacy?**
+## **1. Why Use Automata and Information Modeling for AI Literacy?**
 
 Automata—finite state machines, cellular automata, state diagrams, and information-flow schemas—give us:
 

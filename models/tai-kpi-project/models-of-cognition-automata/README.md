@@ -65,7 +65,7 @@ _Organisms minimize surprise through action or model-updating._
 
 > **Active inference is the internal logic of all three automata.**
 
-<figure><img src="../../../.gitbook/assets/ActiveInference_Automata.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Human_AI_Models (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

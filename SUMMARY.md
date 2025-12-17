@@ -24,6 +24,7 @@
 * [TAI-KPI Project](models/tai-kpi-project/README.md)
   * [TAI-KPI: Conceptual Overview](models/tai-kpi-project/tai-kpi-conceptual-overview.md)
   * [Pedagogical Framework](models/tai-kpi-project/pedagogical-framework.md)
+  * [Teaching Stack of Models for TAI-KPI](models/tai-kpi-project/teaching-stack-of-models-for-tai-kpi.md)
   * [TAI-KPI · Modeling Frameworks](models/tai-kpi-project/tai-kpi-modeling-frameworks.md)
   * [Cognitive Resonance Mapping](models/tai-kpi-project/cognitive-resonance-mapping.md)
   * [Expectation-Mismatch Stress (EMS)](models/tai-kpi-project/expectation-mismatch-stress-ems.md)
