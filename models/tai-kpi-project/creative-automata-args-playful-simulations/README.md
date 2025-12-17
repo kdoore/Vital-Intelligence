@@ -1,5 +1,6 @@
 ---
 description: Branching Narrative Structures Provide a Creative Learning Approach
+hidden: true
 ---
 
 # Creative Automata: ARGs, Playful Simulations:

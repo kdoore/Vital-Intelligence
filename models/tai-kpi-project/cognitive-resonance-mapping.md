@@ -4,7 +4,7 @@ description: Humans as Information Processing Systems
 
 # Cognitive Resonance Mapping
 
-#### 1. Overview: Humans as Information Systems
+### 1. Overview: Humans as Information Systems
 
 In Cognitive Resonance Mapping, we treat humans as **living information-processing systems** embedded in larger living systems.
 
@@ -20,7 +20,7 @@ When this flow of information is **clear and adaptive**, we experience:
 
 When it is **blocked or distorted**, we experience:
 
-* chronic stress and trauma patterns
+* chronic stress and trauma patterns: (EMS) expectation-mismatch stress
 * rigid beliefs and dominance hierarchies
 * breakdowns in trust and cooperation
 
@@ -31,14 +31,14 @@ This is not a metaphor; it is how modern neuroscience and systems science descri
 * **Mirror neuron and resonance research** suggests that our brains are wired to reflect others’ states, creating powerful feedback loops in groups.
 * **Complex systems science** shows how local interactions can produce large-scale patterns such as cooperation, polarization, or collapse.
 
-Cognitive Resonance Mapping uses **simple diagrams (automata)** to let learners:
+Cognitive Resonance Mapping uses **simple diagrams (models)** to let learners:
 
 1. See their own cognitive–emotional patterns as **states and transitions**, not personal defects.
-2. Understand how **somatic grounding** changes the “state machine” they’re running.
+2. Understand how **somatic grounding** changes the “mode” of their operating system.
 3. Recognize how **kindness and trust** act as protocols that allow information to flow safely between people.
 4. Explore how **AI tools** amplify whatever patterns they already carry—either rigid dominance or resonant collaboration.
 
-The goal is not to tell people what to believe, but to give them a **modeling language** for upgrading their internal operating system to handle the complexity of an AI-mediated world.
+The goal is not to tell people what to believe, but to give them **modeling languages** for upgrading their internal operating system to handle the complexity of an AI-mediated world.
 
 ***
 
@@ -84,7 +84,7 @@ Those same structures are now being asked to absorb:
 * global interdependence,
 * and increasingly autonomous AI systems that can act faster than human oversight.
 
-This creates a tension:
+This creates a tension we're expressing as **Expectation-Mismatch Stress (EMS)** - we use _a trauma-informed framing_
 
 * The **old model** is optimized for control, secrecy, and clear chains of command.
 * The **emerging reality** demands flexibility, transparency, and multi-directional feedback.
@@ -113,7 +113,7 @@ By teaching students to think in terms of **information flows and holarchic stru
 > * human judgment is supported, not sidelined,
 > * and value creation is shared across levels—individual, organizational, and societal?
 
-This is not about taking a political stance. It is about giving future engineers, designers, artists, and policymakers a **shared modeling language** to:
+This is not about taking a political stance. It is about giving future engineers, designers, artists, and policymakers **shared modeling languages** to:
 
 * see where one-way, dominance-style structures break under complexity,
 * experiment with nested, scale-free architectures inspired by living systems,
@@ -134,5 +134,4 @@ This is not about taking a political stance. It is about giving future engineers
   * Wilson, D. S. _This View of Life: Completing the Darwinian Revolution._
   * Ostrom, E. _Governing the Commons: The Evolution of Institutions for Collective Action._
 * **Toroidal / Field-like Models of Consciousness**
-  * Meijer, D. “The Extended Mind: Recent Experimental Evidence.”
-  * Meijer, D. “The locally-entangled universe: On the origin of information flow.”
+  * Meijer, Dirk and collaborators

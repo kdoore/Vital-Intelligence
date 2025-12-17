@@ -82,7 +82,8 @@ SAFE_STATE → METACOGNITIVE_STATE
 METACOGNITIVE_STATE → COLLABORATIVE_STATE
 ```
 
-This creates a literal **state machine of healing**.
+This creates a literal **state machine of healing**.  \
+Where energy/information flows demonstrate emergence of metacognition as attentional awareness of the transient nature of experiential states associated with information processing systems.
 
 #### **2.3 Emotional coherence as energy gradients**
 
@@ -94,13 +95,13 @@ We avoid metaphysics by grounding resonance in:
 * psychoacoustics
 * nonlinear complexity theory
 
-The idea of a “cancerous tumor” is reframed scientifically as:
+The idea of dysfunctional systems are framed scientifically as:
 
 * persistent maladaptive attractor states
 * rigidified networks of belief and emotion
 * patterns resistant to updating
 
-Automata help learners externalize these patterns safely.
+Automata help learners learn to integrate these model patterns using trauma-informed contexts.
 
 ***
 
@@ -108,7 +109,7 @@ Automata help learners externalize these patterns safely.
 
 We create a simple diagram:
 
-#### **3.1 Dominance Automaton**
+#### **3.1 Dominance Hierarchy Automaton: Top-down, control flow structures**
 
 ```
 Trigger →
@@ -137,8 +138,7 @@ We show that trauma creates:
 * **frozen states**
 * **distorted signal processing**
 
-No moralization. No politics.\
-Just **system dynamics**.
+System dynamics models highlight destabilization associated with reinforcing feedback loops, balance results from integration of 'negative' feedback energy flows.
 
 ***
 

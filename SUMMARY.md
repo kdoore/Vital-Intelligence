@@ -24,7 +24,11 @@
 * [TAI-KPI Project](models/tai-kpi-project/README.md)
   * [TAI-KPI: Conceptual Overview](models/tai-kpi-project/tai-kpi-conceptual-overview.md)
   * [Pedagogical Framework](models/tai-kpi-project/pedagogical-framework.md)
+  * [TAI-KPI · Modeling Frameworks](models/tai-kpi-project/tai-kpi-modeling-frameworks.md)
   * [Cognitive Resonance Mapping](models/tai-kpi-project/cognitive-resonance-mapping.md)
+  * [Expectation-Mismatch Stress (EMS)](models/tai-kpi-project/expectation-mismatch-stress-ems.md)
+  * [Models of Cognition: Automata](models/tai-kpi-project/models-of-cognition-automata.md)
+  * [AI Consciousness and TAI-KPI](models/tai-kpi-project/ai-consciousness-and-tai-kpi.md)
   * [Creative Automata: ARGs, Playful Simulations:](models/tai-kpi-project/creative-automata-args-playful-simulations/README.md)
     * [Narrative Prototypes](models/tai-kpi-project/creative-automata-args-playful-simulations/narrative-prototypes.md)
 

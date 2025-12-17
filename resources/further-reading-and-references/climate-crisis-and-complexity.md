@@ -16,6 +16,8 @@ description: Articles and Resources to Support Climate Actions
 >
 > At the current rate of growth, datacenters [could add up to](https://news.cornell.edu/stories/2025/11/roadmap-shows-environmental-impact-ai-data-center-boom) 44m tons of carbon dioxide to the atmosphere by 2030, equivalent to putting an extra 10m cars on to the road and exacerbating a climate crisis that is already spurring extreme [weather](https://www.theguardian.com/world/2025/jan/28/climate-triple-whammy-boosted-risk-of-la-fires-study-shows) [disasters](https://www.texastribune.org/2025/07/09/texas-hill-country-floods-kerrville-climate-change/) and ripping apart the fabric [of the American insurance market](https://www.theguardian.com/environment/2024/dec/05/climate-crisis-insurance-premiums).
 
+{% embed url="https://www.theguardian.com/technology/2025/dec/16/great-lakes-us-data-centers" %}
+
 #### International Collaboration: Defense vs Climate Spending
 
 “The more we defund \[aid to and cooperation with developing countries], the more we lose the ability to act,” he said. “There is a loss of control, because you no longer can cooperate with countries that you depend on to solve these problems \[such as the climate]. You are curtailing your own ability to create a more resilient national economy, in this world of interconnectedness.”
