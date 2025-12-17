@@ -6,7 +6,7 @@ description: >-
 
 # Models of Cognition: Automata
 
-<figure><img src="../../.gitbook/assets/Automata_Cognition.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Automata_Cognition.png" alt=""><figcaption></figcaption></figure>
 
 > **Human and artificial intelligence can be understood as nested automata—systems of states, transitions, and memory.**\
 > When individuals, groups, and AI agents learn to regulate their transitions, align attention, and share trustworthy signals, **a prosocial phase transition becomes possible:** the _Avalanche of Kindness_.
@@ -64,6 +64,8 @@ _Organisms minimize surprise through action or model-updating._
 * Contemplative training = lowering error precision, widening model space
 
 > **Active inference is the internal logic of all three automata.**
+
+<figure><img src="../../../.gitbook/assets/ActiveInference_Automata.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -176,4 +178,4 @@ _Required for future governance in a VUCA world._
 
 ***
 
-{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+{% include "../../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

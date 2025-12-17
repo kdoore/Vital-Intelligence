@@ -41,7 +41,7 @@ Forghani’s Resonance Frequency Coding Principle (RFCP) offers another emerging
 
 ### [TAI-KPI Modeling Frameworks](tai-kpi-modeling-frameworks.md)  [Cognitive Resonance Mapping](./#pedagogical-framework-cognitive-resonance-mapping)
 
-### [Models of Cognition: Automata](models-of-cognition-automata.md)
+### [Models of Cognition: Automata](models-of-cognition-automata/)
 
 ### 1. Overview: Humans as Information Systems
 
