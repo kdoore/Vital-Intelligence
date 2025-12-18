@@ -79,11 +79,11 @@ We don’t have to condemn the past to recognize that older governance structure
 
 <figure><img src="../../.gitbook/assets/ChatGPT Image Dec 13, 2025, 01_39_35 PM.png" alt=""><figcaption></figcaption></figure>
 
-The diagrams above capture the central conceptual movements of the TAI-KPI framework: **a transition from trauma-patterned dominance hierarchies toward prosocial, holonic, toroidal collaborative intelligence**. This movement is not metaphorical—it reflects well-established neurobiological, psychological, evolutionary, and systems-theoretic principles. It guides humans in learning emotional self-regulation and co-regulation using reverse mentoring dynamics.
+The diagrams above capture the central conceptual movements of the TAI-KPI framework: **a transition from dominance hierarchies toward prosocial, holonic, toroidal collaborative intelligence**. This movement is not metaphorical—it reflects well-established neurobiological, psychological, evolutionary, and systems-theoretic principles. It guides humans in learning emotional self-regulation and co-regulation using reverse mentoring dynamics.
 
-### **1. The Left Side: Trauma-Based Dominance Hierarchies (Legacy Human Systems)**
+### **1. The Left Side:  Dominance Hierarchies (Legacy Human Systems)**
 
-This half of the diagram represents how **threat-patterned human cognition** gives rise to destructive forms of organization. It draws from:
+This half of the diagram represents how human cognition can give rise to maladaptive forms of organization. It draws from:
 
 * **Polyvagal Theory** (Porges): threat → fight/flight → collapse of social cognition
 * **Trauma neuroscience**: dissociation, freeze states, narrative rigidity
@@ -174,8 +174,7 @@ Kindness lowers systemic entropy by enabling trustworthy signaling.
 
 In complexity terms, the transformation is from:
 
-* **linear, top-down command structures**\
-  to
+* **linear, top-down command structures** to
 * **circular, self-renewing, bidirectional information architectures**
 
 This represents a phase transition in organizational intelligence.

@@ -31,6 +31,7 @@
   * [Models of Cognition: Automata](models/tai-kpi-project/models-of-cognition-automata/README.md)
     * [Active Inference & Emotional Dynamics](models/tai-kpi-project/models-of-cognition-automata/active-inference-and-emotional-dynamics.md)
   * [AI Consciousness and TAI-KPI](models/tai-kpi-project/ai-consciousness-and-tai-kpi.md)
+  * [References and Resources](models/tai-kpi-project/references-and-resources.md)
   * [Creative Automata: ARGs, Playful Simulations:](models/tai-kpi-project/creative-automata-args-playful-simulations/README.md)
     * [Narrative Prototypes](models/tai-kpi-project/creative-automata-args-playful-simulations/narrative-prototypes.md)
 
@@ -95,6 +96,7 @@
 
 ## Applications and Extensions
 
+* [The Art of Kindness](applications-and-extensions/the-art-of-kindness.md)
 * [Economic Models](applications-and-extensions/economic-models.md)
 * [AI and AGI Integration](applications-and-extensions/ai-and-agi-integration.md)
 * [Reverse Mentoring and Wisdom Circles](applications-and-extensions/reverse-mentoring-and-wisdom-circles.md)
@@ -114,7 +116,6 @@
 
 * [Case Studies](resources/case-studies/README.md)
   * [AI and Mental Health Concerns](resources/case-studies/ai-and-mental-health-concerns.md)
-  * [The Art of Kindness](resources/case-studies/the-art-of-kindness.md)
   * [Shadow Patterns](resources/case-studies/platform-monopolies.md)
   * [Surveillance Weaponization](resources/case-studies/surveillance-weaponization.md)
 * [Further Reading & References](resources/further-reading-and-references/README.md)

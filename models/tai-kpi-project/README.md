@@ -8,6 +8,8 @@ description: 'Transformative AI - Kindness & Prosocial Integration: AI Literacy 
 
 ## TAI-KPI:   AI Literacy Framework&#x20;
 
+> TAI-KPI is an evidence-informed educational framework designed to enhance students’ decision-making, collaboration, and AI literacy through visual modeling, interdisciplinary integration, and well-established principles of cognitive regulation and group learning.
+
 Transformative AI – Kindness & Prosocial Integration (TAI-KPI) is an AI-literacy framework that treats humans, organizations, and AI systems as **interacting information flows** rather than isolated objects.
 
 The core idea is simple:
