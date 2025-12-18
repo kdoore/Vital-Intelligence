@@ -1,6 +1,27 @@
-# Platform Monopolies
+# Shadow Patterns
 
-**Context:**\
+#### Examples from Recent Cases:
+
+* **Algorithmic exploitation:** AI recommendation systems that feed addictive or harmful content, amplifying social polarization and misinformation.
+* **Surveillance capitalism:** Data extraction and profiling that erode privacy, autonomy, and trust.
+* **Deepfake and non-consensual media:** The rise of AI-generated sexual imagery targeting women, children, and marginalized communities.<br>
+
+**References**\
+\
+[Make it Real Report - Mapping AI-Facilitated Gendered Harm](https://tattle.co.in/make-it-real-report.pdf) - Ratifoundation.org, Tattle.co.in
+
+[The Guardian — “Strike 3 porn copyright lawsuits”](https://www.theguardian.com/society/ng-interactive/2025/nov/04/strike-3-porn-copyright-lawsuits)
+
+[The Guardian — “Are porn algorithms feeding a generation of paedophiles?”](https://www.theguardian.com/society/2025/apr/05/i-didnt-start-out-wanting-to-see-kids-are-porn-algorithms-feeding-a-generation-of-paedophiles-or-creating-one)
+
+[The Guardian — “The dark world of sexual deepfakes—and the women fighting back”](https://www.theguardian.com/technology/2025/jan/12/would-love-to-see-her-faked-the-dark-world-of-sexual-deepfakes-and-the-women-fighting-back)\
+\
+[The Guardian - Deep-Fakes as News, AI, Media](https://www.theguardian.com/technology/2025/sep/26/deepfakes-ai-slop-now-part-of-news-cycle-south-park-v-trump)\
+\
+[The Guardian - "The Chilling Effect of Deep Fakes on Women in India"](https://www.theguardian.com/global-development/2025/nov/05/india-women-ai-deepfakes-internet-social-media-artificial-intelligence-nudify-extortion-abuse)
+
+### **Platforms & Monopolies:**
+
 Two landmark U.S. rulings in 2024–25 found Google illegally maintaining monopolies in both search and digital advertising. These decisions offer a powerful lens on how platform power can distort information flows and reinforce self-serving feedback loops \[1].
 
 ***
@@ -31,4 +52,3 @@ Two landmark U.S. rulings in 2024–25 found Google illegally maintaining monopo
 
 1. [Courtney C Radsch, “Google broke the law. It’s time to break up the company,” _The Guardian_, 24 Apr 2025](https://www.theguardian.com/commentisfree/2025/apr/24/google-broke-the-law-its-time-to-break-up-the-company)
 2. [European Commission, “EC calls for divestiture of Google Ad Tech stack,” press release, Jun 2023](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_3207).
-

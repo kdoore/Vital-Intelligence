@@ -18,6 +18,8 @@ description: Articles and Resources to Support Climate Actions
 
 {% embed url="https://www.theguardian.com/technology/2025/dec/16/great-lakes-us-data-centers" %}
 
+{% embed url="https://www.cell.com/patterns/fulltext/S2666-3899(25)00278-8" %}
+
 #### International Collaboration: Defense vs Climate Spending
 
 “The more we defund \[aid to and cooperation with developing countries], the more we lose the ability to act,” he said. “There is a loss of control, because you no longer can cooperate with countries that you depend on to solve these problems \[such as the climate]. You are curtailing your own ability to create a more resilient national economy, in this world of interconnectedness.”

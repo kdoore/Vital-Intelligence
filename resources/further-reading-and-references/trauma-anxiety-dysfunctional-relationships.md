@@ -8,6 +8,10 @@ Mental illnesses are common in the United States and around the world. It is est
 
 {% embed url="https://www.theguardian.com/us-news/ng-interactive/2025/dec/14/trauma-mental-health" %}
 
+{% embed url="https://www.theguardian.com/us-news/2025/dec/18/us-mental-health-poll" %}
+
+> The five most common mental health diagnoses in 2023—as measured by the percentage of patients with these diagnoses out of all patients who received medical services in that year—were generalized anxiety disorder, major depressive disorder, attention-deficit/hyperactivity disorder (ADHD), adjustment disorders and bipolar disorder (table 2). In all five cases, the percentage of diagnosed patients increased from 2019 to 2023. The largest increase (70.4 percent) was for patients diagnosed with ADHD, which rose from fourth most common mental health diagnosis in 2019 (1.8 percent of patients) to third most common in 2023 (3.1 percent). Patients with generalized anxiety disorder—the number one diagnosis throughout the period—increased 59.6 percent from 2019 to 2023, rising from 5.7 percent of patients who received medical services in 2019 to 9.1 percent in 2023.
+
 {% embed url="https://www.theguardian.com/us-news/ng-interactive/2025/nov/09/healthcare-artificial-intelligence-ai" %}
 
 > The problem is that when it is installed in a health sector that prizes efficiency, surveillance and profit extraction, AI becomes not a tool for care and community but simply another instrument for commodifying human life.\

@@ -53,9 +53,6 @@
 
 ## Foundations
 
-* [AI Education](foundations/ai-education/README.md)
-  * [AI and Global Knowledge Collapse](foundations/ai-education/ai-and-global-knowledge-collapse.md)
-  * [AI - Work, Literacy: Global Perspectives](foundations/ai-education/ai-work-literacy-global-perspectives.md)
 * [NsK Overview](foundations/nsk-overview.md)
 * [Complexity Science and Modeling](foundations/complexity-science-and-modeling.md)
 * [Self-Organized Criticality (SOC)](foundations/soc-basics/README.md)
@@ -99,13 +96,9 @@
 ## Applications and Extensions
 
 * [Economic Models](applications-and-extensions/economic-models.md)
-* [Case Studies](applications-and-extensions/case-studies/README.md)
-  * [AI and Mental Health Concerns](applications-and-extensions/case-studies/ai-and-mental-health-concerns.md)
-  * [The Art of Kindness](applications-and-extensions/case-studies/the-art-of-kindness.md)
-  * [Platform Monopolies](applications-and-extensions/case-studies/platform-monopolies.md)
-  * [Surveillance Weaponization](applications-and-extensions/case-studies/surveillance-weaponization.md)
 * [AI and AGI Integration](applications-and-extensions/ai-and-agi-integration.md)
 * [Reverse Mentoring and Wisdom Circles](applications-and-extensions/reverse-mentoring-and-wisdom-circles.md)
+* [Prosocial Research](applications-and-extensions/prosocial-research.md)
 
 ## Imagination Engine:&#x20;
 
@@ -119,13 +112,20 @@
 
 ## Resources
 
+* [Case Studies](resources/case-studies/README.md)
+  * [AI and Mental Health Concerns](resources/case-studies/ai-and-mental-health-concerns.md)
+  * [The Art of Kindness](resources/case-studies/the-art-of-kindness.md)
+  * [Shadow Patterns](resources/case-studies/platform-monopolies.md)
+  * [Surveillance Weaponization](resources/case-studies/surveillance-weaponization.md)
 * [Further Reading & References](resources/further-reading-and-references/README.md)
   * [Climate Crisis and Complexity](resources/further-reading-and-references/climate-crisis-and-complexity.md)
   * [AI Platforms and Concerns](resources/further-reading-and-references/ai-platforms-and-concerns.md)
   * [Trauma, Anxiety, Dysfunctional Relationships](resources/further-reading-and-references/trauma-anxiety-dysfunctional-relationships.md)
   * [Organizational Structures: Dysfunctional vs Grassroots](resources/further-reading-and-references/organizational-structures-dysfunctional-vs-grassroots.md)
   * [AI Risks & Management](resources/further-reading-and-references/ai-risks-and-management.md)
-  * [Prosocial Research](resources/further-reading-and-references/prosocial-research.md)
+* [AI Education](resources/ai-education/README.md)
+  * [AI and Global Knowledge Collapse](resources/ai-education/ai-and-global-knowledge-collapse.md)
+* [AI - Work, Literacy: Global Perspectives](resources/ai-work-literacy-global-perspectives.md)
 * [Downloads](resources/downloads/README.md)
   * [Vital Intelligence Model: Zine](resources/downloads/vital-intelligence-zine.md)
 * [Tools & Benchmarks](resources/tools-and-benchmarks.md)

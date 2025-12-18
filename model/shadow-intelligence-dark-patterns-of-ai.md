@@ -20,26 +20,6 @@ In the physics of consciousness and society alike, imbalance creates turbulence.
 
 In AI, this imbalance manifests as technologies designed for surveillance, behavioral prediction, and profit—often at the expense of consent and wellbeing. The same feedback mechanisms that could be used for healing are redirected toward exploitation.
 
-#### Examples from Recent Cases:
-
-* **Algorithmic exploitation:** AI recommendation systems that feed addictive or harmful content, amplifying social polarization and misinformation.
-* **Surveillance capitalism:** Data extraction and profiling that erode privacy, autonomy, and trust.
-* **Deepfake and non-consensual media:** The rise of AI-generated sexual imagery targeting women, children, and marginalized communities.<br>
-
-References\
-\
-[Make it Real Report - Mapping AI-Facilitated Gendered Harm](https://tattle.co.in/make-it-real-report.pdf) - Ratifoundation.org, Tattle.co.in
-
-[The Guardian — “Strike 3 porn copyright lawsuits”](https://www.theguardian.com/society/ng-interactive/2025/nov/04/strike-3-porn-copyright-lawsuits)
-
-[The Guardian — “Are porn algorithms feeding a generation of paedophiles?”](https://www.theguardian.com/society/2025/apr/05/i-didnt-start-out-wanting-to-see-kids-are-porn-algorithms-feeding-a-generation-of-paedophiles-or-creating-one)
-
-[The Guardian — “The dark world of sexual deepfakes—and the women fighting back”](https://www.theguardian.com/technology/2025/jan/12/would-love-to-see-her-faked-the-dark-world-of-sexual-deepfakes-and-the-women-fighting-back)\
-\
-[The Guardian - Deep-Fakes as News, AI, Media](https://www.theguardian.com/technology/2025/sep/26/deepfakes-ai-slop-now-part-of-news-cycle-south-park-v-trump)\
-\
-[The Guardian - "The Chilling Effect of Deep Fakes on Women in India"](https://www.theguardian.com/global-development/2025/nov/05/india-women-ai-deepfakes-internet-social-media-artificial-intelligence-nudify-extortion-abuse)
-
 ***
 
 ### III. Shadow Intelligence and Recursive Responsibility
