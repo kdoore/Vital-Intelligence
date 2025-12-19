@@ -8,6 +8,8 @@
 >
 > The spy chief is expected to say that “we all have choices to make ahead” and that <sup>“</sup>it will be our rediscovery of our shared humanity, our ability to listen, and our courage that will determine how our future unfolds”.
 
+{% embed url="https://www.theguardian.com/technology/2025/dec/19/the-com-cybercrime-network-behind-pornhub-hack" %}
+
 ### AI Risk Management Frameworks
 
 {% embed url="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf?utm_source=chatgpt.com" %}
