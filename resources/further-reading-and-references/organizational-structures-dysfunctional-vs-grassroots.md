@@ -54,6 +54,9 @@ description: References and Articles about Organizational Structures
 
 > Hahrie Han, a political scientist at Johns Hopkins University and a 2025 MacArthur fellow, warned that organizing thus far has mostly engaged like-minded people. The next step must include organizing in places where people may not agree. There’s also a need to supply more opportunities for people to get involved, and to help people learn to organize themselves for what their needs are, she said.
 
-### Gamification
+### Gamification and Corporate Lobbying
 
 {% embed url="https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying" %}
+
+> With the rise of the internet, many companies built online platforms to coordinate advocacy nationwide, sometimes [offering employees incentives](https://www.pharma-mkting.com/wp-content/uploads/PDF/pmn410-article03.pdf) to participate. It is part of a wider move to mimic bottom-up advocacy, said Edward Walker, author of Grassroots for Hire: Public Affairs Consultants in American Democracy. Firms including [Uber, Lyft, Airbnb](https://www.sfgate.com/business/article/Uber-Lyft-Airbnb-harness-users-to-lobby-6005562.php) and some [health insurance providers](https://thedailyrecord.com/2015/11/18/maryland-maternity-access-coalition/) have also engaged users in lobbying, he said.
+
