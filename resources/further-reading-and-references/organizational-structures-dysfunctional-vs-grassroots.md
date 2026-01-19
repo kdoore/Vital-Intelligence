@@ -50,6 +50,11 @@ description: References and Articles about Organizational Structures
 
 ### Articles
 
+Abolish ICE:\
+[https://www.theguardian.com/commentisfree/2026/jan/18/ice-abolition-humanity](https://www.theguardian.com/commentisfree/2026/jan/18/ice-abolition-humanity)
+
+
+
 {% embed url="https://www.theguardian.com/us-news/2025/nov/21/us-activism-protests-boycotts-mutual-aid" %}
 
 > Hahrie Han, a political scientist at Johns Hopkins University and a 2025 MacArthur fellow, warned that organizing thus far has mostly engaged like-minded people. The next step must include organizing in places where people may not agree. There’s also a need to supply more opportunities for people to get involved, and to help people learn to organize themselves for what their needs are, she said.
