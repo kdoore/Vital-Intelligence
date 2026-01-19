@@ -50,10 +50,11 @@ description: References and Articles about Organizational Structures
 
 ### Articles
 
-Abolish ICE:\
+ICE as a Military Force:\
+\
 [https://www.theguardian.com/commentisfree/2026/jan/18/ice-abolition-humanity](https://www.theguardian.com/commentisfree/2026/jan/18/ice-abolition-humanity)
 
-
+{% embed url="https://www.theguardian.com/commentisfree/2026/jan/19/ice-crackdown-britain" %}
 
 {% embed url="https://www.theguardian.com/us-news/2025/nov/21/us-activism-protests-boycotts-mutual-aid" %}
 
