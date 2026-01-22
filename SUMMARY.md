@@ -106,6 +106,10 @@
 
 * [Narrative Framework](imagination-engine/narrative-framework.md)
 
+## Resources and Articles
+
+* [AI Externalities](resources-and-articles/ai-externalities.md)
+
 ***
 
 * [Analog Art -> Virtual Gallery](analog-art-greater-than-virtual-gallery.md)
