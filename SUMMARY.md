@@ -108,7 +108,7 @@
 
 ## Resources and Articles
 
-* [AI Externalities](resources-and-articles/ai-externalities.md)
+* [Transformative Movements](resources-and-articles/transformative-movements.md)
 
 ***
 
