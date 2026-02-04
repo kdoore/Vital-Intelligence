@@ -43,7 +43,7 @@ description: >-
 * Each holon is both _a whole_ and _a part_.
 * Cultural change requires coherence across levels.
 
-<figure><img src="../../.gitbook/assets/ProSocial (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/ProSocial (1).svg" alt=""><figcaption></figcaption></figure>
 
 ***
 

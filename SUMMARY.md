@@ -2,13 +2,25 @@
 
 ## Introduction
 
-* [Humanity++: Visions for Evolutionary Transformations](README.md)
-* [Vital Intelligence Model:](<README (1).md>)
-* [Avalanche of Kindness](introduction/avalanche-of-kindness.md)
-* [Theoretical Frameworks](introduction/theoretical-frameworks/README.md)
-  * [Evolutionary Transformations](introduction/theoretical-frameworks/evolutionary-transformations.md)
-  * [Complexity and Evoloutionary Frameworks](introduction/theoretical-frameworks/complexity-and-evoloutionary-frameworks.md)
-* [Trauma-Informed Holarchy](introduction/trauma-informed-holarchy.md)
+* [Vital Intelligence in a Generative AI Era](README.md)
+* [VIM White Paper](introduction/vim-white-paper.md)
+* [Why Mental Models Matter in Education](introduction/why-mental-models-matter-in-education.md)
+* [Two Paradigms: Control-Flow vs Modeling & Simulation](introduction/two-paradigms-control-flow-vs-modeling-and-simulation.md)
+* [What Is Vital Intelligence Model(VIM)?](introduction/what-is-vital-intelligence-model-vim.md)
+* [Learning as Model Revision](introduction/learning-as-model-revision.md)
+* [Kindness as an Attractor in Learning Systems](introduction/kindness-as-an-attractor-in-learning-systems.md)
+* [The Art of Kindness (AoK): Origins and Lessons Learned](introduction/the-art-of-kindness-aok-origins-and-lessons-learned.md)
+* [AoK Updated for a Generative AI Era](introduction/aok-updated-for-a-generative-ai-era.md)
+* [AoK as a Scalable Educational Pattern](introduction/aok-as-a-scalable-educational-pattern.md)
+* [Page 1](introduction/page-1.md)
+* [VIM Overview](introduction/vim-overview/README.md)
+  * [Vital Intelligence Model:](introduction/vim-overview/readme/README.md)
+    * [Theoretical Frameworks](introduction/vim-overview/readme/theoretical-frameworks/README.md)
+      * [Evolutionary Transformations](introduction/vim-overview/readme/theoretical-frameworks/evolutionary-transformations.md)
+      * [Complexity and Evoloutionary Frameworks](introduction/vim-overview/readme/theoretical-frameworks/complexity-and-evoloutionary-frameworks.md)
+    * [Avalanche of Kindness](introduction/vim-overview/readme/avalanche-of-kindness/README.md)
+      * [Humanity++: Visions for Evolutionary Transformations](introduction/vim-overview/readme/avalanche-of-kindness/humanity++-visions-for-evolutionary-transformations.md)
+    * [Trauma-Informed Holarchy](introduction/vim-overview/readme/trauma-informed-holarchy.md)
 
 ## Models
 

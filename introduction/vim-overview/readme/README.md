@@ -31,7 +31,7 @@ As AI advances and human systems strain under complexity, we need models that re
 
 ### Overview Diagram
 
-<figure><img src=".gitbook/assets/ChatGPT Image Apr 24, 2025, 04_10_19 PM.png" alt="" width="563"><figcaption><p>VI is grounded in relationship, rhythm, and ethical responsiveness</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ChatGPT Image Apr 24, 2025, 04_10_19 PM.png" alt="" width="563"><figcaption><p>VI is grounded in relationship, rhythm, and ethical responsiveness</p></figcaption></figure>
 
 ### The Four Domains
 
@@ -111,7 +111,7 @@ These are short, reflective practices to support your Vital Intelligence. Use th
 
 ## 6. Research & References
 
-See [Further Reading](<README (1).md#further-reading>) for direct links.
+See [Further Reading](./#further-reading) for direct links.
 
 This model draws from:
 
@@ -133,7 +133,7 @@ This model is evolving in community through[ Humanity++](https://www.humanityplu
 
 #### Downloads
 
-{% file src=".gitbook/assets/Vital Intelligence Zine.pdf" %}
+{% file src="../../../.gitbook/assets/Vital Intelligence Zine.pdf" %}
 Vital Intelligence Zine
 {% endfile %}
 
@@ -143,6 +143,6 @@ We believe love is not separate from intelligence—it is the rhythm through whi
 
 ***
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>H<a href="https://humanityplusplus.com/vital-intelligence">umanity++ Vital Intelligence Model Overview</a></td><td><a href=".gitbook/assets/H++VIM_image.webp">H++VIM_image.webp</a></td></tr><tr><td><a href="https://humanityplusplus.com/">Humanity++</a></td><td><a href=".gitbook/assets/H++Home_image.png">H++Home_image.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>H<a href="https://humanityplusplus.com/vital-intelligence">umanity++ Vital Intelligence Model Overview</a></td><td><a href="../../../.gitbook/assets/H++VIM_image.webp">H++VIM_image.webp</a></td></tr><tr><td><a href="https://humanityplusplus.com/">Humanity++</a></td><td><a href="../../../.gitbook/assets/H++Home_image.png">H++Home_image.png</a></td></tr></tbody></table>
 
-{% include ".gitbook/includes/c-2025-humanity++-this-work....md" %}
+{% include "../../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

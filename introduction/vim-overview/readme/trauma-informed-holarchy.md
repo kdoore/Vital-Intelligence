@@ -86,4 +86,4 @@ The Trauma-Informed Holarchy offers a necessary alternative to traditional organ
 * **Meijer, D.K.F.** (2019). _The Extended Bipoloron as the Origin of Qualia._ (Inspiration for Meaning as a Field/Substrate).
 * **Henrich, J., et al.** (2010). _The weirdest people in the world?_ (Context for the WEIRD data bias and knowledge collapse).
 
-{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+{% include "../../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

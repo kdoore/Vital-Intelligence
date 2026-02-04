@@ -287,4 +287,4 @@ This context reframes the Avalanche of Kindness not only as a scientific hypothe
 
 
 
-{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+{% include "../../../../.gitbook/includes/c-2025-humanity++-this-work....md" %}
