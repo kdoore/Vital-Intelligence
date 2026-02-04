@@ -173,4 +173,6 @@ If kindness stabilizes learning fields, we can now ask:
 
 The next section examines the **Art of Kindness (AoK)** as a living exemplar of these dynamics in real educational environments.
 
-→ **Next: The Art of Kindness (AoK): Origins and Lessons Learned**
+***
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}

@@ -176,8 +176,7 @@ then the next question becomes:
 
 That question is taken up in the next section.
 
-→ **Next: AoK Updated for a Generative AI Era** (Section 8)
-
 ***
 
-####
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+

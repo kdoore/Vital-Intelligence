@@ -183,4 +183,6 @@ If VIM describes _how intelligence emerges_, we must also ask:
 
 The next section addresses this directly by examining learning as a process of model revision—and why kindness plays a stabilizing role.
 
-→ **Next: Learning as Model Revision**
+***
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}

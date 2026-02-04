@@ -15,7 +15,7 @@
 * [AoK as a Scalable Educational Pattern](introduction/aok-as-a-scalable-educational-pattern.md)
 * [Education as the Primary Leverage Point](introduction/education-as-the-primary-leverage-point.md)
 * [Implications for AI Task Forces](introduction/implications-for-ai-task-forces.md)
-* [Playing the Infinite GamePage 1](introduction/playing-the-infinite-gamepage-1.md)
+* [Playing the Infinite Game](introduction/playing-the-infinite-game.md)
 * [VIM Overview](introduction/vim-overview/README.md)
   * [Vital Intelligence Model:](introduction/vim-overview/readme/README.md)
     * [Theoretical Frameworks](introduction/vim-overview/readme/theoretical-frameworks/README.md)

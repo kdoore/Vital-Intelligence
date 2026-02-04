@@ -1,4 +1,4 @@
-# Playing the Infinite GamePage 1
+# Playing the Infinite Game
 
 #### Humanity++, Wellbeing Economies, and Learning as Stewardship
 
@@ -168,3 +168,8 @@ If education can reclaim its role as a steward of learning fields—rather than 
 This is the invitation of Humanity++.\
 Not to win.\
 But to keep playing—wisely.
+
+***
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+

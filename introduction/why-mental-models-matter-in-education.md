@@ -135,4 +135,6 @@ It is a matter of **learning viability**.
 
 The next section explores how many current approaches to AI in education unintentionally reinforce outdated mental models—particularly those inherited from deterministic, control-based computing paradigms—and why a shift toward modeling and simulation is now essential.
 
-→ **Next: Two Paradigms — Control-Flow vs Modeling & Simulation**
+***
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}

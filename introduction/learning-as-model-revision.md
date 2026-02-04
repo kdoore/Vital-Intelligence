@@ -181,4 +181,6 @@ If learning depends on model revision and discernment, then the stability of the
 
 The next section examines the role of **kindness** as a stabilizing parameter in learning systems—not as sentiment, but as infrastructure.
 
-→ **Next: Kindness as an Attractor in Learning Systems**
+***
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}

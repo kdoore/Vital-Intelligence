@@ -153,4 +153,6 @@ If education is the primary leverage point, the remaining question is practical:
 
 The next section translates these ideas into concrete implications for task forces and institutional decision-making.
 
-→ **Next: Implications for AI Task Forces**
+***
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}

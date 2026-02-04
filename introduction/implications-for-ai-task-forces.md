@@ -156,4 +156,7 @@ to:
 
 That question ultimately leads beyond finite rule-setting toward a more enduring frame—education as an infinite, adaptive practice grounded in care, discernment, and shared meaning.
 
-→ **Next: Playing the Infinite Game — Humanity++, Wellbeing Economies, and Learning as Stewardship**
+***
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+

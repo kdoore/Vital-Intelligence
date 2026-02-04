@@ -171,4 +171,6 @@ If AoK can function as a scalable, context-fluid learning environment, the next 
 
 The next section addresses AoK as a **scalable educational pattern**—one that can be embedded across curricula with minimal disruption.
 
-→ **Next: AoK as a Scalable Educational Pattern**
+***
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}

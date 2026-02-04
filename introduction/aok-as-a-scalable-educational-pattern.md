@@ -160,4 +160,7 @@ If AoK can be integrated at scale without disruption, the final question becomes
 
 The next section addresses this question directly.
 
-→ **Next: Education as the Primary Leverage Point**
+***
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+

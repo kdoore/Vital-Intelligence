@@ -194,4 +194,6 @@ If control-flow thinking no longer adequately describes intelligence or learning
 
 The next section introduces such a model.
 
-→ **Next: What Is Vital Intelligence (VIM)?**
+***
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
