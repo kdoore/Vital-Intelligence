@@ -8,7 +8,7 @@ This section documents an **emerging dialogue** between human sensemaking and GP
 \
 &#xNAN;_**Academic Peer Prompt: What Should a University Be in the Future?**_
 
-Rather than treating this output as an answer, VIM treats it as a **systems artifact**:\
+VIM treats these emerging dialogues as **systems artifacts**:\
 a snapshot of how universities currently describe themselves when reflected through an AI mirror trained on existing institutional language, values, and tensions.
 
 The purpose here is not to judge these perspectives, but to ask:
