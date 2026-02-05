@@ -7,6 +7,7 @@
 * [Why Mental Models Matter in Education](introduction/why-mental-models-matter-in-education.md)
 * [Universities as Civic Knowledge Organisms](introduction/universities-as-civic-knowledge-organisms.md)
 * [From Legacy Control Models to Vital Intelligence](introduction/from-legacy-control-models-to-vital-intelligence.md)
+* [When Mental Models Fail — and Why Meta-Models MatterPage 1](introduction/when-mental-models-fail-and-why-meta-models-matterpage-1.md)
 * [Two Paradigms: Control-Flow vs Modeling & Simulation](introduction/two-paradigms-control-flow-vs-modeling-and-simulation.md)
 * [What Is Vital Intelligence Model(VIM)?](introduction/what-is-vital-intelligence-model-vim.md)
 * [Learning as Model Revision](introduction/learning-as-model-revision.md)
