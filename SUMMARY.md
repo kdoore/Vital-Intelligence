@@ -14,6 +14,7 @@
 * [AoK Updated for a Generative AI Era](introduction/aok-updated-for-a-generative-ai-era.md)
 * [AoK as a Scalable Educational Pattern](introduction/aok-as-a-scalable-educational-pattern.md)
 * [Education as the Primary Leverage Point](introduction/education-as-the-primary-leverage-point.md)
+* [Established Learning Frameworks and Their Domains](introduction/established-learning-frameworks-and-their-domains.md)
 * [Implications for AI Task Forces](introduction/implications-for-ai-task-forces.md)
 * [Playing the Infinite Game](introduction/playing-the-infinite-game.md)
 * [VIM Overview](introduction/vim-overview/README.md)
