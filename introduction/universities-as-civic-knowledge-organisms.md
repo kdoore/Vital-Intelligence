@@ -107,12 +107,7 @@ It treats CI as **scaffolding for trustworthy sensemaking**.
 
 ### Mapping the Stakeholder Synthesis to VIM Design Questions
 
-| Stakeholder Lens | What the GPT Reflection Reveals             | VIM Design Question                                                                   |
-| ---------------- | ------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Faculty          | Inquiry strained by bureaucratic extraction | How do we distinguish productive structure from attention-draining friction?          |
-| Students         | Formation is implicit and uneven            | How do we design learning for judgment, agency, and resilience — not just throughput? |
-| Administration   | Risk is omnipresent; meaning is fragile     | How can governance become learning-oriented rather than purely defensive?             |
-| Community        | Impact exists, reciprocity is inconsistent  | How do institutions become co-learners with their places, not just anchors?           |
+<table><thead><tr><th width="161.14453125">Stakeholder Lens</th><th>What the GPT Reflection Reveals</th><th>VIM Design Question</th></tr></thead><tbody><tr><td>Faculty</td><td>Inquiry strained by bureaucratic extraction</td><td>How do we distinguish productive structure from attention-draining friction?</td></tr><tr><td>Students</td><td>Formation is implicit and uneven</td><td>How do we design learning for discernment, agency, and resilience — not just throughput?</td></tr><tr><td>Administration</td><td>Risk is omnipresent; meaning is fragile</td><td>How can governance become learning-oriented rather than purely defensive?</td></tr><tr><td>Community</td><td>Impact exists, reciprocity is inconsistent</td><td>How do institutions become co-learners with their places, not just anchors?</td></tr></tbody></table>
 
 These are **orientation questions**, not prescriptions.
 
@@ -156,3 +151,7 @@ If it does not, that is also clarity.
 ### Closing Orientation
 
 > _In a time of global rupture, adapting our mental models may be the most ethically responsible mechanism available for guiding institutions forward. Vital Intelligence Modeling offers one such gyroscopic lens — not as doctrine, but as an invitation to collective learning._
+
+***
+
+{% include "../.gitbook/includes/c-2025-humanity++-this-work....md" %}
