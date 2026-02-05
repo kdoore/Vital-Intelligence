@@ -1,4 +1,4 @@
-# When Mental Models Fail — and Why Meta-Models MatterPage 1
+# When Mental Models Fail — and Why Meta-Models Matter
 
 #### Why this subsection exists
 
