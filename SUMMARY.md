@@ -5,6 +5,7 @@
 * [Vital Intelligence in a Generative AI Era](README.md)
 * [VIM White Paper](introduction/vim-white-paper.md)
 * [Why Mental Models Matter in Education](introduction/why-mental-models-matter-in-education.md)
+* [Universities as Civic Knowledge Organisms](introduction/universities-as-civic-knowledge-organisms.md)
 * [From Legacy Control Models to Vital Intelligence](introduction/from-legacy-control-models-to-vital-intelligence.md)
 * [Two Paradigms: Control-Flow vs Modeling & Simulation](introduction/two-paradigms-control-flow-vs-modeling-and-simulation.md)
 * [What Is Vital Intelligence Model(VIM)?](introduction/what-is-vital-intelligence-model-vim.md)
