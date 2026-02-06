@@ -70,6 +70,10 @@ CI depends on:
 
 CI cannot be enforced through hierarchy alone; it must be **cultivated through conditions**.
 
+#### Computational Intelligence (CI)
+
+
+
 ***
 
 ### Learning & Cognition
