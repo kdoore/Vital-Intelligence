@@ -9,6 +9,7 @@
 * [From Legacy Control Models to Vital Intelligence](introduction/from-legacy-control-models-to-vital-intelligence.md)
 * [When Mental Models Fail — and Why Meta-Models Matter](introduction/when-mental-models-fail-and-why-meta-models-matter.md)
 * [Two Paradigms: Control-Flow vs Modeling & Simulation](introduction/two-paradigms-control-flow-vs-modeling-and-simulation.md)
+* [Meta-Model Comparisons](introduction/meta-model-comparisons.md)
 * [From Flatland to Holarchy](introduction/from-flatland-to-holarchy.md)
 * [What Is Vital Intelligence Model(VIM)?](introduction/what-is-vital-intelligence-model-vim.md)
 * [Learning as Model Revision](introduction/learning-as-model-revision.md)
