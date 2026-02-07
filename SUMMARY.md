@@ -3,6 +3,12 @@
 ## Introduction
 
 * [Vital Intelligence in a Generative AI Era](README.md)
+* [From Alignment to Resonance](introduction/from-alignment-to-resonance.md)
+* [Transformative Kindness GPT](introduction/transformative-kindness-gpt/README.md)
+  * [Transformative Kindness GPT (TKGPT)](introduction/transformative-kindness-gpt/transformative-kindness-gpt-tkgpt/README.md)
+    * [Personalization as Orientation, Not Control](introduction/transformative-kindness-gpt/transformative-kindness-gpt-tkgpt/personalization-as-orientation-not-control.md)
+    * [Transformative AI – Kindness Performance Indicators](introduction/transformative-kindness-gpt/transformative-kindness-gpt-tkgpt/transformative-ai-kindness-performance-indicators.md)
+    * [Page 1](introduction/transformative-kindness-gpt/transformative-kindness-gpt-tkgpt/page-1.md)
 * [VIM White Paper](introduction/vim-white-paper.md)
 * [Why Mental Models Matter in Education](introduction/why-mental-models-matter-in-education.md)
 * [Universities as Civic Knowledge Organisms](introduction/universities-as-civic-knowledge-organisms.md)
