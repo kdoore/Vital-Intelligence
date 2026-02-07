@@ -1,2 +1,0 @@
-# Transformative Kindness GPT
-

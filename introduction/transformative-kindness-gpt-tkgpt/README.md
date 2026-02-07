@@ -64,15 +64,20 @@ TKGPT encourages learners to notice:
 
 ### 4. KAMM and Attractor Dynamics
 
-KAMM provides a complementary lens for understanding how systems settle into attractor states:
+**KAMM provides a complementary lens for understanding how systems settle into recurrent attractor states under pressure:**
 
-* **Dark attractors** — dominance, extraction, certainty fixation
-* **Distress attractors** — overload, collapse, withdrawal
-* **Kindness attractors** — reciprocity, curiosity, repair
+* **Dark attractors** — dominance, extraction, certainty fixation, coercive efficiency
+* **Distress attractors** — overload, collapse, withdrawal, learned helplessness
+* **Trust attractors** — openness, shared vulnerability, reduced friction, accelerated coordination
+* **Kindness attractors** — reciprocity, repair, curiosity, boundary-aware care
 
-In this context, kindness is not sentiment. It is a **stabilizing relational dynamic** that preserves learning capacity and feedback integrity.
+**Trust** functions as an _**enabling attractor**_**:** it lowers cognitive and relational defenses, allowing information, creativity, and collaboration to flow more freely. When coupled with discernment and reciprocity, trust supports collective intelligence and learning at scale.
 
-TKGPT helps learners recognize these patterns without moralization.
+**Kindness**, in contrast, functions as a _**stabilizing attractor**_**:** it preserves feedback integrity, supports repair when trust is strained, and prevents openness from tipping into extraction or capture.
+
+In this framework, kindness is not sentiment. It is a **regulatory relational dynamic** that helps systems remain adaptive rather than brittle.
+
+_Transformative Kindness GPT (TKGPT)_ helps learners recognize these attractor patterns—_including the transitions between them_—without moralization, enabling reflective navigation rather than compliance or withdrawal.
 
 ***
 

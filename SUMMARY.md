@@ -4,11 +4,14 @@
 
 * [Vital Intelligence in a Generative AI Era](README.md)
 * [From Alignment to Resonance](introduction/from-alignment-to-resonance.md)
-* [Transformative Kindness GPT](introduction/transformative-kindness-gpt/README.md)
-  * [Transformative Kindness GPT (TKGPT)](introduction/transformative-kindness-gpt/transformative-kindness-gpt-tkgpt/README.md)
-    * [Personalization as Orientation, Not Control](introduction/transformative-kindness-gpt/transformative-kindness-gpt-tkgpt/personalization-as-orientation-not-control.md)
-    * [Transformative AI – Kindness Performance Indicators](introduction/transformative-kindness-gpt/transformative-kindness-gpt-tkgpt/transformative-ai-kindness-performance-indicators.md)
-    * [Page 1](introduction/transformative-kindness-gpt/transformative-kindness-gpt-tkgpt/page-1.md)
+* [Transformative Kindness GPT (TKGPT)](introduction/transformative-kindness-gpt-tkgpt/README.md)
+  * [Trust as an Attractor](introduction/transformative-kindness-gpt-tkgpt/trust-as-an-attractor.md)
+  * [Personalization as Orientation, Not Control](introduction/transformative-kindness-gpt-tkgpt/personalization-as-orientation-not-control.md)
+  * [Transformative AI – Kindness Performance Indicators](introduction/transformative-kindness-gpt-tkgpt/transformative-ai-kindness-performance-indicators.md)
+  * [Integrity, Resonance, and Systemic Capture](introduction/transformative-kindness-gpt-tkgpt/integrity-resonance-and-systemic-capture.md)
+  * [How to Cite and Reuse This Work](introduction/transformative-kindness-gpt-tkgpt/how-to-cite-and-reuse-this-work.md)
+  * [How to Collaborate With This Work](introduction/transformative-kindness-gpt-tkgpt/how-to-collaborate-with-this-work.md)
+  * [Declaration of Intentional Authorship](introduction/transformative-kindness-gpt-tkgpt/declaration-of-intentional-authorship.md)
 * [VIM White Paper](introduction/vim-white-paper.md)
 * [Why Mental Models Matter in Education](introduction/why-mental-models-matter-in-education.md)
 * [Universities as Civic Knowledge Organisms](introduction/universities-as-civic-knowledge-organisms.md)
@@ -132,7 +135,7 @@
 * [Reverse Mentoring and Wisdom Circles](applications-and-extensions/reverse-mentoring-and-wisdom-circles.md)
 * [Prosocial Research](applications-and-extensions/prosocial-research.md)
 
-## Imagination Engine:&#x20;
+## Imagination Engine:
 
 * [Narrative Framework](imagination-engine/narrative-framework.md)
 
@@ -167,6 +170,9 @@
 
 ## Get Involved
 
+* [Declaration of Intentional Authorship](get-involved/declaration-of-intentional-authorship.md)
+* [How to Cite and Reuse This Work](get-involved/how-to-cite-and-reuse-this-work.md)
+* [How to Collaborate With This Work](get-involved/how-to-collaborate-with-this-work.md)
 * [Contact / Collaboration](get-involved/contact-collaboration.md)
 
 ## Design System

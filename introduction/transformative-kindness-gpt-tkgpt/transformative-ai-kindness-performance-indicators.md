@@ -154,5 +154,5 @@ This keeps intelligence **human-centered and adaptive**.
 
 ***
 
-{% include "../../../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}
 

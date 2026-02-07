@@ -67,3 +67,6 @@ By making personalization explicit and limited, TKGPT helps learners understand:
 This transparency is intentional and instructional.
 
 ***
+
+{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+
