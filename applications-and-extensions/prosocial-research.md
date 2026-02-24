@@ -1,8 +1,9 @@
 ---
 description: Language, Cognitive Capacity
+hidden: true
 ---
 
-# Linguistics Research
+# Prosocial Research
 
 {% embed url="https://www.discovermagazine.com/kids-creoles-and-the-coconuts-40017?" %}
 

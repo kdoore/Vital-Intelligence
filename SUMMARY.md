@@ -2,17 +2,22 @@
 
 ## VIM-AI Literacy Framework
 
-* [TAI-KPI: Transformative Bridging](README.md)
-  * [Pedagogical philosophy](vim-ai-literacy-framework/tai-kpi-transformative-bridging/pedagogical-philosophy.md)
-  * [Entry question](vim-ai-literacy-framework/tai-kpi-transformative-bridging/entry-question.md)
-  * [Framework overview](vim-ai-literacy-framework/tai-kpi-transformative-bridging/framework-overview.md)
-  * [Session design](vim-ai-literacy-framework/tai-kpi-transformative-bridging/session-design.md)
-  * [Theoretical foundations](vim-ai-literacy-framework/tai-kpi-transformative-bridging/theoretical-foundations.md)
+* [VIM: Transformative Bridging](README.md)
+  * [Pedagogical philosophy](vim-ai-literacy-framework/vim-transformative-bridging/pedagogical-philosophy.md)
+  * [Entry question](vim-ai-literacy-framework/vim-transformative-bridging/entry-question.md)
+  * [Framework overview](vim-ai-literacy-framework/vim-transformative-bridging/framework-overview.md)
+  * [Session design](vim-ai-literacy-framework/vim-transformative-bridging/session-design.md)
+  * [Theoretical foundations](vim-ai-literacy-framework/vim-transformative-bridging/theoretical-foundations.md)
 * [Teaching Cases: Index](vim-ai-literacy-framework/teaching-cases-index/README.md)
   * [TC 01: Gyroscope](vim-ai-literacy-framework/teaching-cases-index/tc-01-gyroscope.md)
   * [TC 02: Radar](vim-ai-literacy-framework/teaching-cases-index/tc-02-radar.md)
   * [TC 03: Compass](vim-ai-literacy-framework/teaching-cases-index/tc-03-compass.md)
   * [TC 04: Integration](vim-ai-literacy-framework/teaching-cases-index/tc-04-integration.md)
+
+***
+
+* [Annotated Bibliography](annotated-bibliography.md)
+* [TAI-KPI: Transformative Bridging](tai-kpi-transformative-bridging.md)
 
 ## VIM- Introduction
 
