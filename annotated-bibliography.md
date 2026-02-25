@@ -22,6 +22,8 @@ _These sources ground the claim that stabilization precedes interpretation — t
 
 **Broilo, P. et al. (2024).** _Screen use and mental health._ \[Journal.] → Investigates how digital information habits impact psychological well-being and stress levels.
 
+**De Felice, S., et al. (2025)**. Relational neuroscience: Insights from hyperscanning research. _Neuroscience & Biobehavioral Reviews_, _169_, 105979. [https://doi.org/10.1016/j.neubiorev.2024.105979](https://doi.org/10.1016/j.neubiorev.2024.105979)
+
 **Forghani, M. (2025).** _Consciousness as a Resonance Frequency Coding Principle (RFCP)._ \[Manuscript in preparation.] → Defines consciousness as resonance, offering new ways to measure mental clarity and empathy. _Note: manuscript in preparation; cited for theoretical framing._
 
 **Geesink, J. H., & Meijer, D. K. F. (2018).** _Favourable and Unfavourable EMF Frequency Patterns in Cancer._ NeuroQuantology. → Explores how specific electromagnetic frequencies affect biological health and cellular order.
@@ -118,6 +120,8 @@ _These sources ground the claim that kind action is not sentiment but the evolut
 
 **Miotti, A. et al. (2025).** _A Narrow Path: How to secure our future._ narrowpath.co. → Proposes a 20-year regulatory plan to ensure AI remains under human control.
 
+**Norström, A., et al. (2024).** _Resilience Science Must-Knows_. Stockholm Resilience Centre, Global Resilience Partnership, Future Earth. [https://doi.org/10.5281/ZENODO.17466370](https://doi.org/10.5281/ZENODO.17466370)
+
 **Nichols, N., Nevo, S., & Greaves, M. (2025).** _Achieving a Secure AI Agent Ecosystem._ RAND. → Recommends a security-first design for building trust between interacting AI agents.
 
 **Peters, J., & Rosén, M. (2025).** _Pain and Pleasure in working with sustainability._ \[Journal.] → Explores how educators manage emotions while advocating for societal transformation.
@@ -150,7 +154,7 @@ _These sources provide the biophysical and cosmological grounding for the resona
 
 ### A note on this bibliography
 
-These 49 sources were selected for their relevance across the interdisciplinary synthesis that the TAI-KPI framework represents. They span neuroscience, evolutionary biology, complexity science, information theory, educational equity, AI governance, and consciousness research — fields that are rarely brought into conversation with each other in AI literacy contexts.
+These 50 sources were selected for their relevance across the interdisciplinary synthesis that the TAI-KPI framework represents. They span neuroscience, evolutionary biology, resilience and complexity science, information theory, educational equity, AI governance, and consciousness research — fields that are rarely brought into conversation with each other in AI literacy contexts.
 
 The selection prioritizes publicly available sources where possible. For sources that require institutional access, the annotations are written to communicate the key contribution without requiring the reader to access the full text.
 
