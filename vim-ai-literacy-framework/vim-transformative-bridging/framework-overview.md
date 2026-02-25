@@ -30,22 +30,24 @@ The Bridge Checklist organizes human response capacity into three panels. Think 
 {% step %}
 #### ⊕ Panel — Gyroscope
 
-**The stabilizing instrument**\
-&#xNAN;_&#x51;uestion: Am I in a state to think clearly?_
+### ⊕ Panel — Gyroscope
 
-A gyroscope maintains orientation regardless of external turbulence. This panel is about **somatic regulation and co-regulation** — the capacity to stabilize your nervous system and your social field before attempting to interpret anything.
+**The stabilizing instrument**\
+**Question:** _Am I in a state to think clearly?_
+
+A gyroscope maintains orientation regardless of external turbulence. This panel is about **somatic readiness** — the capacity to interrupt escalation, assess your internal state, and stabilize your nervous system before attempting to interpret anything.
 
 When people are flooded with anxiety, shut down by overwhelm, or caught in shame, their perception becomes unreliable. They become vulnerable to confident-sounding outputs, dominance cues, and rapid escalation. The same AI output can help or harm depending entirely on the state of the person receiving it.
 
 Gyroscope work is not soft. It is the precondition for everything else being possible.
 
-Two capacities:
+**Two capacities**
 
-* **R — Regulation:** Internal stabilization. Noticing your state before interpreting information.
-* **C — Connection:** Co-regulation through trusted relationship. The capacity to disagree without fracture.
+* **P — Pause:** Stop the escalation. Create a buffer. Run a quick somatic check (breath, heart, tension, affect) before interpreting the event.
+* **R — Regulation:** Return toward your window of tolerance. Stabilize attention and re-establish enough nervous system safety to think, speak, and listen with care.
 
 {% hint style="info" %}
-Principle: The first safe pause is not for analysis. It is for stabilizing the organism and the social field.
+Principle: The first safe pause is not for analysis. It is for stabilizing the organism and the social field before meaning-making begins.
 {% endhint %}
 {% endstep %}
 
@@ -53,17 +55,17 @@ Principle: The first safe pause is not for analysis. It is for stabilizing the o
 #### ◎ Panel — Radar
 
 **The sensing instrument**\
-&#xNAN;_&#x51;uestion: Am I seeing the full picture?_
+**Question:** _Am I seeing the full picture?_
 
-A radar scans the full horizon — not just the direction you're already looking. This panel is about **epistemic navigation** — the capacity to widen your sensing, hold genuine uncertainty without forcing premature closure, and make visible the harms that are easy to overlook.
+A radar scans the full horizon — not just the direction you're already looking. This panel is about **epistemic navigation** — the capacity to widen your sensing, hold genuine uncertainty without forcing premature closure, and make visible the harms that are easy to overlook, the shadow fields of externalities.
 
 AI systems do not just occasionally produce misinformation. At scale, misinformation is a mathematical certainty — a feature of how stochastic systems work, not a correctable flaw. Radar discipline means expecting this and knowing how to triangulate rather than defer.
 
-It also means asking the harder question: _who is paying a cost that isn't visible in this picture?_ AI systems displace harm onto workers, communities, and ecosystems in ways that are designed to be invisible at the point of use.
+It also means asking the harder question: who is paying a cost that isn't visible in this picture? AI systems displace harm onto workers, communities, and ecosystems in ways that are designed to be invisible at the point of use.
 
-Three capacities:
+**Three capacities**
 
-* **U — Uncertainty:** Holding genuine unknowns without forcing closure or becoming helpless.
+* **U — Uncertainty Tolerance:** Holding genuine unknowns without forcing closure or becoming helpless.
 * **S — Sources:** Tracking signal provenance — where did this come from, and who benefits from you believing it?
 * **E — Externalities:** Making visible the displaced costs — labor harm, ecological load, bias, long-tail trust erosion.
 
@@ -76,15 +78,15 @@ Principle: If you don't include the shadow field, you will mistake local optimiz
 #### ✦ Panel — Compass
 
 **The orienting instrument**\
-&#xNAN;_&#x51;uestion: Am I ready to act with integrity?_
+**Question:** _Am I ready to act with integrity?_
 
 A compass doesn't tell you where to go. It tells you which direction is true north — so you can make your own navigation decisions from an honest baseline. This panel is about **prosocial alignment** — updating your models, validating before acting, and choosing kind action that doesn't push harm onto others.
 
 Kindness here is not sentiment. It is the evolutionarily and institutionally validated finding that groups organized around equity, repair, and shared accountability outperform groups organized around individual optimization. Warm truth plus firm limits plus a commitment to repair — that is the compass bearing.
 
-Three capacities:
+**Three capacities**
 
-* **O — Openness:** Willingness to update your model of the situation without humiliation or identity collapse.
+* **O — Orientation:** Willingness to update your model of the situation without humiliation or identity collapse.
 * **V — Validation:** Procedural reality-checking before escalating. Assumptions logs, small pilots, honest postmortems.
 * **K — Kindness:** Kind action as the closing move of the learning cycle — not the starting performance.
 
@@ -102,49 +104,22 @@ Events often arrive in high activation and negative affect. Without training, hu
 
 The Bridge Checklist teaches a different spiral. Use the stepper below as the practiced cycle you return to when an event arrives.
 
-{% stepper %}
-{% step %}
-### Stabilize and reconnect
-
-Regulate nervous system and re-establish co-regulation in the social field.
-{% endstep %}
-
-{% step %}
-### Name the event
-
-Describe what happened without blame or premature interpretation.
-{% endstep %}
-
-{% step %}
-### Widen sensing
-
-Seek additional sources, perspectives, and data points; resist closure.
-{% endstep %}
-
-{% step %}
-### Include the shadow field
-
-Ask who bears hidden costs or is made vulnerable by action or inaction.
-{% endstep %}
-
-{% step %}
-### Revise and validate
-
-Update your model, run small tests, and perform reality checks before escalation.
-{% endstep %}
-
-{% step %}
-### Choose kind action
-
-Act in ways that prioritize repair, shared accountability, and minimized externalization of harm.
-{% endstep %}
-
-{% step %}
-### Learn and update
-
-Capture lessons, update procedures and mindsets, and prepare for the next event.
-{% endstep %}
-{% endstepper %}
+1. **Pause and regulate (Gyroscope: P, R)**\
+   Stop the escalation. Take a somatic reading. Stabilize attention and return toward the window of tolerance.
+2. **Name the event**\
+   Describe what happened without blame or premature interpretation.
+3. **Widen sensing (Radar: U, S)**\
+   Seek additional sources, perspectives, and data points; resist closure.
+4. **Include the shadow field (Radar: E)**\
+   Ask who bears hidden costs or is made vulnerable by action or inaction.
+5. **Re-orient (Compass: O)**\
+   Update your model of what’s happening. Notice where identity, incentives, or power dynamics are distorting perception.
+6. **Revise and validate (Compass: V)**\
+   Run small tests, log assumptions, and perform reality checks before escalation.
+7. **Choose kind action (Compass: K)**\
+   Act in ways that prioritize repair, shared accountability, and minimized externalization of harm.
+8. **Learn and update**\
+   Capture lessons, update procedures and mindsets, and prepare for the next event.
 
 This is how disorientation becomes wisdom. This is how pain becomes information. And then the next event arrives — and the cycle begins again. Not as failure. As practice.
 
