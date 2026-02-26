@@ -65,7 +65,7 @@ She writes: "The reel appeared on my Instagram feed without me wanting to see it
 
 The **externality** question: Who is paying the cost of this optimization, and who is profiting? She is paying with her self-esteem, her trust, her body image. The platform is profiting from the engagement her disgust generates.
 
-The **signal coverage** question: She is seeing one slice of boys her age — the ones whose content the algorithm amplifies because it generates reaction. The algorithm does not show her a representative sample. It shows her the most activating sample. She knows this intellectually ("I understand that boys are victims of harmful content too") but the repetition overwhelms the knowing.
+The **sources and** **signals coverage** question: She is seeing one slice of boys her age — the ones whose content the algorithm amplifies because it generates reaction. The algorithm does not show her a representative sample. It shows her the most activating sample. She knows this intellectually ("I understand that boys are victims of harmful content too") but the repetition overwhelms the knowing.
 
 Ask: What would she need to see to get a more accurate picture? What is the algorithm systematically hiding?
 {% endstep %}

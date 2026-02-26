@@ -6,7 +6,7 @@ _Teaching Case · Ajit Niranjan · The Guardian · February 2026_
 
 ## The article
 
-**Title:** Less snow, or more risk? What you need to know about avalanches and climate change\
+**Title:**[ Less snow, or more risk? What you need to know about avalanches and climate change](https://www.theguardian.com/world/2026/feb/22/avalanches-climate-change-extreme-weather-ski-resorts)\
 **Author:** Ajit Niranjan\
 **Source:** _The Guardian_, February 22, 2026\
 **Subject:** The relationship between climate change and avalanche risk — a science article that models calibrated uncertainty with precision, naming what is known, what is uncertain, and what the mechanisms are.

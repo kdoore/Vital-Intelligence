@@ -7,8 +7,9 @@
   * [Entry question](vim-ai-literacy-framework/vim-transformative-bridging/entry-question.md)
   * [Framework overview](vim-ai-literacy-framework/vim-transformative-bridging/framework-overview.md)
   * [Session design](vim-ai-literacy-framework/vim-transformative-bridging/session-design.md)
-  * [Page 1](vim-ai-literacy-framework/vim-transformative-bridging/page-1.md)
   * [Theoretical foundations](vim-ai-literacy-framework/vim-transformative-bridging/theoretical-foundations.md)
+  * [Bridge Spiral Constitution](vim-ai-literacy-framework/vim-transformative-bridging/bridge-spiral-constitution.md)
+  * [Annotated Bibliography](vim-ai-literacy-framework/vim-transformative-bridging/annotated-bibliography.md)
 * [Teaching Cases: Index](vim-ai-literacy-framework/teaching-cases-index/README.md)
   * [TC 01: Gyroscope](vim-ai-literacy-framework/teaching-cases-index/tc-01-gyroscope.md)
   * [TC 02: Radar](vim-ai-literacy-framework/teaching-cases-index/tc-02-radar.md)
@@ -17,7 +18,6 @@
 
 ***
 
-* [Annotated Bibliography](annotated-bibliography.md)
 * [TAI-KPI: Transformative Bridging](tai-kpi-transformative-bridging.md)
 
 ## VIM- Introduction

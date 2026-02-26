@@ -54,7 +54,7 @@ Name these responses without evaluating them. Then: for the next thirty minutes,
 {% step %}
 ### Radar pass — secondary (12 minutes)
 
-Porter's article is substantially more honest about uncertainty than the vibe reporting Newport described in Session 2. He cites specific researchers (Korinek, Lockwood, Stiglitz), names specific proposals, and acknowledges the political obstacles to each one. It is worth noting this contrast explicitly.
+Porter's article is substantially more honest about uncertainty tolerance than the vibe reporting Newport described in Session 2. He cites specific researchers (Korinek, Lockwood, Stiglitz), names specific proposals, and acknowledges the political obstacles to each one. It is worth noting this contrast explicitly.
 
 Apply the Radar questions:
 

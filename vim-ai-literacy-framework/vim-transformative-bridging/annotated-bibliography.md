@@ -164,7 +164,7 @@ For the full theoretical discussion of how these sources connect to the Bridge C
 
 ***
 
-_Return to:_ [_Theoretical Foundations_](vim-ai-literacy-framework/vim-transformative-bridging/theoretical-foundations.md)&#x20;
+_Return to:_ [_Theoretical Foundations_](theoretical-foundations.md)&#x20;
 
 _Return to:_[ _AI Literacy Framework Landing Page_](/broken/pages/BuyDV8N1ThM0EPxnlV9O)
 

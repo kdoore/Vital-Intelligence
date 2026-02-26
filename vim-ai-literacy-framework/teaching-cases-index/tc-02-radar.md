@@ -65,7 +65,7 @@ Teach the post hoc ergo propter hoc fallacy — "after this, therefore because o
 {% endstep %}
 
 {% step %}
-### Uncertainty pass — secondary (10 minutes)
+### Uncertainty Tolerance  — secondary (10 minutes)
 
 Read Newport's calibrated conclusion about AI and jobs: "Generative AI might very well create broad disruptions in the job market. But we're not there yet. The first major shift will likely occur in software development, but its magnitude remains unclear."
 

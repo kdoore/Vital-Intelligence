@@ -42,19 +42,19 @@ Relational Neuroscience focuses on modeling the dynamics that occur **across** i
 
 ### Personality Systems Interactions (PSI) Theory
 
-[_Kuhl, Quirin & Koole, 2020_](../../annotated-bibliography.md#panel-1-gyroscope)
+[_Kuhl, Quirin & Koole, 2020_](annotated-bibliography.md#panel-1-gyroscope)
 
 PSI theory models the integrated self as a system that operates through self-relaxation and self-motivation to downregulate stress and negative affect. The critical insight for this framework: **high stress prevents the integration of new information into the self-system.** This is the neuropsychological basis for why stabilization must precede interpretation. A person in high activation cannot update their world model even if they want to.
 
 ### Resonance Frequency Coding Principle (RFCP)
 
-[_Forghani-Dadar, 2025_](../../annotated-bibliography.md#panel-1-gyroscope)
+[_Forghani-Dadar, 2025_](annotated-bibliography.md#panel-1-gyroscope)
 
 RFCP identifies a high Signal-to-Noise Ratio as a quantitative marker for mental clarity and inner calm. In VUCA environments, the human "receiver" must maintain coherence to remain a reliable interpreter of information. Practices that reduce internal noise — contemplative, somatic, relational — are not soft skills. They are signal engineering.
 
 ### The Neuroscience of Social Plasticity
 
-[_Singer, 2025_](../../annotated-bibliography.md#panel-1-gyroscope)
+[_Singer, 2025_](annotated-bibliography.md#panel-1-gyroscope)
 
 The social brain is plastic — it changes in response to relational experience throughout life. Co-regulation is not a metaphor. Trusted conversation, turn-taking, and the experience of being understood literally change the nervous system's capacity to hold uncertainty. This is the biological grounding for why the C (Connection) capacity belongs in Panel 1.
 
@@ -74,25 +74,25 @@ Hyperscanning and biobehavioral research supports the claim that the “social f
 
 ### Neutrosophic Logic
 
-[_Smarandache, 1998, 2025_](../../annotated-bibliography.md#panel-2-radar)
+[_Smarandache, 1998, 2025_](annotated-bibliography.md#panel-2-radar)
 
 Standard binary logic forces every proposition into true or false. Neutrosophic Logic introduces a third value: **indeterminacy** — decomposing information into Truth (T), Indeterminacy (I), and Falsity (F). This provides a formal mathematical framework for what the Radar panel teaches experientially: _measuring your doubt_ rather than eliminating it. In practice: instead of asking _is this true or false?_ ask _how true, how uncertain, and how false is this, and what would shift each value?_
 
 ### Active Inference and the Free Energy Principle
 
-[_Parr, Pezzulo & Friston, 2022_](../../annotated-bibliography.md#panel-2-radar)
+[_Parr, Pezzulo & Friston, 2022_](annotated-bibliography.md#panel-2-radar)
 
 Active Inference frames all perception as hypothesis-testing — the brain constantly generating predictions and updating them against sensory input. This scientific model of cognition directly supports the framework's validation emphasis. We are never simply receiving information. We are always testing it against our current model. Understanding this makes the Radar capacities feel less like critical thinking skills and more like making conscious what is already happening.
 
 ### Misinformation as Mathematical Certainty
 
-[_Çetin, Stanusch & Faddoul, 2025_](../../annotated-bibliography.md#panel-2-radar)
+[_Çetin, Stanusch & Faddoul, 2025_](annotated-bibliography.md#panel-2-radar)
 
 AI Forensics research establishes that AI hallucination is not a correctable flaw but an inherent property of probabilistic language systems. At scale, misinformation is inevitable. This reframes AI literacy from error-avoidance to event-triage — exactly the premise of this framework.
 
 ### Externalities: The Carbon and Water Costs of AI
 
-[_de Vries & Gao, cited in multiple sources_](../../annotated-bibliography.md#panel-2-radar)
+[_de Vries & Gao, cited in multiple sources_](annotated-bibliography.md#panel-2-radar)
 
 The ecological footprint of AI data centers — energy consumption, water use, carbon emissions — represents a class of externality that is specifically designed to be invisible at the point of use. Making this visible is a Radar function. Every AI interaction has a physical cost paid somewhere by someone. Radar training includes learning to ask where.
 
@@ -108,25 +108,25 @@ Resilience science highlights that in hyperconnected systems, risks cascade acro
 
 ### Multilevel Selection Theory
 
-[_Wilson & Snower, 2024; Wilson, Ostrom & Cox, 2013; Price, 1970_](../../annotated-bibliography.md#panel-3-compass)
+[_Wilson & Snower, 2024; Wilson, Ostrom & Cox, 2013; Price, 1970_](annotated-bibliography.md#panel-3-compass)
 
 Multilevel Selection theory provides the evolutionary grounding for kindness as a strategic rather than merely moral choice. The key finding: while _selfishness beats altruism within groups_, **altruistic groups beat selfish groups at the level of between-group competition.** This means that groups organized around equity, repair, and shared accountability are not idealistic — they are more adaptive. This is the scientific spine that makes the K (Kindness) capacity defensible to skeptical audiences.
 
 ### Ostrom's Core Design Principles
 
-[_Ostrom, 1990; Wilson, Ostrom & Cox, 2013_](../../annotated-bibliography.md#panel-3-compass)
+[_Ostrom, 1990; Wilson, Ostrom & Cox, 2013_](annotated-bibliography.md#panel-3-compass)
 
 Elinor Ostrom's research on governing the commons — for which she received the Nobel Prize in Economics — identified eight design principles that distinguish groups that successfully manage shared resources from those that don't. These principles — including shared identity, fair distribution of costs and benefits, and graduated responses to rule violations — serve as the operational coordinates of the Compass panel. Kind action is not vague. It has structure.
 
 ### Causal Emergence
 
-[_Hoel, Albantakis & Tononi, 2013_](../../annotated-bibliography.md#panel-3-compass)
+[_Hoel, Albantakis & Tononi, 2013_](annotated-bibliography.md#panel-3-compass)
 
 Causal emergence demonstrates that macro-level descriptions can have more causal power than their micro-level components. In plain language: **the group can do things the individual cannot.** This is the theoretical grounding for why small intentional acts of alignment can cascade — not through magical thinking, but through the real dynamics of complex adaptive systems operating at multiple scales simultaneously.
 
 ### Veritocracy
 
-[_Collins, 2024_](../../annotated-bibliography.md#panel-3-compass)
+[_Collins, 2024_](annotated-bibliography.md#panel-3-compass)
 
 Collins proposes veritocracy — the social practice of truth-telling as a foundation for functional institutions — as the alternative to both authoritarian certainty and epistemic relativism. In the context of AI literacy, this frames the V (Validation) capacity not as personal due diligence but as a civic practice: verification is what functional communities do together to maintain shared reality.
 
