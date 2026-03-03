@@ -143,7 +143,7 @@ Suggested reading posture:
 
 ***
 
-### 10) Ready-to-use “Hypothesis Bracket” (drop-in box)
+### 10) Ready-to-use “Hypothesis Bracket”&#x20;
 
 **What we are exploring:**\
 A model that links experience, learning, and information/energy dynamics.
@@ -173,4 +173,5 @@ Protect dignity, avoid ridicule and credulity, and prioritize repair over winnin
 
 ***
 
-_End of page._
+{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}
+

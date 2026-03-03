@@ -33,7 +33,7 @@ We call it an **event.**
 An event is any moment of expectation mismatch — when AI (or any information system) produces something that disrupts your sense of what is real, true, safe, or possible. Disorientation. Shock. Moral discomfort. Sudden urgency. Numbness. Outrage.
 {% endhint %}
 
-Events are not glitches. They are not personal failures. They are **inevitable features of stochastic systems at scale** — which is a technical way of saying: AI systems will always, eventually, produce surprising and sometimes harmful outputs. Not because they are broken. Because of how they work.
+**Events** are not glitches. They are not personal failures. They are **inevitable features of stochastic systems at scale** — which is a technical way of saying: AI systems will always, eventually, produce surprising and sometimes harmful outputs. Not because they are broken. Because of how they work.
 
 The question is never whether events will happen.
 
