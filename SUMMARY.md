@@ -20,6 +20,7 @@
 
 ***
 
+* [Situating the Framework — The Larger Transformation](situating-the-framework-the-larger-transformation.md)
 * [TAI-KPI: Transformative Bridging](tai-kpi-transformative-bridging.md)
 
 ## VIM- Introduction

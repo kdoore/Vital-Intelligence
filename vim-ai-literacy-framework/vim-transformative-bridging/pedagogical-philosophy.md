@@ -1,6 +1,6 @@
 # Pedagogical philosophy
 
-&#x20;_TAI-KPI Framework · Avalanche of Kindness_
+### &#x20;_TAI-KPI Framework · Avalanche of Kindness_
 
 Before you encounter the framework, you should know something about where it comes from.
 

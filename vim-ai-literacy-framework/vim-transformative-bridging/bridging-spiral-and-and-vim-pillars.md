@@ -52,6 +52,23 @@ This page links the **VIM Pillars** (why we are learning) to the **Bridge Checkl
 
 ***
 
+#### ⟲ Panel — Recursion (metacognitive instrument)
+
+**Question:** How is my mind making this meaning right now?
+
+**One capacity**
+
+* **X — Recursion:** A deliberate “loop back” that checks _process_, not just content:
+  * What cues am I using to feel confident?
+  * What am I ignoring because it’s uncomfortable?
+  * Am I confusing coherence with truth, or speed with understanding?
+  * What would change my mind (and what would not)?
+  * Is my interpretation being shaped by identity, fear, social pressure, or platform incentives?
+
+**Principle:** Recursion turns “having thoughts” into “observing thought formation.” It reduces runaway certainty and helps re-enter inquiry without shame.
+
+**Practical rule:** If you feel urgency, outrage, or certainty spikes, run X before you post, decide, or escalate.
+
 ### 3) Why Uncertainty Tolerance matters (in AI-amplified dominance dynamics)
 
 In AI-mediated environments, **certainty can be cheaply generated** (confident wording, rapid synthesis, authoritative tone). When humans are dysregulated or threatened, the nervous system seeks closure—making people more vulnerable to:
@@ -61,7 +78,9 @@ In AI-mediated environments, **certainty can be cheaply generated** (confident w
 * fear-based decision cascades,
 * misinformation at scale.
 
-**Therefore:** In SR2, **U — Uncertainty Tolerance** is not optional. It is a core literacy: the ability to keep inquiry open long enough to verify, contextualize, and choose action without outsourcing agency to “confidence.”
+**Therefore:**  **U — Uncertainty Tolerance** is not optional. It is a core literacy: the ability to keep inquiry open long enough to verify, contextualize, and choose action without outsourcing agency to “confidence.”
+
+**Recursion note:** X is what keeps U honest. If U is “I can hold unknowns,” X is “I can watch how I try to escape unknowns.”
 
 ***
 
@@ -79,18 +98,24 @@ In AI-mediated environments, **certainty can be cheaply generated** (confident w
 
 ***
 
+Suggested cue:
+
+* **Recursion: X supports every pillar** by preventing false certainty, reducing identity threat, and improving calibration of confidence.
+
 ### 5) The learning spiral (operational steps)
 
 When an event (or text) arrives in high activation, humans default to **fight / flight / freeze / fawn**. The Bridging Spiral trains a different practiced cycle:
 
-1. **Pause and regulate** _(Gyroscope: P, R)_
+1. **Pause and regulate** (Gyroscope: P, R)
 2. **Name the event** (describe without blame or premature interpretation)
-3. **Widen sensing** _(Radar: U, S)_
-4. **Include the shadow field** _(Radar: E)_
-5. **Re-orient** _(Compass: O)_
-6. **Revise and validate** _(Compass: V)_
-7. **Choose kind action** _(Compass: K)_
-8. **Learn and update** (capture lessons; update procedures and mindsets)
+3. **Widen sensing** (Radar: U, S)
+4. **Include the shadow field** (Radar: E)
+5. **Run Recursion** (⟲: X)
+   * What is my confidence based on? What am I assuming? What would update me?
+6. **Re-orient** (Compass: O)
+7. **Revise and validate** (Compass: V)
+8. **Choose kind action** (Compass: K)
+9. **Learn and update** (capture lessons; update procedures and mindsets)
 
 ***
 
@@ -103,6 +128,7 @@ When an event (or text) arrives in high activation, humans default to **fight / 
 * **Uncertainty tolerance:** holding unknowns long enough to verify and update, without collapsing into helplessness or dogma.
 * **Externalities (shadow field):** displaced costs that are designed to be invisible at point of use (labor, ecology, bias, trust erosion).
 * **Provenance:** traceability of sources, processes, and transformations.
+* **Recursion (metacognitive):** re-entering your own reasoning process to check confidence cues, assumptions, and update conditions.
 * **Kindness (VIM sense):** a stabilizing constraint that supports repair, accountability, and minimized harm—**warm truth + firm limits + commitment to repair**.
 
 ***
@@ -130,15 +156,16 @@ Working hypothesis for socio-technical systems:
 
 ***
 
-### 9) How to use this page with Mitchell (or any high-polarization text)
+### 9) How to use this page&#x20;
 
-**Rule:** Treat the text as a _model artifact_—not as authority.
+**Rule:** Treat the _**Information's text**_ as a _model **artifact**_—not as authority.
 
 Suggested reading posture:
 
 * Dial up **R** and **U** first (so the system can learn).
 * Use **S** and **V** to prevent authority illusion (trace and validate).
 * Use **E** to include what the text may omit (shadow field).
+* Run **X** whenever certainty spikes (check confidence cues; name assumptions)
 * Close with **K**: choose action that reduces harm and supports repair.
 
 ***
@@ -157,6 +184,9 @@ We will track provenance, compare alternative models, name uncertainties, and us
 **What kind action looks like here:**\
 Protect dignity, avoid ridicule and credulity, and prioritize repair over winning.
 
+**What Recursion adds:**\
+We will track _how_ confidence forms in us (and how it may be manipulated by stress, identity, and platform incentives).
+
 ***
 
 ### 11) Quick assignment format (studio / classroom)
@@ -166,10 +196,11 @@ Protect dignity, avoid ridicule and credulity, and prioritize repair over winnin
 
 * The passage (with page number)
 * Chosen pillar + why
-* Dial settings used (P/R/U/S/E/O/V/K)
+* Dial settings used (P/R/U/S/E/O/V/K/X)
 * A 6–10 line critique (claims vs evidence vs uncertainty)
 * Primary limiter dial + why
 * One kind closing move (K): what action reduces harm / improves learning?
+* One recursion note (X): what did you notice about your confidence cues and update conditions?
 
 ***
 

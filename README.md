@@ -34,7 +34,7 @@ This framework was designed to be accessible across contexts. You do not need a 
 
 The section is organized as a learning spiral — each page builds on the previous one, but each one also stands alone.
 
-[**A Note on How This Framework Was Made**](vim-ai-literacy-framework/vim-transformative-bridging/pedagogical-philosophy.md) The authorship statement and origin story. Why this framework is trauma-informed, why it uses art and play, and what it is ultimately trying to develop.
+[**Pedagogical Philosophy**](vim-ai-literacy-framework/vim-transformative-bridging/pedagogical-philosophy.md)**:** The authorship statement and origin story. Why this framework is trauma-informed, why it uses art and play, and what it is ultimately trying to develop.
 
 [**Start Here: The Entry Question**](vim-ai-literacy-framework/vim-transformative-bridging/entry-question.md) The accessible entry point. One question that opens the whole framework without requiring any prior knowledge.
 
@@ -44,9 +44,17 @@ The section is organized as a learning spiral — each page builds on the previo
 
 [**Theoretical Foundations**](vim-ai-literacy-framework/vim-transformative-bridging/theoretical-foundations.md) Layer 2 depth — PSI theory, Neutrosophic Logic, Active Inference, Multilevel Selection, Ostrom's principles, and the modeling and simulation framework that underlies the whole approach.
 
+[Bridge Spiral Constitution:](vim-ai-literacy-framework/vim-transformative-bridging/bridge-spiral-constitution.md)\
+\
+[The Bridge Spiral: AI Literacy Under Stress:](vim-ai-literacy-framework/vim-transformative-bridging/the-bridge-spiral-ai-literacy-under-stress.md)\
+\
+[Annotated Bibliography:](vim-ai-literacy-framework/vim-transformative-bridging/annotated-bibliography.md)
+
 [**Teaching Cases: Four Articles, One Learning Spiral**](vim-ai-literacy-framework/teaching-cases-index/) Complete facilitation guides for four articles representing different panel emphases and emotional registers, sequenced as a complete course arc.
 
-**Situating the Framework: The Larger Transformation** The iceberg beneath the Bridge Checklist — the structural argument about misplaced trust, the control-flow to living systems shift, and the thermodynamic case for kindness as collective survival strategy.
+[**Situating the Framework: The Larger Transformation**](situating-the-framework-the-larger-transformation.md) The iceberg beneath the Bridge Checklist — the structural argument about misplaced trust, the control-flow to living systems shift, and the thermodynamic case for kindness as collective survival strategy.\
+[\
+TAI-KPI: Transformative Bridging](tai-kpi-transformative-bridging.md)
 
 ***
 
