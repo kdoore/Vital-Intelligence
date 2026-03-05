@@ -1,8 +1,8 @@
 # Bridging Spiral && VIM Pillars
 
-## &#x20;Bridging Spiral && VIM Pillars&#x20;
+## &#x20;Bridging Spiral & VIM Pillars&#x20;
 
-This page links the **VIM Pillars** (why we are learning) to the **Bridge Checklist / Bridging Spiral** (how we regulate, sense, and act). It’s designed as a reusable **AI literacy teaching scaffold** for polarized or high-uncertainty material (including noetic / consciousness-adjacent texts such as Edgar Mitchell), without collapsing into either ridicule or credulity.
+This page links the **VIM Pillars** (why we are learning) to the **Bridge Checklist / Bridging Spiral** (how we regulate, sense, and act). It’s designed as a reusable **AI literacy teaching scaffold** for polarized or high-uncertainty material without collapsing into either ridicule or credulity.
 
 ***
 

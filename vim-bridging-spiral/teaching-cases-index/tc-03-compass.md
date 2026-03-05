@@ -8,7 +8,7 @@ _Teaching Case · Eduardo Porter · The Guardian · February 2026_
 
 **Title:** Amid talk of artificial intelligence taking our jobs, the big unasked question is: how will we be fed?\
 **Author:** Eduardo Porter\
-**Source:** _The Guardian_, February 23, 2026\
+**Source:**[ _The Guardian_, February 23, 2026](https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed)\
 **Subject:** The governance vacuum at the center of AI development — who decides how the fruits of AI prosperity are distributed, what happens to democratic power when human labor becomes economically irrelevant, and what options exist for keeping society functioning if those decisions are left to a handful of tech oligarchs.
 
 ***

@@ -109,7 +109,7 @@ That feedback loop — from practice to framework revision — is itself a TAI-K
 
 ***
 
-_Begin the practical content:_ [_Start Here: The Entry Question_](vim-ai-literacy-framework/vim-transformative-bridging/entry-question.md)
+_Begin the practical content:_ [_Start Here: The Entry Question_](vim-bridging-spiral/vim-transformative-bridging/entry-question.md)
 
 _Go deeper into_ [_VIM: What Is the Vital Intelligence Model?_](vim-introduction/)
 

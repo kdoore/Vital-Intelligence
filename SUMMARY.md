@@ -2,21 +2,32 @@
 
 ## VIM-AI Literacy Framework
 
-* [VIM: Transformative Bridging](README.md)
-  * [Pedagogical philosophy](vim-ai-literacy-framework/vim-transformative-bridging/pedagogical-philosophy.md)
-  * [Entry question](vim-ai-literacy-framework/vim-transformative-bridging/entry-question.md)
-  * [Framework overview](vim-ai-literacy-framework/vim-transformative-bridging/framework-overview.md)
-  * [Bridging Spiral && VIM Pillars](vim-ai-literacy-framework/vim-transformative-bridging/bridging-spiral-and-and-vim-pillars.md)
-  * [Session design](vim-ai-literacy-framework/vim-transformative-bridging/session-design.md)
-  * [Theoretical foundations](vim-ai-literacy-framework/vim-transformative-bridging/theoretical-foundations.md)
-  * [Bridge Spiral Constitution](vim-ai-literacy-framework/vim-transformative-bridging/bridge-spiral-constitution.md)
-  * [The Bridge Spiral: AI Literacy Under Stress](vim-ai-literacy-framework/vim-transformative-bridging/the-bridge-spiral-ai-literacy-under-stress.md)
-  * [Annotated Bibliography](vim-ai-literacy-framework/vim-transformative-bridging/annotated-bibliography.md)
-* [Teaching Cases: Index](vim-ai-literacy-framework/teaching-cases-index/README.md)
-  * [TC 01: Gyroscope](vim-ai-literacy-framework/teaching-cases-index/tc-01-gyroscope.md)
-  * [TC 02: Radar](vim-ai-literacy-framework/teaching-cases-index/tc-02-radar.md)
-  * [TC 03: Compass](vim-ai-literacy-framework/teaching-cases-index/tc-03-compass.md)
-  * [TC 04: Integration](vim-ai-literacy-framework/teaching-cases-index/tc-04-integration.md)
+* [SR2 GitBook Refinement Protocol](README.md)
+
+## VIM Bridging Spiral
+
+* [Dashboard Dials](vim-bridging-spiral/dashboard-dials.md)
+* [Dashboard Dials v5](vim-bridging-spiral/dashboard-dials-v5.md)
+* [Deep Learning - Human Meaning](vim-bridging-spiral/deep-learning-human-meaning.md)
+* [Deep Learning Dashboard](https://kdoore.github.io/HumanityPlusPlus/)
+* [Markov Blanket ](https://kdoore.github.io/HumanityPlusPlus/markovBlanket.html)
+* [Page 1](vim-bridging-spiral/page-1.md)
+* [Process:](vim-bridging-spiral/process.md)
+* [VIM: Transformative Bridging](vim-bridging-spiral/vim-transformative-bridging/README.md)
+  * [Pedagogical philosophy](vim-bridging-spiral/vim-transformative-bridging/pedagogical-philosophy.md)
+  * [Entry question](vim-bridging-spiral/vim-transformative-bridging/entry-question.md)
+  * [Framework overview](vim-bridging-spiral/vim-transformative-bridging/framework-overview.md)
+  * [Bridging Spiral && VIM Pillars](vim-bridging-spiral/vim-transformative-bridging/bridging-spiral-and-and-vim-pillars.md)
+  * [Session design](vim-bridging-spiral/vim-transformative-bridging/session-design.md)
+  * [Theoretical foundations](vim-bridging-spiral/vim-transformative-bridging/theoretical-foundations.md)
+  * [Bridge Spiral Constitution](vim-bridging-spiral/vim-transformative-bridging/bridge-spiral-constitution.md)
+  * [The Bridge Spiral: AI Literacy Under Stress](vim-bridging-spiral/vim-transformative-bridging/the-bridge-spiral-ai-literacy-under-stress.md)
+  * [Annotated Bibliography](vim-bridging-spiral/vim-transformative-bridging/annotated-bibliography.md)
+* [Teaching Cases: Index](vim-bridging-spiral/teaching-cases-index/README.md)
+  * [TC 01: Gyroscope](vim-bridging-spiral/teaching-cases-index/tc-01-gyroscope.md)
+  * [TC 02: Radar](vim-bridging-spiral/teaching-cases-index/tc-02-radar.md)
+  * [TC 03: Compass](vim-bridging-spiral/teaching-cases-index/tc-03-compass.md)
+  * [TC 04: Integration](vim-bridging-spiral/teaching-cases-index/tc-04-integration.md)
 
 ***
 
