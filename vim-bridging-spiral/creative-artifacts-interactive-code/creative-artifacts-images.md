@@ -1,4 +1,4 @@
-# Creative Artifacts
+# Creative Artifacts: Images
 
 ### **AI Image Generations and Animations**
 
@@ -11,7 +11,7 @@ The goal is simple: **learn by making**. Through iterative creation, reflection,
 
 For comfort and readability, most media is placed in collapsible panels. The piece below is intentionally left visible as a small “curiosity attractor.”
 
-<figure><img src="../.gitbook/assets/tranquil_axolotl_54302_A_tabby_cat_sitting_at_the_center_of_a_ccce1265-c935-40d2-9979-04854e7cdab0_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tranquil_axolotl_54302_A_tabby_cat_sitting_at_the_center_of_a_ccce1265-c935-40d2-9979-04854e7cdab0_3.png" alt=""><figcaption></figcaption></figure>
 
 Markov Blankets and Mystical Imaginations
 
@@ -19,7 +19,7 @@ Markov Blankets and Mystical Imaginations
 
 <summary>Sophia the mystical..... on Mystical Markov Blanket: Imaginary boundary exploration<br> - Animated GIF - Seeded by real image</summary>
 
-<figure><img src="../.gitbook/assets/tranquil_axolotl_54302_httpss.mj.runWciKVsI4S-0_A_tabby_cat_s_5effcb6a-0a27-4ecb-b860-0daf2bde39c3_0.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tranquil_axolotl_54302_httpss.mj.runWciKVsI4S-0_A_tabby_cat_s_5effcb6a-0a27-4ecb-b860-0daf2bde39c3_0.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -29,7 +29,7 @@ Markov Blankets and Mystical Imaginations
 
 <summary>Sophia the mystical..... Imagining flying creatures while on a Markov Blanket - Animated GIF </summary>
 
-<figure><img src="../.gitbook/assets/tranquil_axolotl_54302_A_tabby_cat_sitting_at_the_center_of_a_36de0e67-65a0-4f6c-ac73-6332e3dbd30e_3.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tranquil_axolotl_54302_A_tabby_cat_sitting_at_the_center_of_a_36de0e67-65a0-4f6c-ac73-6332e3dbd30e_3.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -41,7 +41,7 @@ Markov Blankets and Mystical Imaginations
 
 
 
-<figure><img src="../.gitbook/assets/tranquil_axolotl_54302_A_tabby_cat_sitting_at_the_center_of_a_36de0e67-65a0-4f6c-ac73-6332e3dbd30e_2.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tranquil_axolotl_54302_A_tabby_cat_sitting_at_the_center_of_a_36de0e67-65a0-4f6c-ac73-6332e3dbd30e_2.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -51,7 +51,7 @@ Markov Blankets and Mystical Imaginations
 
 <summary>Animated Creative Studio<br> - Animated GIF - Midjourney </summary>
 
-<figure><img src="../.gitbook/assets/tranquil_axolotl_54302_an_artists_studio_curiosity_habitat_se_2063729f-3980-4bad-b6c9-f3fde7b0af04_1.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tranquil_axolotl_54302_an_artists_studio_curiosity_habitat_se_2063729f-3980-4bad-b6c9-f3fde7b0af04_1.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -61,6 +61,6 @@ Markov Blankets and Mystical Imaginations
 
 <summary>Animated Creative Studio<br> - Animated GIF - Midjourney </summary>
 
-<figure><img src="../.gitbook/assets/tranquil_axolotl_54302_an_artists_studio_curiosity_habitat_se_2063729f-3980-4bad-b6c9-f3fde7b0af04_2.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tranquil_axolotl_54302_an_artists_studio_curiosity_habitat_se_2063729f-3980-4bad-b6c9-f3fde7b0af04_2.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
