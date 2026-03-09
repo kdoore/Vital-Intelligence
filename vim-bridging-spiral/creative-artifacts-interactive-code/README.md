@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Creative Artifacts: Interactive Code
 
 Modeling Parametric Learning Systems: Human and AI Information Flows\

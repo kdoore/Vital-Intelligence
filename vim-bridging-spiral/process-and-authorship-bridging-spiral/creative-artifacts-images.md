@@ -6,18 +6,21 @@ description: 'Studio Review: Artistic Authorship through Process with Generative
 
 ### **AI Image Generations and Animations**
 
-\
-This section collects images and short animations created in Midjourney (with prompts developed through iterative collaboration with Claude and ChatGPT). Some pieces are seeded from real photos reflecting photographic stills of reality as material input, others use images of custom art as style references —used as **creative anchors** and as **privacy-preserving proxies**—to explore speculative, immersive storytelling without relying on direct portraiture.
+This section collects images and short animations created in Midjourney, with prompts developed through iterative collaboration with Claude and ChatGPT. Each expandable panel below documents a selected artifact or series — including the prompt, any image or style references used, and a brief reflection on what the piece was exploring.
 
-These artifacts are not “final works.” They are **process evidence**: small experiments that help me build an AI literacy framework grounded in studio practice and computational modeling. You’ll see recurring structures—MPCM (Material → Process → Context → Meaning), Markov models and Markov blankets, and the Bridging Spiral—used as both **conceptual scaffolds** and **symbolic design layers** for prosocial learning.
+<figure><img src="https://cdn.midjourney.com/75d1ba1b-3c5b-4c95-b26a-9af18bd4bcb2/0_0.jpeg" alt=""><figcaption></figcaption></figure>
 
-The goal is simple: **learn by making**. Through iterative creation, reflection, and revision, I’m exploring how attention, emotion, and intention shape decision-making in VUCA environments—using a trauma-informed lens that centers authenticity, kindness, and respect for interdependent living systems.
+Some pieces are seeded from photographs of the physical studio space — the woven silk quilt, the branch installation, Sophia — using real material as input while preserving privacy through compositional transformation. Others use images of original hand-painted artworks as style references, allowing the aesthetic sensibility of prior creative work to shape the generated output without direct portraiture. A few use screenshots of the interactive simulations themselves as seeds, asking: what does this framework look like when it becomes an inhabitable space rather than a browser window?
 
-For comfort and readability, most media is placed in collapsible panels. The piece below is intentionally left visible as a small “curiosity attractor.”
+These artifacts are not finished works. They are process evidence — small experiments that helped build an AI literacy framework grounded in studio practice and parametric modeling. Recurring structures appear across the series: the MPCM boundary (Material → Process → Context → Meaning), the Markov blanket as permeable membrane between self and information environment, the DIKW toroid as a living field, the Bridging Spiral instruments as spatial presences. These are used simultaneously as conceptual scaffolds and as symbolic design layers — the framework thinking visually about itself.
 
-<figure><img src="../../.gitbook/assets/tranquil_axolotl_54302_A_tabby_cat_sitting_at_the_center_of_a_ccce1265-c935-40d2-9979-04854e7cdab0_3.png" alt=""><figcaption></figcaption></figure>
+One specific authorship principle governed this work: artist names were not used in prompts. Where a filmmaker's or photographer's aesthetic tradition informed the visual direction — Tarkovsky's long-exposure stillness, the bioluminescent field aesthetics of contemporary science visualization — that influence was metabolized through research and then applied without attribution in the prompt. This follows the studio arts principle that authentic authorship requires genuine engagement with influence rather than its importation as a shortcut. The expandable panels document where this process occurred.
 
-Markov Blankets and Mystical Imaginations
+The goal throughout was learning by making. Through iterative creation, reflection, and revision, this section explores how attention, emotion, and intention shape decision-making in VUCA environments — using a trauma-informed lens that centers authenticity, kindness, and respect for interdependent living systems. The Sophia experiment — documented in the Studio Review — represents the completion ritual for this phase: the framework, made visual, placed in the shared environment, encountered by a living system on its own terms.
+
+Most media is organized in the collapsible panels below. The piece left visible above is intentional — a small curiosity attractor at the threshold of the section, modeling the kindness field condition the framework describes: information available without coercion, approached when the system is ready.
+
+Creative Studios, Markov Blankets, and Mystical Imaginations
 
 <details>
 
