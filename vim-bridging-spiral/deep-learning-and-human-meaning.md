@@ -124,20 +124,16 @@ Protecting possibility space means protecting the right to remain uncertain long
 ### Markov Blanket (optional lens): boundary as permeability + consent
 
 A **Markov blanket** is the statistical boundary that defines an agent: it mediates what flows between inside (self) and outside (world) through sensory and active channels.\
-\
-**Interactive Simulation and References:**\
-\
-**Markov Blanket - Simulation:** [https://kdoore.github.io/HumanityPlusPlus/markovBlanket.html](https://kdoore.github.io/HumanityPlusPlus/markovBlanket.html)\
-\
-**Markov Blanket - Interactive:** [ https://kdoore.github.io/HumanityPlusPlus/markovBlanket\_v2.html](https://kdoore.github.io/HumanityPlusPlus/markovBlanket_v2.html)
+[\
+**Interactive Simulation and References:**](https://kdoore.github.io/HumanityPlusPlus/index.html)
 
-In this framework, treat the blanket as a **consent boundary you can tend**:
+In this framework, treat the markov blanket as a **consent boundary you can tend**:
 
 * **Aperture** sets intake bandwidth (how much can enter and integrate)
 * **Kindness** tunes permeability tone (reduces threat-lock; supports repair)
 * **Verification and reality checks** are deliberate “gates” that restore agency
 
-In VUCA media environments, “blanket practice” looks like:
+In VUCA media environments, “blanket interface exploration” looks like:
 
 * attention gates, timers, modality choices
 * external reality checks (trusted humans/institutions)

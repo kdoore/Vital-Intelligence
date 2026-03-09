@@ -4,14 +4,9 @@ description: Bridging Spiral - Framework Reference Document
 
 # Dashboard Dials v5
 
-## Dashboard Dials v5
-
 ### Aperture · MPCM · Four Instruments · Possibility Space · Kindness
 
 _Natural intelligence, augmented by AI, navigating VUCA information ecosystems_
-
-> **Canonical:** This page defines SR2 dial labels and micro-actions.\
-> **Rule:** Other pages link here; they do not redefine dials.
 
 ***
 

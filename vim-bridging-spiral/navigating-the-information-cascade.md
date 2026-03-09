@@ -1,8 +1,12 @@
+---
+description: White Paper
+---
+
 # Navigating the Information Cascade
 
 ### A Multi-Modal Simulation Framework for AI Literacy, Transformative Learning, and Prosocial Complexity
 
-**Karen Doore** Humanity++ · Bridging Spiral SR2 March 2026
+**Karen Doore** Humanity++ · Bridging Spiral March 2026
 
 _Draft for workshop circulation — not for formal citation without author permission_
 
@@ -16,9 +20,9 @@ _Draft for workshop circulation — not for formal citation without author permi
 
 We are living through a rapid and largely undesigned transformation of the human information environment. AI systems now mediate the majority of information flows in economically developed societies, operating at speeds, scales, and levels of personalisation that exceed the adaptive capacity of most existing educational frameworks. The result is a widening gap between the technical sophistication of information systems and the cognitive, somatic, and relational capacities that humans require to engage with those systems wisely.
 
-This paper introduces the **Bridging Spiral SR2 framework** — a multi-modal simulation model for AI literacy that draws on convergent findings from computational neuroscience, complex systems theory, contemplative science, relational neuroscience, and prosocial economics. The framework proposes that genuine AI literacy requires not merely technical knowledge but the development of four integrated capacities — somatic awareness, cognitive discernment, relational accountability, and temporal integration — operationalised as navigational instruments within an interactive simulation environment.
+This paper introduces the **Bridging Spiral Framework** — a multi-modal simulation model for AI literacy that draws on convergent findings from computational neuroscience, complex systems theory, contemplative science, relational neuroscience, and prosocial economics. The framework proposes that genuine AI literacy requires not merely technical knowledge but the development of four integrated capacities — somatic awareness, cognitive discernment, relational accountability, and temporal integration — operationalized as navigational instruments within an interactive simulation environment.
 
-The framework makes a specific claim: the transition from extractive to generative information dynamics — at the level of individuals, communities, and potentially civilisations — is a phase transformation in the thermodynamic sense. It requires sufficient energy input in the form of productive disequilibration, held within a field of kindness as a regulatory condition, to overcome the activation barrier between attractor states. The simulations developed in this project are designed to make this transition legible, encounter-able, and — through repeated embodied engagement — learnable.
+The framework makes a specific claim: the transition from extractive to generative information dynamics — at the level of individuals, communities, and potentially civilizations — is a phase transformation in the thermodynamic sense. It requires sufficient energy input in the form of productive disequilibration, held within a field of kindness as a regulatory condition, to overcome the activation barrier between attractor states. The simulations developed in this project are designed to make this transition legible, encounter-able, and — through repeated embodied engagement — learnable.
 
 The paper describes the theoretical grounding, the simulation architecture, the pedagogical rationale, and the honest limitations of the framework at its current stage of development. It concludes with an invitation to collaboration and a proposal for the next phase of research.
 

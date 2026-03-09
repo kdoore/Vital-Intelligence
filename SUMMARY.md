@@ -6,16 +6,16 @@
 
 ## VIM Bridging Spiral
 
-* [Studio Review 2 — Process as Product](vim-bridging-spiral/studio-review-2-process-as-product.md)
 * [Navigating the Information Cascade](vim-bridging-spiral/navigating-the-information-cascade.md)
-* [Glossary of Terms](vim-bridging-spiral/glossary-of-terms.md)
-* [Dashboard Dials](vim-bridging-spiral/dashboard-dials.md)
-* [Dashboard Dials v5](vim-bridging-spiral/dashboard-dials-v5.md)
-* [Deep Learning and Human Meaning](vim-bridging-spiral/deep-learning-and-human-meaning.md)
+* [Process & Authorship Bridging Spiral](vim-bridging-spiral/process-and-authorship-bridging-spiral.md)
 * [Creative Artifacts: Interactive Code](vim-bridging-spiral/creative-artifacts-interactive-code/README.md)
   * [Creative Artifacts: Images](vim-bridging-spiral/creative-artifacts-interactive-code/creative-artifacts-images.md)
   * [DIKW Toroidal Energy Dynamics](vim-bridging-spiral/creative-artifacts-interactive-code/dikw-toroidal-energy-dynamics.md)
   * [AI Research Systems](vim-bridging-spiral/creative-artifacts-interactive-code/ai-research-systems.md)
+* [Glossary of Terms](vim-bridging-spiral/glossary-of-terms.md)
+* [Dashboard Dials](vim-bridging-spiral/dashboard-dials.md)
+* [Dashboard Dials v5](vim-bridging-spiral/dashboard-dials-v5.md)
+* [Deep Learning and Human Meaning](vim-bridging-spiral/deep-learning-and-human-meaning.md)
 * [VIM: Transformative Bridging](vim-bridging-spiral/vim-transformative-bridging/README.md)
   * [Pedagogical philosophy](vim-bridging-spiral/vim-transformative-bridging/pedagogical-philosophy.md)
   * [Entry question](vim-bridging-spiral/vim-transformative-bridging/entry-question.md)
