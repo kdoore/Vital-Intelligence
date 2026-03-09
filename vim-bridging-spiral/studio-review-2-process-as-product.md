@@ -30,33 +30,33 @@ This document holds all of that alongside the technical iterations. Both are par
 
 <details>
 
-<summary>What Was Built</summary>
+<summary><strong>What Was Built</strong></summary>
 
-Between the initiation of this studio process and its first phase of completion, six interactive HTML simulations were designed, generated through AI collaboration, iterated, deployed to GitHub Pages, and documented:
+Between the initiation of this studio process and its first phase of completion, six interactive HTML simulations were designed, generated through AI collaboration, iterated, deployed to GitHub Pages, and documented:\
+\
+Simulations Index: [https://kdoore.github.io/HumanityPlusPlus/index.html](https://kdoore.github.io/HumanityPlusPlus/index.html)
 
-**1. Markov Blanket v1** (`markovBlanket.html`) The boundary of self as permeable membrane. Signal particles tagged by the four suit-instruments attempt to cross a woven boundary governed by kindness, aperture, and imagination. Mode 0 (Drift) vs Mode 1 (Inquiry). The first simulation to make the framework interactive rather than descriptive.
+**1.**[ **Deep Architecture / Dashboard Dials**](https://kdoore.github.io/HumanityPlusPlus/BridgeSpiral.html) A three-view interactive diagram expressing the Bridging Spiral framework as a deep learning architecture. The suppression demonstration — removing the somatic activation function and watching the architecture collapse to a single linear layer — became the most pedagogically powerful moment in the whole sequence.
 
-{% embed url="https://kdoore.github.io/HumanityPlusPlus/markovBlanket.html" %}
+**2.** [**Markov Blanket v1** ](https://kdoore.github.io/HumanityPlusPlus/markovBlanket.html)The boundary of self as permeable membrane. Signal particles tagged by the four suit-instruments attempt to cross a woven boundary governed by kindness, aperture, and imagination. Mode 0 (Drift) vs Mode 1 (Inquiry). The first simulation to make the framework interactive rather than descriptive.
 
-**2. Markov Blanket v2** (`markovBlanket_v2.html`) Iterated version. Membrane model refined, signal dynamics adjusted. The v1/v2 pair documents the first instance of the process the whole studio enacts: make it, encounter it from outside, find what is missing, make it again.
+**3.** [**Markov Blanket v2**](https://kdoore.github.io/HumanityPlusPlus/markovBlanket_v2.html) Iterated version, _ChatGPT_. Membrane model refined, signal dynamics adjusted. The v1/v2 pair documents the first instance of the process the whole studio enacts: make it, encounter it from outside, find what is missing, make it again.
 
-**3. Deep Architecture / Dashboard Dials** A three-view interactive diagram expressing the Bridging Spiral framework as a deep learning architecture. The suppression demonstration — removing the somatic activation function and watching the architecture collapse to a single linear layer — became the most pedagogically powerful moment in the whole sequence.
+**4.**[ **DIKW Toroid Pass 1**](https://kdoore.github.io/HumanityPlusPlus/DIKWTorroid_V1.html)  The Data-Information-Knowledge-Understanding-Wisdom stack rendered as a particle field on a torus surface. Dominance hierarchy collapses the toroid. Holarchic flow restores circulation. The entropy/negentropy waveform with the self-organised criticality zone emerged here as the most generative visual element — unplanned, immediately right.
 
-**4. DIKW Toroid Pass 1** (`DIKWTorroid_V1.html`) The Data-Information-Knowledge-Understanding-Wisdom stack rendered as a particle field on a torus surface. Dominance hierarchy collapses the toroid. Holarchic flow restores circulation. The entropy/negentropy waveform with the self-organised criticality zone emerged here as the most generative visual element — unplanned, immediately right.
+**5.**[ **DIKW Toroid Pass 2**](https://kdoore.github.io/HumanityPlusPlus/dikw_toroid_pass2.html)  Full simulation: working kindness, imagination, and resonance sliders — fixing the critical flaw of Pass 1 where parameters appeared but did nothing. Active inference readout. Desirable difficulties threshold. Emotion as navigation signal. Nested holarchic toroids at self, group, and ecosystem scales. The slow 8-10 second healing transition as argument.
 
-**5. DIKW Toroid Pass 2** (`dikw_toroid_pass2.html`) Full simulation: working kindness, imagination, and resonance sliders — fixing the critical flaw of Pass 1 where parameters appeared but did nothing. Active inference readout. Desirable difficulties threshold. Emotion as navigation signal. Nested holarchic toroids at self, group, and ecosystem scales. The slow 8-10 second healing transition as argument.
+**6.** [**Human ↔ AI Coupling**](https://kdoore.github.io/HumanityPlusPlus/human_Ai_coupling.html)  Two toroids facing each other across a charged gap. One warm amber, living, somatic. One cool blue-steel, statistical, complete. Signals flow from the AI constantly. Only the human transforms them. The AI toroid never changes. This is the MPCM boundary made intimate and personal — no longer a systems diagram but an encounter.
 
-**6. Human ↔ AI Coupling** (`human_ai_coupling.html`) Two toroids facing each other across a charged gap. One warm amber, living, somatic. One cool blue-steel, statistical, complete. Signals flow from the AI constantly. Only the human transforms them. The AI toroid never changes. This is the MPCM boundary made intimate and personal — no longer a systems diagram but an encounter.
-
-**7. DIKW Toroid Pass 3 — Giant Pumpkin · Commitment Pool** (`dikw_pass3.html`) The shadow simulation. Two attractors made visually present: the Giant Pumpkin (all nutrients flowing inward, beautiful, coherent, exhausting the network) and the Commitment Pool (trusted promises circulating freely, slightly irregular, alive). Between them: the crack — the vacant-place state, luminous grey-white, _neither · nor_ — the productive emptiness through which genuine novelty enters. The one question: _Which of these does the information environment you live in most resemble — and what would it take to change that?_
+**7.** [**DIKW Toroid Pass 3**](https://kdoore.github.io/HumanityPlusPlus/dikw_pass3.html) **— Giant Pumpkin · Commitment Pool** The shadow simulation. Two attractors made visually present: the Giant Pumpkin (all nutrients flowing inward, beautiful, coherent, exhausting the network) and the Commitment Pool (trusted promises circulating freely, slightly irregular, alive). Between them: the crack — the vacant-place state, luminous grey-white, _neither · nor_ — the productive emptiness through which genuine novelty enters. The one question: _Which of these does the information environment you live in most resemble — and what would it take to change that?_
 
 #### The GitHub Pages Deployment
 
-All simulations are hosted publicly at: **https://kdoore.github.io/HumanityPlusPlus**
+All simulations are hosted publicly at:[ **https://kdoore.github.io/HumanityPlusPlus**](https://kdoore.github.io/HumanityPlusPlus)
 
-Repository: **https://github.com/kdoore/HumanityPlusPlus**
+Repository: [**https://github.com/kdoore/HumanityPlusPlus**](https://github.com/kdoore/HumanityPlusPlus)
 
-The index landing page (`index.html`) organises the simulations as a card grid with two sections: the original Bridging Spiral tools (Markov Blanket, Dashboard, Emotion/Affect) and the DIKW Toroid series. Each card carries the simulation name, a brief description, and the filename. The site is live, public, and linked from the GitBook documentation.
+The index landing page (`index.html`) organizes the simulations as a card grid with two sections: the original Bridging Spiral tools (Markov Blanket, Dashboard, Emotion/Affect) and the DIKW Toroid series. Each card carries the simulation name, a brief description, and the filename. The site is live, public, and linked from the GitBook documentation.
 
 Deployment notes that belong in the record: GitHub Pages is case-sensitive. Files named with mixed case must be linked with matching case or the link 404s. The deployment pipeline is Settings → Pages → Deploy from branch → main → root. Propagation takes 1-3 minutes. The Actions tab shows deployment status.
 
