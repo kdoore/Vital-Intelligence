@@ -157,18 +157,13 @@ Three refinements to the standard model:
 
 **The ML threshold:** current AI systems reliably reach Knowledge. Everything below this line is territory where AI is genuinely powerful. Everything above it requires the living system.
 
-**The K→U threshold:** the most significant boundary in the stack. Understanding requires somatic engagement — the embodied contextualisation that the framework models as the nonlinear activation function. This threshold corresponds to Mezirow's disorienting dilemma zone: the productive discomfort at the boundary of existing meaning structures where elaborative learning is no longer sufficient and transformative learning becomes necessary.
+**The K→U threshold:** the most significant boundary in the stack. Understanding requires somatic engagement — the embodied contextualization that the framework models as the nonlinear activation function. This threshold corresponds to Mezirow's disorienting dilemma zone: the productive discomfort at the boundary of existing meaning structures where elaborative learning is no longer sufficient and transformative learning becomes necessary.
 
 **The Desirable Difficulties Zone:** the productive discomfort at the K→U threshold. Expanding through it requires tolerated disequilibration. The design challenge is to create conditions in which expansion is the path of least resistance — which requires the kindness field condition to be sufficiently established before the disequilibration is introduced.
 
 #### 3.3 The Four Instruments
 
-| Instrument              | Suit | Element  | Neural Parallel               | Core Function                                                     |
-| ----------------------- | ---- | -------- | ----------------------------- | ----------------------------------------------------------------- |
-| Somatic Gyroscope       | ♠    | 🜃 Earth | Activation function           | Without it, the stack collapses regardless of depth               |
-| Cognitive Radar         | ♦    | 🜁 Air   | Linear transformation         | Scans for pattern; requires somatic safety to avoid tunnel vision |
-| Relational Compass      | ♥    | 🜄 Water | Loss function / values vector | Determines direction of the system's attractor                    |
-| Dimensional Integration | ♣    | 🜂 Fire  | Distributed local updating    | Continuous, local, state-dependent settling — not backprop        |
+<table><thead><tr><th width="124.8671875">Instrument</th><th width="74.30859375">Suit</th><th width="114.8203125">Element</th><th width="146.7890625">Neural Parallel</th><th>Core Function</th></tr></thead><tbody><tr><td>Somatic Gyroscope</td><td>♠</td><td>🜃 Earth</td><td>Activation function</td><td>Without it, the stack collapses regardless of depth</td></tr><tr><td>Cognitive Radar</td><td>♦</td><td>🜁 Air</td><td>Linear transformation</td><td>Scans for pattern; requires somatic safety to avoid tunnel vision</td></tr><tr><td>Relational Compass</td><td>♥</td><td>🜄 Water</td><td>Loss function / values vector</td><td>Determines direction of the system's attractor</td></tr><tr><td>Dimensional Integration</td><td>♣</td><td>🜂 Fire</td><td>Distributed local updating</td><td>Continuous, local, state-dependent settling — not backprop</td></tr></tbody></table>
 
 #### 3.4 The Three Meta-Parameters
 
