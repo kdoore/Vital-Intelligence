@@ -18,6 +18,8 @@ _Draft for workshop circulation — not for formal citation without author permi
 
 ***
 
+This framework emerges from practice. The Art of Kindness (AoK) project, developed in partnership with the Center for Brain Health during COVID-19 (2020), demonstrated that trauma-informed, neuroscience-grounded creative learning could be deployed at institutional scale across departments during acute collective disruption. That project — using Synectics, five topics in the neuroscience of kindness, and single-frame narrative as the creative form — reached students across the university as extra credit and design class projects, and continues to be taught. The Bridging Spiral framework is the theoretical integration of what that project demonstrated empirically: that kindness, operationalized as a field condition rather than a sentiment, creates the conditions for genuine learning transformation. The current work extends that demonstrated pattern into the AI literacy challenge that is now the defining disruption of the information environment.
+
 ### Abstract
 
 We are living through a rapid and largely undesigned transformation of the human information environment. AI systems now mediate the majority of information flows in economically developed societies, operating at speeds, scales, and levels of personalization that exceed the adaptive capacity of most existing educational frameworks. The result is a widening gap between the technical sophistication of information systems and the cognitive, somatic, and relational capacities that humans require to engage with those systems wisely.
