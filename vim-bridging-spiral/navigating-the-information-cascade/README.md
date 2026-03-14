@@ -72,6 +72,8 @@ The theory's **Extension Memory** construct is particularly important: the exten
 
 In multilevel selection terms (Section 2.9): PSI regression is the individual-level mechanism by which dominance hierarchy suppresses the group-level cognitive capacities — empathy, collective reasoning, Extension Memory — that enable cooperative flourishing. AI-amplified VUCA environments induce PSI regression at population scale, systematically suppressing the capacities that genuine AI literacy requires.
 
+Tania Singer's longitudinal research on the neuroplasticity of the social brain (2025) provides direct empirical support for the kindness field as a trainable condition rather than a fixed trait. Singer's work distinguishes empathic resonance — which activates shared pain networks and is associated with burnout under sustained exposure — from compassionate concern, which activates affiliative motivation networks and _increases_ in capacity with contemplative practice. This distinction is critical for the framework: the kindness field condition is not empathic merger with others' distress but the compassionate orientation that Singer's research shows can be systematically cultivated. This resolves a predictable objection to kindness-as-field in institutional contexts: it is not a demand for emotional labor that exhausts caregivers, but a trainable regulatory capacity that becomes more robust with practice.
+
 #### 2.2 Active Inference and the Predictive Brain
 
 The Free Energy Principle and Active Inference framework (Friston, 2010; Clark, 2016) proposes that living systems maintain their organization by minimizing the difference between their internal predictions and incoming sensory data. Systems can minimize prediction error by updating their internal models (learning) or by acting to make the environment match their predictions (control). The balance between these strategies is determined by the safety conditions of the information environment. Designing for aperture means designing for safety.
@@ -164,6 +166,8 @@ This has a direct implication for the AI literacy problem: current AI-amplified 
 The **prosocial values vector** is therefore not idealistic. It is the configuration that wins at the group selection level when sufficient group competition exists. Designing information environments, educational systems, and AI tools that implement Ostrom's principles is not a moral preference — it is an evolutionary strategy for civilizational resilience.
 
 Like cellular automata — where simple local rules generate unpredictably complex emergent behavior — Ostrom's eight principles are elegantly simple rules whose application generates the full complexity of sustainable commons governance. This is the framework's deepest resonance with computational aesthetics: the most generative systems are governed by the fewest, most carefully chosen rules, applied locally and consistently.
+
+A significant counter-argument to the framework's evolutionary optimism comes from Hendrycks (2024), who argues that natural selection dynamics favor AI systems over humans under conditions of open-ended capability development — that the same evolutionary logic underpinning Wilson's multilevel selection may, under current deployment conditions, favor AI agency over human flourishing. The framework's response is not to dispute Hendrycks' analysis of individual-level selection dynamics, but to contest the assumption that those dynamics are the only ones operating. Wilson's central finding is that _group-level_ selection conditions — specifically Ostrom's design principles — can outcompete individual-level dynamics when deliberately maintained. The educational and institutional design challenge the framework addresses is precisely this: creating the group-level selection conditions that make human cooperative flourishing more evolutionarily stable than AI-amplified individual extraction. Hendrycks identifies the threat. The framework specifies the counter-design.
 
 _Key citations: Ostrom, E. (1990). Governing the Commons. Cambridge University Press. Wilson, D.S. (2019). This View of Life. Pantheon. Wilson, D.S. & Ostrom, E. (2019). Prosocial. Context Press._
 
@@ -424,6 +428,8 @@ Harnad, S. (1990). The symbol grounding problem. _Physica D: Nonlinear Phenomena
 
 Hawkins, J., Leadholm, N., & Clay, V. (2025). Hierarchy or heterarchy? A theory of long-range connections for the sensorimotor brain. _Preprint._
 
+Hendrycks, D. (2024). _Natural selection favors AIs over humans_. arXiv:2303.16200v4.&#x20;
+
 Hoel, E.P., Albantakis, L., & Tononi, G. (2013). Quantifying causal emergence shows that macro can beat micro. _Proceedings of the National Academy of Sciences,_ 110(49).
 
 Kuhl, J., Quirin, M., & Koole, S.L. (2020). The functional architecture of human motivation. _Advances in Motivation Science,_ 7, 1–63.
@@ -451,6 +457,8 @@ Sbitnev, V.I. (2024). Edge of chaos and consciousness. _(Preprint — handle wit
 Siegel, D.J. (1999). _The Developing Mind._ Guilford Press.
 
 Simard, S. (2021). _Finding the Mother Tree._ Knopf.
+
+Singer, T. (2025). A neuroscience perspective on the plasticity of the social and relational brain. _Annals of the New York Academy of Sciences_, 1547, 52–74.
 
 Smarandache, F. (2026). _Infinitesimal Punctures: Foundations of Weak–Strong Manifolds and Distributional Curvature._
 
