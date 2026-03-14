@@ -412,6 +412,8 @@ Clark, A. (2016). _Surfing Uncertainty: Prediction, Action, and the Embodied Min
 
 Doore, K., & Fishwick, P.A. (2014). Prototyping an analog computing representation of predator prey dynamics. _Proceedings of the 2014 Summer Simulation Multiconference._
 
+Fleming, S. M. (2024). _Metacognition and confidence: A review and synthesis_.&#x20;
+
 Friston, K. (2010). The free-energy principle: A unified brain theory. _Nature Reviews Neuroscience,_ 11, 127–138.
 
 Friston, K. (2013). Life as we know it. _Journal of the Royal Society Interface,_ 10(86).
