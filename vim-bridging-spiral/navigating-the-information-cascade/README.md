@@ -4,11 +4,9 @@ description: White Paper
 
 # Navigating the Information Cascade
 
-## Navigating the Information Cascade
-
 ### A Multi-Modal Simulation Framework for AI Literacy, Transformative Learning, and Prosocial Complexity
 
-**Karen Doore** Humanity++ · Bridging Spiral SR2 March 2026
+**Karen Doore** Humanity++ · Bridging Spiral March 2026
 
 _Draft for workshop circulation — not for formal citation without author permission_
 
