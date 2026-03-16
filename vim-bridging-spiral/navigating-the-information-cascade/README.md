@@ -167,9 +167,7 @@ This has a direct implication for the AI literacy problem: current AI-amplified 
 
 The **prosocial values vector** is therefore not idealistic. It is the configuration that wins at the group selection level when sufficient group competition exists. Designing information environments, educational systems, and AI tools that implement Ostrom's principles is not a moral preference — it is an evolutionary strategy for civilizational resilience.
 
-Like cellular automata — where simple local rules generate unpredictably complex emergent behavior — Ostrom's eight principles are elegantly simple rules whose application generates the full complexity of sustainable commons governance. This is the framework's deepest resonance with computational aesthetics: the most generative systems are governed by the fewest, most carefully chosen rules, applied locally and consistently.
-
-A significant counter-argument to the framework's evolutionary optimism comes from Hendrycks (2024), who argues that natural selection dynamics favor AI systems over humans under conditions of open-ended capability development — that the same evolutionary logic underpinning Wilson's multilevel selection may, under current deployment conditions, favor AI agency over human flourishing. The framework's response is not to dispute Hendrycks' analysis of individual-level selection dynamics, but to contest the assumption that those dynamics are the only ones operating. Wilson's central finding is that _group-level_ selection conditions — specifically Ostrom's design principles — can outcompete individual-level dynamics when deliberately maintained. The educational and institutional design challenge the framework addresses is precisely this: creating the group-level selection conditions that make human cooperative flourishing more evolutionarily stable than AI-amplified individual extraction. Hendrycks identifies the threat. The framework specifies the counter-design.
+Like cellular automata — where simple local rules generate unpredictably complex emergent behavior — Ostrom's eight principles are elegantly simple rules whose application generates the full complexity of sustainable commons governance. This is the framework's deepest resonance with computational aesthetics: the most generative systems are governed by the fewest, most carefully chosen rules, applied locally and consistently.A significant counter-argument to the framework's evolutionary optimism comes from Hendrycks (2024), who argues that natural selection dynamics favor AI systems over humans under conditions of open-ended capability development — that the same evolutionary logic underpinning Wilson's multilevel selection may, under current deployment conditions, favor AI agency over human flourishing. The framework's response is not to dispute Hendrycks' analysis of individual-level selection dynamics, but to contest the assumption that those dynamics are the only ones operating. Wilson's central finding is that _group-level_ selection conditions — specifically Ostrom's design principles — can outcompete individual-level dynamics when deliberately maintained. The educational and institutional design challenge the framework addresses is precisely this: creating the group-level selection conditions that make human cooperative flourishing more evolutionarily stable than AI-amplified individual extraction. Hendrycks identifies the threat accurately. The framework specifies the counter-design.
 
 _Key citations: Ostrom, E. (1990). Governing the Commons. Cambridge University Press. Wilson, D.S. (2019). This View of Life. Pantheon. Wilson, D.S. & Ostrom, E. (2019). Prosocial. Context Press._
 
@@ -216,6 +214,8 @@ Four refinements to the standard model:
 **The DIKW → Action Cycle:** the stack does not end at Wisdom. The full cycle extends: Wisdom → Discernment → Action → Repair → Integration → (return to DIKW at a higher level). Discernment is the application of wisdom to specific context — without it, wisdom produces grandiosity. Action is the embodied commitment from values. Repair acknowledges that action produces unintended effects. Integration returns learning from repair back into the DIKW stack, initiating the next cycle at a higher level of understanding. This spiral structure corresponds to the ♣ Dimensional Integration instrument — the capacity to integrate consequences over time.
 
 #### 3.3 The Four Instruments
+
+Fleming's (2024) synthesis establishes metacognition as a measurable capacity with neural correlates — particularly in frontoparietal networks — making it a trainable skill rather than a fixed trait, directly supporting the framework's claim that AI literacy capacities can be systematically developed. The Cognitive Radar (♦) operationalizes metacognition at the symbolic level: the capacity to observe one's own reasoning patterns and notice when analysis is elaborating within a closed space rather than genuinely scanning for new signal.
 
 | Instrument              | Suit | Element  | Neural Parallel               | Semiotic Layer            | Core Function                                                        |
 | ----------------------- | ---- | -------- | ----------------------------- | ------------------------- | -------------------------------------------------------------------- |
@@ -335,6 +335,22 @@ The educational framework proposed here is a contribution to the kindness field 
 
 The node distribution model specifies how transformation propagates: not all at once, but through nucleation and cascade. A small number of learner-nodes achieving genuine perspective transformation, their transformed understanding becoming new scaffolding for neighboring nodes, the cascade propagating through a network maintained at SOC — this is the mechanism of technosocial phase transformation at civilizational scale, grounded in educational science, materials science, evolutionary biology, and complex systems theory simultaneously.
 
+#### The Overton Window and the Limits of Symbolic Reform
+
+The framework's claim that the current moment represents a genuine phase transformation opportunity requires engagement with political economy research on how institutional change actually occurs — and why it so often doesn't.
+
+Research on gender policy reform in France and comparable democracies (Mazur, 2002) provides a precise case study in what the framework calls zero-holonomy transformation: the enactment of symbolic reforms — new language, new commitments, new institutional positions — that shift the Overton Window in appearance while leaving the underlying dominance hierarchy structures intact. The reforms are real; their impact on actual power distribution is shallow. The mechanism: dominance hierarchy structures are resilient not because their defenders are powerful (though they are) but because the _mental models_ of participants — including reformers — remain organized around the old attractor. New language flows into old containers.
+
+This is the framework's deepest challenge to conventional AI literacy and educational reform efforts: information delivery, even when accurate and compelling, does not shift mental models. The Overton Window is a population-level phenomenon governed by the distribution of mental models, not the quality of arguments. Arguments that exceed the current distribution of mental models — no matter how correct — are experienced as incomprehensible, threatening, or naïve. They land outside the window.
+
+The educational implication: genuine institutional transformation requires working at the mental model level, which requires working at the K→U threshold, which requires the kindness field conditions, the somatic engagement, and the tolerated disequilibration that the framework's simulation architecture is designed to produce. Policy proposals without the corresponding mental model development are Overton Window theater — they shift the symbolic register without shifting the attractor.
+
+**Abstract modeling as window-expansion tool:** State machines, cellular automata, and agent-based models provide a pedagogical pathway that bypasses the ideological immune response to direct political argument. When a learner adjusts the Ising model temperature slider and watches spin domains cascade, they are developing an embodied understanding of phase transition dynamics that can later be applied to political and organizational contexts without triggering the defensive closure that direct political framing produces. The abstraction is not evasion — it is the pre-symbolic encounter that grounds the subsequent symbolic understanding in felt experience rather than argument.
+
+**Transformative leadership in the open window:** The current moment — characterized by visible institutional dysfunction, AI-amplified disruption, and widespread anxiety — constitutes a forced Overton Window expansion. What was unthinkable is becoming thinkable. Leaders with neutrosophic TIF capacity can navigate this expansion productively: holding the vacant-place state between collapsing old frameworks and emerging new ones, making collaborative moves that the old attractor would have blocked. Love and collaboration between groups — across political, cultural, and institutional difference — is not naive in this context. It is the specific adaptive strategy that the open window makes newly viable, and that the kindness field condition makes sustainable.
+
+_Key citations:_ Mazur, A. G. (2002). _Theorizing Feminist Policy._ Oxford University Press. Wilson, D.S. & Snower, D.J. (2024). Rethinking the theoretical foundation of economics I: The multilevel paradigm. _Economics, 18_(1). [https://doi.org/10.1515/econ-2022-0070](https://doi.org/10.1515/econ-2022-0070)
+
 #### 5.2 The Signal in the Torrent
 
 A specific question drives this section: in an information torrent where AI-amplified extraction overwhelms human physiological capacity to evaluate, filter, and respond — how can AI help humans find the signal associated with kindness rather than extraction?
@@ -414,7 +430,7 @@ Clark, A. (2016). _Surfing Uncertainty: Prediction, Action, and the Embodied Min
 
 Doore, K., & Fishwick, P.A. (2014). Prototyping an analog computing representation of predator prey dynamics. _Proceedings of the 2014 Summer Simulation Multiconference._
 
-Fleming, S. M. (2024). _Metacognition and confidence: A review and synthesis_.&#x20;
+Fleming, S. M. (2024). Metacognition and confidence: A review and synthesis. [https://doi.org/10.31234/osf.io/8nzwu](https://doi.org/10.31234/osf.io/8nzwu)
 
 Friston, K. (2010). The free-energy principle: A unified brain theory. _Nature Reviews Neuroscience,_ 11, 127–138.
 
@@ -440,6 +456,8 @@ Kuhl, J., Quirin, M., & Koole, S.L. (2020). The functional architecture of human
 
 Levine, P.A. (1997). _Waking the Tiger: Healing Trauma._ North Atlantic Books.
 
+Mazur, A. G. (2002). _Theorizing Feminist Policy._ Oxford University Press.&#x20;
+
 Macy, J. & Brown, M.Y. (2014). _Coming Back to Life: The Updated Guide to the Work That Reconnects._ New Society Publishers.
 
 Mezirow, J. (1978). Perspective transformation. _Adult Education,_ 28(2), 100–110.
@@ -462,7 +480,7 @@ Siegel, D.J. (1999). _The Developing Mind._ Guilford Press.
 
 Simard, S. (2021). _Finding the Mother Tree._ Knopf.
 
-Singer, T. (2025). A neuroscience perspective on the plasticity of the social and relational brain. _Annals of the New York Academy of Sciences_, 1547, 52–74.
+Singer, T. (2025). A neuroscience perspective on the plasticity of the social and relational brain. Annals of the New York Academy of Sciences, 1547, 52–74. [https://doi.org/10.1111/nyas.15319](https://doi.org/10.1111/nyas.15319)
 
 Smarandache, F. (2026). _Infinitesimal Punctures: Foundations of Weak–Strong Manifolds and Distributional Curvature._
 
@@ -475,6 +493,8 @@ Vygotsky, L.S. (1978). _Mind in Society: The Development of Higher Psychological
 Wilson, D.S. (2019). _This View of Life: Completing the Darwinian Revolution._ Pantheon Books.
 
 Wilson, D.S. & Ostrom, E. (2019). _Prosocial: Using Evolutionary Science to Build Productive, Equitable, and Collaborative Groups._ Context Press.
+
+Wilson, D.S. & Snower, D.J. (2024). Rethinking the theoretical foundation of economics I: The multilevel paradigm. _Economics, 18_(1). [https://doi.org/10.1515/econ-2022-0070](https://doi.org/10.1515/econ-2022-0070)
 
 ***
 
