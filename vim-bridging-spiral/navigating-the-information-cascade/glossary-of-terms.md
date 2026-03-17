@@ -2,7 +2,7 @@
 
 ### Bridging Spiral SR2 · Humanity++ · Cross-Domain Reference
 
-#### Version 3 — March 2026
+#### Version 4 — March 2026
 
 _This glossary spans neuroscience, information theory, complex systems, machine learning, contemplative science, transformative learning theory, prosocial economics, evolutionary biology, materials science, semiotics, and arts-based research. Learning the vocabulary across these domains is itself a demonstration of the framework — the desirable difficulty of holding multiple representational spaces simultaneously is the precondition for the conceptual moves the framework makes._
 
