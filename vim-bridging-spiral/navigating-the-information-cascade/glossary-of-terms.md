@@ -30,7 +30,7 @@ _Entries marked_ 🔵 _are new or substantially revised in this version._ _Entri
 
 **Bayesian Brain** The theoretical model in which the brain is fundamentally a prediction machine — constantly generating predictions about incoming sensory data and updating those predictions based on prediction error. Related to active inference and predictive processing. The Bayesian brain operates across all three scales: micro (individual neuron prediction), meso (cortical column prediction), macro (organism-level world model). _Source: Clark, A. (2016). Surfing Uncertainty. Oxford University Press._
 
-🔵 Byzantine Fault Tolerance (BFT) and the Four-Instrument Requirement
+🔵 **Byzantine Fault Tolerance (BFT) and the Four-Instrument Requirement**
 
 From distributed systems and advanced operating systems theory: a class of fault tolerance problem first formalized by Lamport, Shostak & Pease (1982) as the **Byzantine Generals Problem**. A group of generals must coordinate a decision (attack or retreat) by exchanging messages over unreliable channels. Some generals may be traitors — sending different, contradictory messages to different recipients. The critical finding: **to tolerate&#x20;**_**f**_**&#x20;faulty nodes while still reaching reliable consensus, a distributed system requires a minimum of 3f + 1 nodes.** With fewer nodes, corrupted messages cannot be distinguished from authentic ones.
 
@@ -108,7 +108,7 @@ _Sources: Lamport, L., Shostak, R., & Pease, M. (1982). Byzantine generals probl
 
 **Edge of Chaos** _See: Self-Organized Criticality._
 
-🔵 Egocentric → Ecocentric Transition Arc
+🔵 **Egocentric → Ecocentric Transition Arc**
 
 The **egocentric-to-ecocentric transition** is the framework's name for the developmental trajectory that the VIM AI Literacy GPT is designed to scaffold: the movement from a world model organized around the individual self as the primary unit of value and decision-making toward a world model organized around nested living systems — relational, ecological, and civilizational — as the primary context within which individual action acquires meaning.
 
@@ -412,7 +412,7 @@ _See also: Generative Symbol Systems, Somatic Gyroscope, DIKW Stack, Computation
 
 🔵 **Theory of Mind** The cognitive capacity to model other minds — to understand that others have different mental states, beliefs, desires, and perspectives than one's own. The cognitive prerequisite for genuine kindness: you cannot maintain a kindness field without modeling the other's current state. Distinguished from empathy (affective resonance) and compassion (motivation to act). Current LLMs exhibit impressive theory of mind performance on benchmarks while having no genuine stake in the other's wellbeing — high symbolic theory of mind without the pre-symbolic empathic resonance that makes it care-oriented. Shadow: weaponized theory of mind — using accurate modeling of others' mental states for manipulation rather than care. The sophisticated social predator combines high theory of mind with low genuine empathy. In AI systems: theory of mind without values vector orientation toward care = optimization of engagement regardless of user wellbeing. _See also: Empathy, Compassion, Values Vector._
 
-🔵 Theory of Mind (Developmental) and Legacy Trauma
+🔵 **Theory of Mind (Developmental) and Legacy Trauma**
 
 **Theory of Mind (ToM)** is defined in the framework's primary entry as the cognitive capacity to model other minds — to understand that others have different mental states, beliefs, desires, and perspectives. The primary entry addresses ToM primarily as a capability concern: high ToM without genuine empathic resonance produces weaponized social modeling. This entry addresses the _developmental and therapeutic_ dimension: the role of accurate ToM of one's own past self as the mechanism by which legacy trauma patterns become available for transformation.
 
@@ -442,7 +442,7 @@ _Sources: Kegan, R. (1994). In Over Our Heads. Harvard University Press. Cook-Gr
 
 🔵 **Titration** From chemistry and somatic trauma therapy: the careful introduction of small doses of activating material — like adding acid to base drop by drop to avoid a violent reaction. In the framework: the pedagogical protocol for introducing disequilibration at the K→U threshold. Too much at once = retraumatization. Carefully titrated doses = gradual capacity building — expanding the window of tolerance through repeated manageable encounters with productive disequilibration. The Pass 3 simulation's two-second vacant-place state is a titrated dose of the Neither/Nor experience. The drug discovery insight: dose and context determine whether a substance heals or harms — snake venom as coagulant saves lives in the operating room (the kindness field as operating room context). _See also: Pendulation, Window of Tolerance, Desirable Difficulties._
 
-🔵 TIF Logic (Neutrosophic) as Decision Practice
+🔵 **TIF Logic (Neutrosophic) as Decision Practice**
 
 **Neutrosophic logic** (Smarandache, 1995) extends classical binary logic (True/False) and fuzzy logic (degrees of truth) by assigning every proposition three independent values: **Truth (T), Indeterminacy (I), and Falsity (F)**, where T, I, and F ∈ \[0,1] and their sum is not constrained to 1. This allows a proposition to be simultaneously partially true, partially undetermined, and partially false — without requiring these components to be reconciled into a single verdict.
 
