@@ -72,6 +72,8 @@ Simulations Index: [https://kdoore.github.io/HumanityPlusPlus/index.html](https:
 
 **7.** [**DIKW Toroid Pass 3**](https://kdoore.github.io/HumanityPlusPlus/dikw_pass3.html) **— Giant Pumpkin · Commitment Pool** The shadow simulation. Two attractors made visually present: the Giant Pumpkin (all nutrients flowing inward, beautiful, coherent, exhausting the network) and the Commitment Pool (trusted promises circulating freely, slightly irregular, alive). Between them: the crack — the vacant-place state, luminous grey-white, _neither / nor_ — the productive emptiness through which genuine novelty enters. The one question placed permanently in the corner of the screen.
 
+8. Ising Model - Kindness Prosocial Dynamics
+
 #### The GitHub Pages Deployment
 
 All simulations are hosted publicly at:[ **https://kdoore.github.io/HumanityPlusPlus**](https://kdoore.github.io/HumanityPlusPlus)
