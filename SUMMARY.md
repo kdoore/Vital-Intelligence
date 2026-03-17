@@ -6,6 +6,7 @@
 
 ## VIM Bridging Spiral
 
+* [Framework State of the Commons](vim-bridging-spiral/framework-state-of-the-commons.md)
 * [Navigating the Information Cascade](vim-bridging-spiral/navigating-the-information-cascade/README.md)
   * [Glossary of Terms](vim-bridging-spiral/navigating-the-information-cascade/glossary-of-terms.md)
 * [Process & Authorship Bridging Spiral](vim-bridging-spiral/process-and-authorship-bridging-spiral/README.md)
