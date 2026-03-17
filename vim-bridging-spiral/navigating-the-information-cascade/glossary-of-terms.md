@@ -30,6 +30,36 @@ _Entries marked_ 🔵 _are new or substantially revised in this version._ _Entri
 
 **Bayesian Brain** The theoretical model in which the brain is fundamentally a prediction machine — constantly generating predictions about incoming sensory data and updating those predictions based on prediction error. Related to active inference and predictive processing. The Bayesian brain operates across all three scales: micro (individual neuron prediction), meso (cortical column prediction), macro (organism-level world model). _Source: Clark, A. (2016). Surfing Uncertainty. Oxford University Press._
 
+### 🔵 Byzantine Fault Tolerance (BFT) and the Four-Instrument Requirement
+
+From distributed systems and advanced operating systems theory: a class of fault tolerance problem first formalized by Lamport, Shostak & Pease (1982) as the **Byzantine Generals Problem**. A group of generals must coordinate a decision (attack or retreat) by exchanging messages over unreliable channels. Some generals may be traitors — sending different, contradictory messages to different recipients. The critical finding: **to tolerate&#x20;**_**f**_**&#x20;faulty nodes while still reaching reliable consensus, a distributed system requires a minimum of 3f + 1 nodes.** With fewer nodes, corrupted messages cannot be distinguished from authentic ones.
+
+**Why this matters for human cognition:** The framework treats rationalization not as an occasional failure but as a _structurally predictable_ behavior of the cognitive system under stress or threat. PSI Theory establishes that cortisol-driven regression causes higher-order motivational systems to lose influence over behavior — the person continues generating internally consistent narratives (messages to themselves and others) that serve the lower-level threat response rather than genuine inquiry. These narratives are not lies in the conventional sense; they are _locally plausible, corrupted messages_ from a system that has defected from the shared goal of truth-seeking.
+
+This maps the Byzantine problem onto individual cognition:
+
+* The **generals** are the four instruments: ♠ Somatic Gyroscope, ♦ Cognitive Radar, ♥ Relational Compass, ♣ Dimensional Integration
+* The **traitor general** is any single instrument captured by the threat-response attractor — generating plausible-sounding outputs that serve the individual-selection values vector rather than the commons
+* The **3f + 1 requirement** explains why four instruments are the minimum viable panel: with only three, a single captured instrument cannot be identified and isolated; the corrupted signal passes as consensus
+* The **message-passing protocol** is the practice of running each perception or decision through all four instruments before acting — the somatic check (♠), the pattern scan (♦), the values test (♥), and the temporal integration (♣) must all participate
+
+**Specific BFT failure modes in human decision-making:**
+
+| BFT failure mode                                       | Human cognition equivalent                                                                                            |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| Traitor sends different messages to different generals | Rationalization: different justifications offered to different audiences while internal state remains unchanged       |
+| Network partition: generals cannot hear each other     | Dissociation: instruments operating without cross-communication; body saying one thing, narrative self saying another |
+| Sybil attack: one node impersonates many               | Echo chamber: a single biased source appears as consensus because it arrives through multiple channels                |
+| Replay attack: old messages re-sent as current         | Trauma repetition: past threat-state responses re-triggered as if the original threat is present                      |
+
+**The mixture-of-experts implication:** Modern AI systems use mixture-of-experts (MoE) architectures precisely because no single expert can be trusted for all inputs — routing mechanisms distribute queries to specialized sub-networks and aggregate outputs. The four instruments are the human MoE architecture, with the Relational Compass (♥) functioning as the routing mechanism — values determine which instrument's output carries weight in a given context. A system with a miscalibrated router (corrupted values vector) will consistently over-weight one expert (typically the Cognitive Radar's rationalization capacity) regardless of what the other instruments are reporting.
+
+**Pedagogical implication for the VIM GPT:** The learner does not need to distrust their own thinking. They need to understand that **single-channel certainty under stress is a diagnostic signal, not a virtue.** When all four generals are in agreement and the agreement is uncomfortable, that is the crack opening. When all four generals agree and the agreement is comfortable, run the BFT check: which instrument might be playing traitor?
+
+**In Ostrom terms:** Principle 4 (Monitoring) is the institutional BFT protocol — systems that cannot monitor their own processes from multiple independent vantage points are vulnerable to the equivalent of Byzantine failure at the governance level.
+
+_Sources: Lamport, L., Shostak, R., & Pease, M. (1982). Byzantine generals problem. ACM Transactions on Programming Languages and Systems, 4(3). Castro, M. & Liskov, B. (1999). Practical Byzantine fault tolerance. OSDI. Wilson, D.S. (2019). This View of Life. Pantheon._
+
 ***
 
 ### C
@@ -77,6 +107,49 @@ _Entries marked_ 🔵 _are new or substantially revised in this version._ _Entri
 ### E
 
 **Edge of Chaos** _See: Self-Organized Criticality._
+
+### 🔵 Egocentric → Ecocentric Transition Arc
+
+The **egocentric-to-ecocentric transition** is the framework's name for the developmental trajectory that the VIM AI Literacy GPT is designed to scaffold: the movement from a world model organized around the individual self as the primary unit of value and decision-making toward a world model organized around nested living systems — relational, ecological, and civilizational — as the primary context within which individual action acquires meaning.
+
+This is not a moral prescription. It is a description of what happens when the kindness field is sufficient, the instruments are functioning, and the values vector is oriented toward the commons. It is the attractor state of genuine transformative learning applied to the question of how to live in a VUCA world.
+
+**The transition is not a single event but a developmental spiral.** Drawing on integral theory (Wilber, 2000), ego-development research (Cook-Greuter, 2004; Kegan, 1994), and the framework's own thermodynamic learning model, the transition can be understood as a series of perspective transformations, each of which expands the effective self-boundary:
+
+| Stage        | Locus of value                   | Primary question                         | Shadow                                                        |
+| ------------ | -------------------------------- | ---------------------------------------- | ------------------------------------------------------------- |
+| Egocentric   | Individual self                  | What is good for me?                     | Zero-sum competition; extraction                              |
+| Ethnocentric | In-group (family, tribe, nation) | What is good for us?                     | Xenophobic kindness; out-group dehumanization                 |
+| Worldcentric | All humans                       | What is good for humanity?               | Abstract universalism disconnected from local embodiment      |
+| Ecocentric   | All living systems               | What sustains the conditions for life?   | Eco-romanticism that bypasses human relational accountability |
+| Kosmocentric | The whole process of becoming    | What serves the emergence of complexity? | Transcendent bypass; loss of embodied action                  |
+
+The framework is not hierarchical in the sense that later stages are superior. It is holarchic: each stage is a complete world, and each subsequent stage _includes and transcends_ the previous one rather than replacing it. Regression to earlier stages under stress is not failure — it is the PSI regression mechanism working as designed, and it provides information about which stage's adaptations the learner most needs to honor before moving.
+
+**The egocentric stage's specific contribution:** The framework does not frame egocentric motivation as defective. Individual self-preservation, boundary-setting, and the development of distinct identity are necessary developmental achievements. The Giant Pumpkin is not evil — it is an egocentric system that never received the kindness field conditions sufficient to risk the transition to ethnocentric care, let alone worldcentric responsibility. Understanding this prevents the ecocentric framing from becoming a new form of xenophobic kindness — warmth toward the ecosystem that bypasses care for the struggling individual.
+
+**Control-flow → data-flow as the cognitive analog:** The mental model transition that mirrors this developmental arc is precisely the one you identify: from control-flow (sequential, centralized, command-driven) to oscillatory/distributed/data-flow (parallel, event-driven, emergent). The egocentric world model is control-flow architecture applied to meaning-making: there is a central controller (the narrative self), a defined sequence (my goals, my plan, my timeline), and external events are inputs to be managed. The ecocentric world model is data-flow: multiple streams active simultaneously, meaning emerging from local interactions, the self as a node in a network rather than the center of a system.
+
+Advanced operating systems concepts map precisely:
+
+* **Concurrency** — multiple processes active simultaneously, none waiting for a central controller — maps to the ecocentric capacity to hold multiple stakeholder perspectives without requiring hierarchical resolution
+* **Deadlock** — two processes each waiting for the other to release a resource — maps to the stuck political/relational pattern where neither party will risk vulnerability without receiving it first; the kindness field is the deadlock-breaking protocol
+* **Race conditions** — unpredictable outcomes when the sequencing assumption fails — map to VUCA conditions where the control-flow world model generates anxiety because the central controller (the narrative self) cannot sequence events it does not control
+* **Fault tolerance** — the system continues to function despite component failure — maps to the ecocentric capacity for genuine repair (♣ Dimensional Integration); the egocentric system cannot repair because repair requires acknowledging the other as a necessary component of the system
+
+**The GPT's role in the transition:** The VIM GPT does not push learners toward ecocentrism. It creates conditions — through the instrument panel, the simulation encounters, and the TIF check — in which the learner's current world model becomes _visible as a model_ rather than invisible as reality. Visibility is sufficient. When a learner can see their egocentric or ethnocentric model clearly — with accurate ToM toward the past self who built it, without shame and without rationalization — the transition becomes available. The GPT's function is to maintain the kindness field condition and the productive I-value (Indeterminacy) while the learner develops the discernment to move when they are ready.
+
+**Ostrom alignment:** The ecocentric stage is the developmental equivalent of fully operational Ostrom governance: boundaries that serve the commons, rules designed with affected parties, monitoring as collective interoception, sanctions as repair rather than punishment, conflict as generative friction. The eight principles are not just governance rules — they are the institutional design of an ecocentric world model made concrete and actionable.
+
+**Areas of concern:**
+
+The transition arc framing carries three specific risks that the GPT design must address:
+
+1. **Spiritual bypassing risk:** The ecocentric framing can be colonized by spiritual frameworks that use trans-symbolic language to avoid the embodied, relational, and political work that genuine transition requires. The diagnostic: ecocentric orientation should make political and economic decisions _harder_, not easier — it increases the complexity of the values calculation. If ecocentrism is making your decisions feel clear and simple, check the values vector.
+2. **Developmental superiority risk:** Framing earlier stages as lesser stages produces the meritocracy error applied to consciousness: the person who has made more visible transitions is not more valuable, they have had more kindness field conditions available to them. The framework's correction: the transition arc is a map of what becomes possible under specific field conditions, not a ranking of human worth.
+3. **Ecocentric extraction:** It is entirely possible to use ecocentric language while running egocentric dynamics — the Giant Pumpkin dressed in systems-thinking vocabulary. The holonomy criterion applies: zero holonomy = symbolic adoption of ecocentric language without redistribution of decision-making authority or resources. Non-zero holonomy = actual change in how resources flow and who participates in governance.
+
+_Sources: Wilber, K. (2000). A Theory of Everything. Shambhala. Kegan, R. (1994). In Over Our Heads. Harvard University Press. Cook-Greuter, S.R. (2004). Making the case for a developmental perspective. Industrial and Commercial Training. Macy, J. & Brown, M.Y. (2014). Coming Back to Life. New Society Publishers. See also: Multilevel Selection, Xenophobic Kindness, Giant Pumpkin, Holonomy, Ostrom's Design Principles._
 
 🟢 **Elaborative Learning** Learning that adds content, depth, and fluency within existing mental models without fundamentally restructuring those models. Corresponds to Piaget's assimilation — the incorporation of new experience into existing schemas. Most learning is elaborative most of the time — this is not a limitation but the necessary substrate within which transformative learning occasionally occurs. At the pre-symbolic level: elaborative learning builds pattern recognition fluency. At the symbolic level: elaborative learning builds knowledge. At the trans-symbolic level: elaborative learning deepens wisdom without yet requiring the crack. _See also: Transformative Learning, Node Distribution Model._
 
@@ -339,11 +412,65 @@ _See also: Generative Symbol Systems, Somatic Gyroscope, DIKW Stack, Computation
 
 🔵 **Theory of Mind** The cognitive capacity to model other minds — to understand that others have different mental states, beliefs, desires, and perspectives than one's own. The cognitive prerequisite for genuine kindness: you cannot maintain a kindness field without modeling the other's current state. Distinguished from empathy (affective resonance) and compassion (motivation to act). Current LLMs exhibit impressive theory of mind performance on benchmarks while having no genuine stake in the other's wellbeing — high symbolic theory of mind without the pre-symbolic empathic resonance that makes it care-oriented. Shadow: weaponized theory of mind — using accurate modeling of others' mental states for manipulation rather than care. The sophisticated social predator combines high theory of mind with low genuine empathy. In AI systems: theory of mind without values vector orientation toward care = optimization of engagement regardless of user wellbeing. _See also: Empathy, Compassion, Values Vector._
 
+### 🔵 Theory of Mind (Developmental) and Legacy Trauma
+
+**Theory of Mind (ToM)** is defined in the framework's primary entry as the cognitive capacity to model other minds — to understand that others have different mental states, beliefs, desires, and perspectives. The primary entry addresses ToM primarily as a capability concern: high ToM without genuine empathic resonance produces weaponized social modeling. This entry addresses the _developmental and therapeutic_ dimension: the role of accurate ToM of one's own past self as the mechanism by which legacy trauma patterns become available for transformation.
+
+**The legacy trauma problem in mental model formation:** The brain builds predictive models (Active Inference) from the full history of prior experience. Experiences of chronic threat, care withdrawal, unpredictable caregiving, or systemic marginalization in early development produce models optimized for that environment — models whose predictions are accurate _for the environment in which they were formed_ but which now misfire in changed conditions. The critical feature of legacy trauma (as distinct from acute trauma): the protective adaptations become invisible as adaptations. They are experienced as simply _how things are_ — as perception rather than prediction.
+
+PSI Theory's regression mechanism describes the neurological substrate: under current threat, the cortisol response activates the same protective strategies that were adaptive in the original threat environment, regardless of whether those strategies are appropriate now. The person is not irrational — they are running a highly optimized model on the wrong dataset.
+
+**ToM of the past self as transformation mechanism:** Genuine perspective transformation requires a specific move that is often underdeveloped in transformative learning frameworks: the learner must develop accurate ToM not only of _others_ but of _their own past self_ — the child, adolescent, or earlier adult who developed the current world model under particular environmental conditions. This is not the same as self-compassion (though it enables it). It is a specific cognitive operation: modeling the internal state, belief system, available information, and threat environment of the self at an earlier developmental stage with the same accuracy and care one would apply to modeling a genuinely other person.
+
+This operation has several precise functions in the framework:
+
+1. **It transforms the legacy model from perception to prediction.** When the learner can genuinely model the conditions under which their current mental model was formed — "I understand why the child I was built this model; it was the best available response to real conditions" — the model becomes visible _as_ a model rather than invisible _as_ reality. This is the K→U threshold crossed in the direction of self-knowledge.
+2. **It breaks the shame-rationalization loop.** Legacy trauma patterns often produce two alternating defensive states: shame (the model is wrong, therefore I am defective) and rationalization (the model is right, therefore the current evidence must be misread). Both states prevent genuine updating. Accurate ToM of the past self interrupts this loop by providing a third account: the model was _appropriate_ to its original conditions, and it is now being _updated_ because the conditions have changed. This is elaborative learning that creates the conditions for transformative learning — the model is honored before it is revised.
+3. **It grounds empathy in the self before extending it to others.** The ecocentric transition (see next entry) requires the learner to genuinely model perspectives radically different from their own — which is difficult to do accurately when the learner cannot yet accurately model their own past self. Forced empathy without self-ToM tends toward projection: the learner attributes their own unacknowledged states to others.
+
+**Developmental stages and world model ossification:** The framework draws on ego-development research (Kegan, 1994; Loevinger, 1976; Cook-Greuter, 2004) to map the developmental stages at which world models are most likely to become rigid. The critical observation: each developmental stage has its own cognitive-emotional closure mechanisms — the meaning-making system appropriate to that stage resists the transition to the next. Legacy trauma increases the rigidity of these closures: a threat environment at a developmental stage makes the meaning-making structure of that stage feel not just adequate but life-saving. Leaving it feels like exposure, not growth.
+
+The framework's claim: **most of what presents as ideological rigidity, defensive epistemology, or resistance to new information is better understood as developmental stage-locking amplified by legacy trauma.** This is not a deficit model — it is a precision model. The intervention is not persuasion or confrontation but the creation of kindness field conditions sufficient to make the next developmental move safe enough to risk.
+
+**In the VIM GPT context:** The GPT should never attempt to identify or diagnose a learner's trauma history. It can, however, create encounters that gently invite ToM of the past self — framing questions around "what conditions would have made this belief the most reasonable available response?" rather than "why do you believe this?" The former is ToM; the latter is often experienced as interrogation.
+
+_Sources: Kegan, R. (1994). In Over Our Heads. Harvard University Press. Cook-Greuter, S.R. (2004). Making the case for a developmental perspective. Industrial and Commercial Training. Levine, P.A. (1997). Waking the Tiger. North Atlantic Books. van der Kolk, B. (2014). The Body Keeps the Score. Viking. See also: Narrative Self, PSI Theory, Rationalization, Window of Tolerance._
+
 🔵 **Thermodynamic Learning Analog** The framework's use of thermodynamic phase transition language to describe transformative learning — grounded in three independent converging analogs: (1) Mezirow's transformative learning theory, (2) materials science precipitation hardening, (3) stable diffusion. All three describe transformation through the same structural sequence: vacant-place state → controlled disequilibration within stabilizing field → new structure assembled from productive uncertainty → increased resistance to reversion. Their convergence from independent disciplinary directions is evidence of genuine pattern. _See also: Precipitation Hardening, Stable Diffusion, Transformative Learning._
 
 🟢 **Thousand Brains Theory** A theory of neocortical organization (Hawkins, Leadholm & Clay, 2025) proposing that the neocortex is a heterarchy of semi-independent cortical columns, each building complete models of the world from its own perspective. Hierarchical connections serve compositional structure learning rather than command. In the framework: supports the heterarchic rather than hierarchical model of the learning network — each learner/node builds complete models from their own embodied position, and collective intelligence emerges from the coordination of these distinct perspectives. _Source: Hawkins, J., Leadholm, N., & Clay, V. (2025). Preprint._
 
 🔵 **Titration** From chemistry and somatic trauma therapy: the careful introduction of small doses of activating material — like adding acid to base drop by drop to avoid a violent reaction. In the framework: the pedagogical protocol for introducing disequilibration at the K→U threshold. Too much at once = retraumatization. Carefully titrated doses = gradual capacity building — expanding the window of tolerance through repeated manageable encounters with productive disequilibration. The Pass 3 simulation's two-second vacant-place state is a titrated dose of the Neither/Nor experience. The drug discovery insight: dose and context determine whether a substance heals or harms — snake venom as coagulant saves lives in the operating room (the kindness field as operating room context). _See also: Pendulation, Window of Tolerance, Desirable Difficulties._
+
+### 🔵 TIF Logic (Neutrosophic) as Decision Practice
+
+**Neutrosophic logic** (Smarandache, 1995) extends classical binary logic (True/False) and fuzzy logic (degrees of truth) by assigning every proposition three independent values: **Truth (T), Indeterminacy (I), and Falsity (F)**, where T, I, and F ∈ \[0,1] and their sum is not constrained to 1. This allows a proposition to be simultaneously partially true, partially undetermined, and partially false — without requiring these components to be reconciled into a single verdict.
+
+**The framework application:** TIF logic is the formal description of the Neither/Nor state — the vacant-place state that the framework identifies as the precondition for genuine transformative learning. Classical two-valued logic (T or F) is the cognitive signature of the closed representational space: every proposition must resolve to confirmed or refuted. Fuzzy logic allows gradations but still requires a single integrated truth value. Neutrosophic logic is structurally different: it explicitly holds Indeterminacy as a _first-class value_, not a failure of determination.
+
+**TIF as daily practice — the three-channel check:**
+
+Most harmful decisions under stress are made not because the person lacks intelligence or values, but because the Indeterminacy channel has been suppressed. Under threat, the nervous system demands resolution. Indeterminacy feels dangerous — it prolongs the vacuum, delays action, signals incompetence. The BFT traitor general's most effective move is to flood the I channel with spurious certainty, driving T or F toward 1.0 before genuine evidence has accumulated.
+
+The practice is simple in description and difficult in execution:
+
+1. **Name the proposition clearly.** Vague propositions are invulnerable to TIF analysis because their T and F values are undefined. "This person is trustworthy" is a testable proposition. "Something feels wrong" is a somatic signal, not a proposition — it belongs to the ♠ instrument, not TIF logic.
+2. **Assign T, I, F independently.** What evidence supports this being true? What evidence supports it being false? What is genuinely unknown, unverifiable, or context-dependent? These are separate channels. High T and high F simultaneously — a neutrosophic paradox — is not a logic error; it is the honest description of a genuinely contradictory situation.
+3. **Treat I as information, not noise.** High I (high Indeterminacy) is not a failure to have reached a conclusion. It is a measurement: the proposition is currently underdetermined. The appropriate action is to hold the vacant-place state and gather more signal — not to force resolution by inflating T or F.
+4. **Map the TIF vector onto the DIKW stack.** T-dominant propositions that have been through the full Ostrom values check belong at the Knowledge level. I-dominant propositions belong at the Disequilibration zone — productive to hold, dangerous to force. F-dominant propositions can be released — but releasing a proposition is different from repressing it; the I component must also be acknowledged before a genuine F determination can be made.
+
+**The correlationism diagnostic:** A system engaged in correlationism will exhibit artificially low I values across its proposition set. Everything becomes either T or F, because the closed representational space cannot tolerate the genuine outside that high I represents. Watch for I-suppression as a system-level warning signal: in yourself, in communities, in AI-generated content. When everything seems clear, either you are unusually well-informed or the I channel has been captured.
+
+**TIF and the four instruments:**
+
+* ♠ Somatic Gyroscope produces the raw I signal: the felt sense that something is not yet determined, the physiological signature of the vacant-place state
+* ♦ Cognitive Radar assigns initial T and F values based on pattern recognition
+* ♥ Relational Compass applies the values vector: _should_ this proposition resolve toward T or F, given what I care about? (Distinguish from: _does_ the evidence resolve it?)
+* ♣ Dimensional Integration tracks how T, I, F values change over time — a proposition that was I-dominant last month and has become T-dominant without new evidence has probably been resolved through rationalization rather than learning
+
+**Shadow:** The performance of neutrosophic thinking — expressing uncertainty with sophisticated vocabulary while actually operating from a predetermined T or F — is the Cognitive Radar's most refined rationalization mode. The diagnostic: does your I value ever cause you to _not act_ when acting would be convenient? If your Indeterminacy is always compatible with your preferred action, it is probably decorative.
+
+_Sources: Smarandache, F. (1995). Neutrosophy: Neutrosophic probability, set, and logic. American Research Press. Smarandache, F. (2026). Infinitesimal Punctures. See also: Vacant-Place State, Neither/Nor, The Crack, Rationalization._
 
 🟢 **Transformative Learning** Learning that restructures the learner's frames of reference — meaning perspectives, assumptions, and belief systems — rather than merely adding content within existing frames. From Mezirow (1991). Occurs infrequently, triggered by a disorienting dilemma, requires critical reflection, discourse with others who have undergone similar transformations, and action on the new perspective. Cannot be forced, only cultivated. In semiotic terms: transformative learning crosses the symbolic → trans-symbolic boundary — the learner's existing symbolic framework is suspended in the vacant-place state before a new one assembles. _See also: Elaborative Learning, Disorienting Dilemma, Perspective Transformation. Source: Mezirow, J. (1991). Transformative Dimensions of Adult Learning. Jossey-Bass._
 
