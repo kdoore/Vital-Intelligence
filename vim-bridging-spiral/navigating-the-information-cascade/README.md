@@ -187,6 +187,74 @@ The framework's final theoretical foundation addresses a gap that has been prese
 
 **The rationalization problem:** rational cognition can become rationalization — the construction of post-hoc logical justification for conclusions already determined by somatic, social, or self-protective pressures. The Cognitive Radar (♦) operating without the Somatic Gyroscope (♠) and Relational Compass (♥) produces rationalization: elaborate, internally coherent, fundamentally self-serving narratives. The stories we tell ourselves. The diagnostic: does the reasoning process ever produce conclusions that are uncomfortable for the reasoner? If not, it is probably rationalization. This is the metacognitive layer of the kindness field — the capacity to observe one's own reasoning process and notice when it is serving the individual-level attractor rather than genuinely scanning for truth.
 
+### 2.11 Cognitive Architecture and Model Dynamics: From Distributed Systems to Human Discernment
+
+The theoretical foundations assembled in Sections 2.1 through 2.10 describe the conditions for transformative learning, the governance structures for sustainable commons, the evolutionary dynamics that favor prosocial behavior, and the semiotic architecture through which meaning is made and unmade. What they do not yet address directly is the question of mechanism at the cognitive level: _how_, precisely, does the human decision-making system fail under stress, and what is the minimum viable architecture for fault-tolerant human discernment in adversarial information environments?
+
+This section argues that the answer has been formally available for decades — not in psychology or education, but in computer science, operations research, and distributed systems engineering. The translation of this formally validated knowledge into a cognitive and social literacy framework is the VIM's most direct contribution to the AI literacy field.
+
+#### The Neuroprocess Foundation
+
+Klaus Truemper's Neuroprocess Hypothesis (_Wittgenstein and Brain Science_, 2018; _Magic, Error, and Terror_, 2021; _Artificial Intelligence: Why AI Projects Succeed or Fail_, 2023) provides the neurological grounding for the framework's central claim about human cognitive failure under stress. Truemper's formal proposition: the brain employs a large number of subconscious and conscious neuroprocesses that are always in flux, operating in parallel across conscious and subconscious registers simultaneously. Decisions, beliefs, and behaviors emerge from the interaction of these parallel processes — not from a central executive controller running sequential operations.
+
+This is a structural claim with direct implications for AI literacy. The folk psychology model of human cognition — a central controller who receives information, evaluates it rationally, and decides — is neurologically inaccurate. The brain is not a control-flow system. It is a parallel, distributed, event-driven architecture in which meaning emerges from the interaction of multiple simultaneous processes, most of which operate below conscious awareness and faster than deliberate reflection can intercept.
+
+The consequence Truemper identifies is precise: cognitive failure under stress is not a character deficit but the structurally predictable output of a parallel processing system whose subconscious models have been shaped by prior environments and activate faster than conscious deliberation. The same parallel architecture that allows humans to navigate complex environments with extraordinary efficiency also produces systematic, predictable failure modes when the models are outdated, when threat activates protective subconscious processes, or when sophisticated information environments are designed to exploit known model vulnerabilities.
+
+This grounds the framework's relationship to PSI Theory (Kuhl et al., 2020) at the neurological level: cortisol-driven regression is not a vague suppression of higher functions but the specific mechanism by which threat-activated subconscious neuroprocesses override the conscious models that would otherwise enable genuine evaluation and updating. The same information, received in a threat state versus a regulated state, produces categorically different outputs — because different neuroprocesses are dominant, not because the person's values have changed.
+
+Truemper's framework also grounds the possibility of intentional model revision — extending Mezirow's transformative learning theory in a specific direction. Where Mezirow identifies perspective transformation as typically initiated by external disorienting dilemma, the neuroprocess model supports the practice of deliberate model identification and inversion: recognizing that a subconscious model is generating predictable errors, and consciously working to replace it. This requires the four instruments functioning in concert — the Somatic Gyroscope to detect the model's activation signature, the Cognitive Radar to identify its structure and error pattern, the Relational Compass to maintain values alignment during revision, and Dimensional Integration to complete the repair cycle across time. The intentional model-flip is non-zero holonomy achieved through practice rather than crisis.
+
+#### Byzantine Fault Tolerance and the Four-Instrument Requirement
+
+The formal bridge between Truemper's neurological account and the VIM's instrument architecture comes from distributed systems engineering. The Byzantine Generals Problem (Lamport, Shostak & Pease, 1982) establishes a mathematical result with direct cognitive implications: to reach reliable consensus in a distributed system where up to _f_ components may be generating corrupted messages, a minimum of **3f + 1** independent nodes is required. With fewer nodes, corrupted signals cannot be distinguished from authentic ones — the system cannot achieve fault-tolerant consensus regardless of the quality of its algorithms.
+
+Applied to human cognition: rationalization under stress is not an occasional failure but a structurally predictable behavior of the cognitive system under cortisol-driven regression — the equivalent of a Byzantine faulty node, generating internally consistent but corrupted messages that serve the threat-response attractor rather than genuine inquiry. The messages are not lies in the conventional sense; they are locally plausible outputs from a system that has temporarily defected from truth-seeking in favor of self-protection.
+
+The four instruments of the VIM framework — ♠ Somatic Gyroscope, ♦ Cognitive Radar, ♥ Relational Compass, ♣ Dimensional Integration — are the minimum viable panel for fault-tolerant human discernment, derived from the 3f + 1 requirement: with f = 1 potentially faulty instrument (any single instrument captured by the threat-response attractor), a minimum of four independent signal sources is required. With fewer than four, a single captured instrument cannot be identified and isolated — its corrupted output passes as consensus.
+
+This has a specific design implication: single-channel certainty under stress is a diagnostic signal of Byzantine failure, not a virtue. A person who is certain without consulting all four instruments is operating from a system that may have already been captured. This is not a moral judgment — it is a structural observation about the minimum architecture for reliable discernment under adversarial conditions.
+
+Modern AI systems have converged on the same solution through independent engineering necessity: Mixture-of-Experts (MoE) architectures distribute queries across specialized sub-networks precisely because no single model can be trusted for all inputs. The routing mechanism — the function that determines which expert's output carries weight in a given context — is the values vector. A miscalibrated router consistently over-weights one expert regardless of what the others report. This is why the framework's values vector specification (Ostrom's eight principles) is not a moral add-on but a technical requirement: it is the specification of the routing function that prevents any single instrument from monopolizing the system's output under stress.
+
+#### State Machines, Counterfactual Thinking, and Abductive Inference
+
+The finite state machine (FSM) is the minimal formal structure that makes three critical AI literacy capacities simultaneously trainable, and that makes the transition from control-flow to data-flow mental models legible to learners across technical and non-technical backgrounds.
+
+A finite state machine consists of a finite set of states, a set of transitions between states triggered by defined inputs, and an initial state. Every component has a named function. The machine's behavior at any moment is entirely determined by its current state and the input it receives. This is not merely a useful analogy for human cognition — it is the minimal formal structure that makes three capacities learnable:
+
+**Present-moment state awareness.** The FSM's most important cognitive contribution: the question _what state am I in right now?_ In an FSM, behavior is fully determined by current state plus input. In human cognition, the same information received in a threat state versus a regulated state produces categorically different outputs. Teaching learners to read their current state before engaging with information is the FSM insight applied to self-regulation — and it is the entry point to the DIKW stack. The Somatic Gyroscope (♠) is the state register: it reads the current state of the system before any other processing begins.
+
+**Counterfactual thinking.** Running the state machine backward: _what state would we be in if a different transition had fired?_ This is the formal definition of counterfactual reasoning — and it is the cognitive capacity most directly suppressed by threat-state tunnel vision (PSI regression). Under stress, the Cognitive Radar operates in error-detection mode, scanning the current state for threats rather than modeling alternative state trajectories. Extension Memory (PSI Theory) — the holistic associative capacity that enables counterfactual modeling — activates under safety conditions and contracts under threat. The FSM makes transitions explicit and named, allowing learners to reason about alternatives without the cognitive load of holding the full causal chain in working memory. In VUCA conditions, counterfactual thinking is the specific capacity that distinguishes adaptive from maladaptive responses to disruption. Media censorship — the most documented autocratization tactic in the V-Dem 2026 data — is, at the cognitive level, the systematic elimination of counterfactual information that would allow citizens to model alternative state trajectories for their society.
+
+**Abductive inference.** Running the machine forward from incomplete information: _given the current state and available evidence, what is the most coherent account of how we got here and where we're going?_ Abduction (Peirce, 1903) is inference to the best explanation — the reasoning mode that generates new hypotheses rather than verifying existing ones. Distinguished from deduction (necessary conclusions from premises) and induction (generalizations from instances), abductive inference is the creative, defeasible reasoning that produces new mental models rather than confirming established ones. It is the cognitive operation at the K→U threshold — the moment when the learner's existing model is insufficient and a new explanatory framework must be generated rather than assimilated. A closed representational space cannot perform genuine abduction; it can only rearrange existing categories.
+
+The four instruments map onto the FSM architecture with precision: the Somatic Gyroscope (♠) is the state register; the Cognitive Radar (♦) is the transition function; the Relational Compass (♥) is the acceptance condition — what states are we oriented toward, what transitions are impermissible; and Dimensional Integration (♣) is the tape — the full history of states and transitions, integrated over time, that constitutes the repair cycle.
+
+#### The Info-Holarchy: Information as Primary
+
+The organizational scale of this argument is grounded in Alfredo Sepulveda's doctoral research on the info-holarchy (_Information-Theoretic Metamodel of Organizational Evolution_, Walden University, 2011). Sepulveda identifies the foundational limitation of classical organizational analytics: model-predict-control methods treat information as a secondary characteristic of organizational systems — a description of material and process flows — rather than as the primary medium through which organizational structure forms, evolves, and transforms.
+
+The info-holarchy proposes that social organizations are abstractly modeled by holarchies — self-similar connected networks — whose evolution is governed by information dynamics operating simultaneously at multiple scales. The minimal unit of these dynamics is the _informaton_: a theoretical information particle consisting of an entangled event-observer pair, modeled on the bipartite structure of quantum observation. Informatons aggregate into holarchic structures through lattice connections governed by generalized uncertainty theory — producing the complex adaptive organizational dynamics that classical linear analytics cannot capture.
+
+The framework's claim is that this is not merely an organizational theory but a reframing of what information _is_ in the context of living systems: not a description of reality but a primary constituent of it. This reframing has direct implications for AI literacy. If information dynamics — not material resources — determine whether an organizational system moves toward distributed flourishing or progressive centralization, then AI systems that shape information flows are not merely tools that organizations use. They are constitutive forces in the evolution of organizational structure itself.
+
+This is precisely the macro-scale claim the framework makes about AI-amplified information environments: current deployment of recommendation algorithms, engagement-optimized platforms, and agentic AI systems constitutes a massive, largely undesigned experiment in redirecting organizational information dynamics toward centralization — the Giant Pumpkin attractor — while systematically undermining the distributed information flows that Ostrom's principles identify as the conditions for sustainable commons governance.
+
+The convergence between Sepulveda's info-holarchy (2011) and the framework's attractor analysis is significant precisely because it is independent: two different research traditions arriving at the same structural description of the difference between generative and extractive information dynamics. Sepulveda's third wave prediction — written in 2011 — anticipated that a third paradigm shift in organizational information dynamics was emerging, following the industrial machine era and the web information explosion. The AI-amplified information environment the framework now addresses is that third wave.
+
+#### The Control-Flow → Data-Flow Transition
+
+Taken together, these four contributions — Truemper's neuroprocess model, Byzantine fault tolerance, finite state machine architecture, and Sepulveda's info-holarchy — converge on a single structural claim that the framework identifies as the central cognitive challenge of AI literacy:
+
+**The dominant mental model for understanding human cognition, organizational decision-making, and information systems is control-flow architecture. The actual structure of these systems is data-flow architecture. The mismatch between model and reality is the primary source of failure in VUCA conditions.**
+
+Control-flow thinking assumes: a central controller, sequential processing, predictable state transitions, linear causality, and the possibility of stable prediction and management. This model is adequate — and often highly efficient — in stable, low-complexity, high-trust environments. It fails structurally in volatile, uncertain, complex, and ambiguous conditions because it treats race conditions as anomalies rather than as the normal operating environment, treats faulty components as exceptions rather than as structural predictabilities, and treats emergence as a problem to be managed rather than as the primary generative mechanism of complex systems.
+
+Data-flow thinking assumes: distributed processing, parallel activation, event-driven transitions, emergent meaning from local interactions, and the necessity of fault-tolerant architecture. This model is the accurate description of how the brain works (Truemper), how sustainable commons governance works (Ostrom), how organizational information dynamics work (Sepulveda), and how resilient distributed systems work (Byzantine fault tolerance). It is also the description of how the Giant Pumpkin → Commitment Pool transition works: not through central coordination but through the cascade dynamics of a network maintained at the SOC zone by the kindness field.
+
+The educational implication is direct: designing AI literacy for a control-flow world model produces learners who can describe AI systems but cannot navigate them. The VIM framework's simulation architecture — interactive, parameter-adjustable, producing emergent behavior from simple rules — is designed to give learners pre-symbolic encounters with data-flow dynamics before and beneath the symbolic vocabulary. The learner who adjusts the Ising model temperature and watches spin domains cascade has understood data-flow dynamics somatically, before they can articulate the concept — and that pre-symbolic grounding is what makes the subsequent symbolic understanding durable rather than decorative.
+
 ***
 
 ### 3. The Framework Architecture
@@ -454,6 +522,8 @@ Hoel, E.P., Albantakis, L., & Tononi, G. (2013). Quantifying causal emergence sh
 
 Kuhl, J., Quirin, M., & Koole, S.L. (2020). The functional architecture of human motivation. _Advances in Motivation Science,_ 7, 1–63.
 
+_Lamport, L., Shostak, R., & Pease, M. (1982). Byzantine generals problem. ACM Transactions on Programming Languages and Systems, 4(3)._
+
 Levine, P.A. (1997). _Waking the Tiger: Healing Trauma._ North Atlantic Books.
 
 Mazur, A. G. (2002). _Theorizing Feminist Policy._ Oxford University Press.&#x20;
@@ -466,9 +536,13 @@ Mezirow, J. (1991). _Transformative Dimensions of Adult Learning._ Jossey-Bass.
 
 Mezirow, J. (2000). Learning to think like an adult: Core concepts of transformation theory. In J. Mezirow & E.W. Taylor (Eds.), _Learning as Transformation._ Jossey-Bass.
 
+Nord, M. et al. (2026). Democracy Report 2026. V-Dem Institute, University of Gothenburg.
+
 Oliveira, W., et al. (2022). The effects of personalized gamification on students' flow experience, motivation, and enjoyment. _Computers & Education._
 
 Ostrom, E. (1990). _Governing the Commons: The Evolution of Institutions for Collective Action._ Cambridge University Press.
+
+_Peirce, C.S. (1903). Pragmatism as a principle and method of right thinking. Lectures on Pragmatism._
 
 Rogers, E.M. (2003). _Diffusion of Innovations_ (5th ed.). Free Press.
 
@@ -482,11 +556,19 @@ Simard, S. (2021). _Finding the Mother Tree._ Knopf.
 
 Singer, T. (2025). A neuroscience perspective on the plasticity of the social and relational brain. Annals of the New York Academy of Sciences, 1547, 52–74. [https://doi.org/10.1111/nyas.15319](https://doi.org/10.1111/nyas.15319)
 
+_Sepulveda, A. (2011). Information-theoretic metamodel of organizational evolution. Doctoral dissertation, Walden University._
+
 Smarandache, F. (2026). _Infinitesimal Punctures: Foundations of Weak–Strong Manifolds and Distributional Curvature._
 
 Smarandache, F. (2026). The infinitesimally punctured wave: A corpuscular visualisation of wave-particle duality.
 
 Stiny, G. & Gips, J. (1972). Shape grammars and the generative specification of painting and sculpture. _Information Processing,_ 71, 1460–1465.
+
+_Truemper, K. (2018). Wittgenstein and Brain Science. Leibniz Company._&#x20;
+
+_Truemper, K. (2021). Magic, Error, and Terror. Leibniz Company._&#x20;
+
+_Truemper, K. (2023). Artificial Intelligence: Why AI Projects Succeed or Fail. Leibniz Company._
 
 Vygotsky, L.S. (1978). _Mind in Society: The Development of Higher Psychological Processes._ Harvard University Press.
 
