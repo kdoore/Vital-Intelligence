@@ -580,6 +580,8 @@ Friston, K. (2010). The free-energy principle: A unified brain theory. _Nature R
 
 Friston, K. (2013). Life as we know it. _Journal of the Royal Society Interface,_ 10(86).
 
+_Gómez-Márquez, J. (2023). A new definition and three categories for classifying ecosystems. Academia Biology, 1._ [_https://doi.org/10.20935/AcadBiol6072_](https://doi.org/10.20935/AcadBiol6072)
+
 Grande, V., et al. (2025). From disciplinary enthusiasm to soulless tasks: Norms behind computing educators' emotion display. _ACM Conference on Innovation and Technology in Computer Science Education._
 
 Granovetter, M. (1978). Threshold models of collective behavior. _American Journal of Sociology,_ 83(6), 1420–1443.
@@ -639,6 +641,8 @@ Smarandache, F. (2026). _Infinitesimal Punctures: Foundations of Weak–Strong M
 Smarandache, F. (2026). The infinitesimally punctured wave: A corpuscular visualisation of wave-particle duality.
 
 Stiny, G. & Gips, J. (1972). Shape grammars and the generative specification of painting and sculpture. _Information Processing,_ 71, 1460–1465.
+
+Taleb, N.N. (2007). The Black Swan: The Impact of the Highly Improbable. Random House.
 
 _Truemper, K. (2018). Wittgenstein and Brain Science. Leibniz Company._&#x20;
 
