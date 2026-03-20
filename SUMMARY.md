@@ -9,6 +9,7 @@
 * [Framework State of the Commons](vim-bridging-spiral/framework-state-of-the-commons.md)
 * [Navigating the Information Cascade](vim-bridging-spiral/navigating-the-information-cascade/README.md)
   * [Glossary of Terms](vim-bridging-spiral/navigating-the-information-cascade/glossary-of-terms.md)
+* [Speculative Fiction as Epistemic Infrastructure](vim-bridging-spiral/speculative-fiction-as-epistemic-infrastructure.md)
 * [Process & Authorship Bridging Spiral](vim-bridging-spiral/process-and-authorship-bridging-spiral/README.md)
   * [Creative Artifacts: Images](vim-bridging-spiral/process-and-authorship-bridging-spiral/creative-artifacts-images.md)
   * [Modeling Holarchic Transformations](vim-bridging-spiral/process-and-authorship-bridging-spiral/modeling-holarchic-transformations.md)
