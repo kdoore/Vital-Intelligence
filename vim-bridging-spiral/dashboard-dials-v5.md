@@ -1,5 +1,6 @@
 ---
 description: Bridging Spiral - Framework Reference Document
+hidden: true
 ---
 
 # Dashboard Dials v5

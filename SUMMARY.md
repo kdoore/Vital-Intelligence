@@ -18,6 +18,7 @@
   * [AI Research Systems](vim-bridging-spiral/creative-artifacts-interactive-code/ai-research-systems.md)
 * [Dashboard Dials](vim-bridging-spiral/dashboard-dials.md)
 * [Dashboard Dials v5](vim-bridging-spiral/dashboard-dials-v5.md)
+* [Dashboard Dials v6](vim-bridging-spiral/dashboard-dials-v6.md)
 * [Deep Learning and Human Meaning](vim-bridging-spiral/deep-learning-and-human-meaning.md)
 * [VIM: Transformative Bridging](vim-bridging-spiral/vim-transformative-bridging/README.md)
   * [Pedagogical philosophy](vim-bridging-spiral/vim-transformative-bridging/pedagogical-philosophy.md)
