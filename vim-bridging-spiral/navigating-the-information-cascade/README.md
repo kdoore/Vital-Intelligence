@@ -544,7 +544,7 @@ The educational framework proposed here is a contribution to the kindness field 
 
 The node distribution model specifies how transformation propagates: not all at once, but through nucleation and cascade. A small number of learner-nodes achieving genuine perspective transformation, their transformed understanding becoming new scaffolding for neighboring nodes, the cascade propagating through a network maintained at SOC — this is the mechanism of technosocial phase transformation at civilizational scale, grounded in educational science, materials science, evolutionary biology, and complex systems theory simultaneously.
 
-The six-state Markov Decision Process (MDP) developed in this framework makes the transformation mechanism formally explicit and visually navigable (see Figure 1: MDP — Dominance Hierarchy to Holarchy). The MDP maps six attractor states: S0 (frozen order — centralized, brittle, low entropy), S1 (productive disequilibration — the SOC zone where the crack becomes possible), S2 (vacant place — the Neither/Nor state where existing categories are released), S3 (holarchic flow — distributed, generative, resilient), S4 (reversion — values vector captured, zero holonomy), and S5 (traumatic chaos — no kindness field, no coherence). The optimal policy π\* — kindness field maintained, Ostrom values vector active, four instruments functioning — routes the system from frozen order through productive disequilibration and the vacant-place state into holarchic flow. Three failure transitions are explicitly modeled: the closure reflex that returns disequilibration to reversion; values vector capture that converts holarchic flow back to frozen order; and the absence of the kindness field at the crack that sends the system into traumatic chaos. The S3 maintenance loop is the repair cycle — the only attractor state that sustains itself without external forcing, and the only one whose dynamics implement Ostrom's eight principles as emergent properties rather than imposed rules. The MDP is not a prescription for how transformation must occur; it is a navigation instrument for identifying which state a system currently occupies, which transitions are available, and what conditions determine which path the system takes.
+The six-state Markov Decision Process (MDP) makes the transformation mechanism formally explicit and visually navigable (see Figure 1: MDP — Dominance Hierarchy to Holarchy). The MDP maps six attractor states: S0 (frozen order — centralized, brittle, low entropy), S1 (productive disequilibration — the SOC zone where the crack becomes possible), S2 (vacant place — the Neither/Nor state where existing categories are released and indeterminacy is structural rather than transitional), S3 (holarchic flow — distributed, generative, resilient), S4 (reversion — values vector captured, zero holonomy, apparent transformation without genuine phase shift), and S5 (traumatic chaos — no kindness field, no coherence, Markov blanket collapse). The optimal policy π\* — kindness field maintained, Ostrom values vector active, four instruments functioning — routes the system from frozen order through productive disequilibration and the vacant-place state into holarchic flow. Three failure transitions are explicitly modeled: the closure reflex (S1→S0: disequilibration collapses back to frozen order before the crack opens); values vector capture (S3→S4: holarchic flow is co-opted into extractive mimicry with zero holonomy); and kindness field absence at the crack (S1→S5: the crack opens into traumatic chaos rather than the vacant-place state). The S3 maintenance loop is the repair cycle — the only attractor state that sustains itself without external forcing, and the only one whose dynamics implement Ostrom's eight principles as emergent properties rather than imposed rules.
 
 <figure><img src="../../.gitbook/assets/Frame.png" alt=""><figcaption></figcaption></figure>
 
@@ -635,19 +635,29 @@ _Which of these does the information environment you live in most resemble — a
 
 ### References
 
+Axelrod, R. (1984). _The Evolution of Cooperation_. Basic Books. _(Prisoner's Dilemma iterated result — T1 foundation for cooperative strategy in information environments)_
+
 Bak, P. (1996). _How Nature Works: The Science of Self-Organized Criticality._ Copernicus Books.
 
 Bellaiche, L., et al. (2025). Selective emotion regulation in creative art production: Psychophysiological reactivity during painting reduces anxiety. _Psychology of Aesthetics, Creativity, and the Arts._
 
+Bender, E.M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? _Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency_, 610–623. _(LLM corpus distortion — structural epistemological bias — T1)_
+
 Clark, A. (2016). _Surfing Uncertainty: Prediction, Action, and the Embodied Mind._ Oxford University Press.
 
 Doore, K., & Fishwick, P.A. (2014). Prototyping an analog computing representation of predator prey dynamics. _Proceedings of the 2014 Summer Simulation Multiconference._
+
+Duke, R.D. (1974). _Gaming: The Future's Language_. Sage. _(Supersymbol concept — T1 for design language; already in session captures, now added to white paper)_
+
+Fishwick, P.A. (2006). _Aesthetic Computing_. MIT Press. _(Computational aesthetics — formal grounding for connection between information dynamics and artistic expression — T1)_
 
 Fleming, S. M. (2024). Metacognition and confidence: A review and synthesis. [https://doi.org/10.31234/osf.io/8nzwu](https://doi.org/10.31234/osf.io/8nzwu)
 
 Friston, K. (2010). The free-energy principle: A unified brain theory. _Nature Reviews Neuroscience,_ 11, 127–138.
 
 Friston, K. (2013). Life as we know it. _Journal of the Royal Society Interface,_ 10(86).
+
+Friston, K., Parr, T., Heins, C., Da Costa, L., Salvatori, T., Tschantz, A., Koudahl, M., Van de Maele, T., Buckley, C., & Verbelen, T. (2025). Gradient-free de novo learning. _Entropy_, 27(9), 992. [https://doi.org/10.3390/e27090992](https://doi.org/10.3390/e27090992)
 
 _Gómez-Márquez, J. (2023). A new definition and three categories for classifying ecosystems. Academia Biology, 1._ [_https://doi.org/10.20935/AcadBiol6072_](https://doi.org/10.20935/AcadBiol6072)
 
@@ -667,7 +677,11 @@ Hendrycks, D. (2024). _Natural selection favors AIs over humans_. arXiv:2303.162
 
 Hoel, E.P., Albantakis, L., & Tononi, G. (2013). Quantifying causal emergence shows that macro can beat micro. _Proceedings of the National Academy of Sciences,_ 110(49).
 
+Kaufman, S.B. (2020). _Transcend: The New Science of Self-Actualization_. TarcherPerigee. _(Sailboat metaphor; Maslow pyramid correction — T1)_
+
 Kuhl, J., Quirin, M., & Koole, S.L. (2020). The functional architecture of human motivation. _Advances in Motivation Science,_ 7, 1–63.
+
+_K.G.M. v. Meta Platforms, Inc. et al._, Los Angeles County Superior Court. Bellwether verdict, March 25, 2026. (Part of _In Re: Social Media Adolescent Addiction/Personal Injury Products Liability Litigation_, Case No. 4:22-md-03047-YGR.) _(Legal finding establishing platform design liability — T1)_
 
 _Lamport, L., Shostak, R., & Pease, M. (1982). Byzantine generals problem. ACM Transactions on Programming Languages and Systems, 4(3)._
 
@@ -676,6 +690,8 @@ Levine, P.A. (1997). _Waking the Tiger: Healing Trauma._ North Atlantic Books.
 Mazur, A. G. (2002). _Theorizing Feminist Policy._ Oxford University Press.&#x20;
 
 Macy, J. & Brown, M.Y. (2014). _Coming Back to Life: The Updated Guide to the Work That Reconnects._ New Society Publishers.
+
+Mbiti, J.S. (1969). _African Religions and Philosophy_. Heinemann. _(Ubuntu philosophical grounding — T1 for "I am because we are" — p. 106)_
 
 Mezirow, J. (1978). Perspective transformation. _Adult Education,_ 28(2), 100–110.
 
@@ -697,6 +713,8 @@ Ruddick, W.O. (2025). _Grassroots Economics: Reflection and Practice._
 
 Sbitnev, V.I. (2024). Edge of chaos and consciousness. _(Preprint — handle with appropriate epistemic caution.)_
 
+Schrödinger, E. (1944). _What Is Life?_ Cambridge University Press. _(Negentropy principle — T1 for comet model and life as agentic negentropy)_
+
 Siegel, D.J. (1999). _The Developing Mind._ Guilford Press.
 
 Simard, S. (2021). _Finding the Mother Tree._ Knopf.
@@ -708,6 +726,8 @@ _Sepulveda, A. (2011). Information-theoretic metamodel of organizational evoluti
 Smarandache, F. (2026). _Infinitesimal Punctures: Foundations of Weak–Strong Manifolds and Distributional Curvature._
 
 Smarandache, F. (2026). The infinitesimally punctured wave: A corpuscular visualisation of wave-particle duality.
+
+_State of New Mexico v. Meta Platforms, Inc._, New Mexico District Court. Verdict March 24, 2026. \[$375 million civil penalties for child exploitation law violations.] _(Legal finding — T1)_
 
 Stiny, G. & Gips, J. (1972). Shape grammars and the generative specification of painting and sculpture. _Information Processing,_ 71, 1460–1465.
 
@@ -726,6 +746,8 @@ Wilson, D.S. (2019). _This View of Life: Completing the Darwinian Revolution._ P
 Wilson, D.S. & Ostrom, E. (2019). _Prosocial: Using Evolutionary Science to Build Productive, Equitable, and Collaborative Groups._ Context Press.
 
 Wilson, D.S. & Snower, D.J. (2024). Rethinking the theoretical foundation of economics I: The multilevel paradigm. _Economics, 18_(1). [https://doi.org/10.1515/econ-2022-0070](https://doi.org/10.1515/econ-2022-0070)
+
+Zeki, S. (1993). _A Vision of the Brain_. Blackwell. _(V4 color processing — sub-symbolic layer — T1)_
 
 ***
 
