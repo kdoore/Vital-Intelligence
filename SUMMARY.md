@@ -2,11 +2,9 @@
 
 ## VIM-AI Literacy Framework
 
-* [SR2 GitBook Refinement Protocol](README.md)
-
 ## VIM Bridging Spiral
 
-* [Framework State of the Commons](vim-bridging-spiral/framework-state-of-the-commons.md)
+* [Framework State of the Commons](README.md)
 * [Navigating the Information Cascade](vim-bridging-spiral/navigating-the-information-cascade/README.md)
   * [Glossary of Terms](vim-bridging-spiral/navigating-the-information-cascade/glossary-of-terms.md)
 * [Speculative Fiction as Epistemic Infrastructure](vim-bridging-spiral/speculative-fiction-as-epistemic-infrastructure.md)
@@ -208,6 +206,7 @@
 * [Downloads](resources/downloads/README.md)
   * [Vital Intelligence Model: Zine](resources/downloads/vital-intelligence-zine.md)
 * [Tools & Benchmarks](resources/tools-and-benchmarks.md)
+* [SR2 GitBook Refinement Protocol](resources/sr2-gitbook-refinement-protocol.md)
 
 ## Get Involved
 
