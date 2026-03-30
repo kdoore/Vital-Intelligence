@@ -206,7 +206,7 @@
 * [Downloads](resources/downloads/README.md)
   * [Vital Intelligence Model: Zine](resources/downloads/vital-intelligence-zine.md)
 * [Tools & Benchmarks](resources/tools-and-benchmarks.md)
-* [SR2 GitBook Refinement Protocol](resources/sr2-gitbook-refinement-protocol.md)
+* [SR2 GitBook Refinement Protocol](<README (1).md>)
 
 ## Get Involved
 
