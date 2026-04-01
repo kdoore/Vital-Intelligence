@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # VIM: Transformative Bridging
 
 ## AI Literacy Framework - VIM Transformative Bridging
