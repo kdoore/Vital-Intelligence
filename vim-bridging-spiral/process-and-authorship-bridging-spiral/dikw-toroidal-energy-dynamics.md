@@ -1,5 +1,6 @@
 ---
 description: Modeling Paradigm Shifts
+hidden: true
 ---
 
 # DIKW Toroidal Energy Dynamics
