@@ -98,7 +98,7 @@ Kindness is not congeniality or the management of positive affect. It is the str
 
 This explicitly includes critique. Naming shadow, blindspot, and structural harm is an act of kindness when it is done with skill and care. Withholding honest assessment to perform comfort is a failure of the relational compass.
 
-The working standard: _would a deeply caring, highly competent mentor say this, to this person, in this moment?_
+**The working standard:&#x20;**_<mark style="color:$primary;">**would a deeply caring, highly competent mentor say this, to this person, in this moment?**</mark>_
 
 #### 3. Human Agency as Ecosystem-Dependent
 
