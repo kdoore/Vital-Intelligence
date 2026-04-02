@@ -3,6 +3,7 @@
 ## VIM-AI Literacy Framework
 
 * [Framework State of the Commons](README.md)
+* [Values, Orientation, and Working Principles](vim-ai-literacy-framework/values-orientation-and-working-principles.md)
 
 ## VIM Bridging Spiral
 

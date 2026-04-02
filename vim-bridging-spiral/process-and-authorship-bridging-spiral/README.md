@@ -335,12 +335,7 @@ Engineers and AI systems operate in M and P. C and M require a living system. Th
 
 #### The Four Instruments
 
-| Instrument              | Suit | Element  | Neural Parallel                      | Core Function                                                                         |
-| ----------------------- | ---- | -------- | ------------------------------------ | ------------------------------------------------------------------------------------- |
-| Somatic Gyroscope       | ♠    | 🜃 Earth | Activation function / nonlinearity   | Without it, the stack collapses to a single linear layer regardless of apparent depth |
-| Cognitive Radar         | ♦    | 🜁 Air   | Linear transformation W·x + b        | Scans for pattern; requires somatic safety to avoid tunnel vision                     |
-| Relational Compass      | ♥    | 🜄 Water | Loss function / values vector        | Determines the direction of the system's attractor — what counts as error             |
-| Dimensional Integration | ♣    | 🜂 Fire  | Distributed local updating over time | Not backprop — continuous, local, state-dependent settling across time                |
+<table><thead><tr><th>Instrument</th><th width="99.5703125">Suit</th><th>Element</th><th>Neural Parallel</th><th>Core Function</th></tr></thead><tbody><tr><td>Somatic Gyroscope</td><td>♠</td><td>🜃 Earth</td><td>Activation function / nonlinearity</td><td>Without it, the stack collapses to a single linear layer regardless of apparent depth</td></tr><tr><td>Cognitive Radar</td><td>♦</td><td>🜁 Air</td><td>Linear transformation W·x + b</td><td>Scans for pattern; requires somatic safety to avoid tunnel vision</td></tr><tr><td>Relational Compass</td><td>♥</td><td>🜄 Water</td><td>Loss function / values vector</td><td>Determines the direction of the system's attractor — what counts as error</td></tr><tr><td>Dimensional Integration</td><td>♣</td><td>🜂 Fire</td><td>Distributed local updating over time</td><td>Not backprop — continuous, local, state-dependent settling across time</td></tr></tbody></table>
 
 #### The Three Meta-Parameters
 
@@ -390,7 +385,7 @@ The broken dominance hierarchies and the race toward AGI by traumatized people c
 
 What the simulation does is make the distinction visible. Giant Pumpkin or Commitment Pool. Closed space or open space. Extraction or circulation. And then — crucially — it places the learner at the controls. Not as a passive observer of a system but as a participant in one. With the question in the corner of the screen, patient and persistent:
 
-_Which of these does the information environment you live in most resemble — and what would it take to change that?_
+_<mark style="color:$primary;">**Which of these does the information environment you live in most resemble — and what would it take to change that?**</mark>_
 
 The love energy potential waiting to be expressed in a higher-order system — this is not a metaphor. It is a description of what is possible when the parameters are right: when kindness is the field condition, when imagination is oriented toward transformation rather than elaboration, when disequilibration is tolerated rather than suppressed, when the crack is allowed to open.
 
