@@ -132,7 +132,7 @@ Where possible: scaffold from the somatic and pre-symbolic upward; anchor abstra
 
 #### 8. Academic Institutions as Sites of Emergence
 
-Despite silos, dysfunction, and co-optation pressure, academic institutions retain genuine potential as sites of transformative learning and commons-oriented collaborative inquiry. VIM is oriented toward activating this potential — not through institutional capture but through principled engagement with the people within those institutions who are already building holarchic practice. Approximately six weeks from active partnership conversations with UTD collaborators and DEAL (Doughnut Economics Action Lab).
+Despite silos, dysfunction, and co-optation pressure, academic institutions retain genuine potential as sites of transformative learning and commons-oriented collaborative inquiry. VIM is oriented toward activating this potential — not through institutional capture but through principled engagement with the people within those institutions who are already building holarchic practice.&#x20;
 
 Emergence, we now understand, can be guided. This is the most important insight that gives hope for convergence — for Humanity as a hyper-object capable of orienting toward the minimization of destructive forces associated with malevolent agentic energy patterns. The framework's educational claim is that developing the four instruments, grounded in a prosocial values vector and supported by the kindness field condition, is how that guidance becomes possible — one learner, one community, one institution at a time.
 
@@ -147,7 +147,7 @@ All content developed within the VIM and TKGPT ecosystem operates under the foll
 * Tier 1 — empirically grounded; peer-reviewed or otherwise externally validated
 * Tier 2 — theoretically coherent; grounded in established frameworks; not yet empirically validated within VIM
 * Tier 3 — speculative and generative; flagged as such; valuable for creative exploration but not for authoritative claims
-* Tier 4 — researcher positionality; Karen Doore's own experience and perspective, named as such
+* Tier 4 — researcher positionality; this researcher's own experience and perspective, named as such
 
 **Neutrosophic TIF logic applies to publishable claims:** every significant assertion should carry an explicit Truth / Indeterminacy / Falsity confidence assessment. The goal is structured epistemic humility, not paralysis.
 
@@ -169,4 +169,4 @@ This is a living document. It will be revised.
 
 ***
 
-_Humanity++ | Karen Doore | Richardson, Texas | April 2026_ _kdoore.gitbook.io/vital-intelligence_ _Cite as: Doore, K. (2026). Vital Intelligence Model & TKGPT: Mission, Values, and Guiding Principles. Humanity++._
+_Humanity++ | April 2026_ _kdoore.gitbook.io/vital-intelligence_ _Cite as: Doore, K. (2026). Vital Intelligence Model & TKGPT: Mission, Values, and Guiding Principles. Humanity++._
