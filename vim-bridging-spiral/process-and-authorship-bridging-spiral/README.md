@@ -152,7 +152,7 @@ The glossary is a production artifact and a pedagogical instrument simultaneousl
 
 #### The White Paper as Synthesis Artifact
 
-The **white paper** — [_Navigating the Information Cascade:_](../../) _A Multi-Modal Simulation Framework for AI Literacy, Transformative Learning, and Prosocial Complexity_ — represents the most formally structured documentation artifact of Phase I. It translates the studio process and its theoretical grounding into a format appropriate for workshop circulation, conference presentation, and eventual peer-review development.
+The **white paper** — [_Navigating the Information Cascade:_](<../../README (2).md>) _A Multi-Modal Simulation Framework for AI Literacy, Transformative Learning, and Prosocial Complexity_ — represents the most formally structured documentation artifact of Phase I. It translates the studio process and its theoretical grounding into a format appropriate for workshop circulation, conference presentation, and eventual peer-review development.
 
 The white paper is organized in eight sections: the problem (AI literacy in a VUCA world), the six theoretical foundations, the framework architecture, the simulation series, the technosocial phase transformation hypothesis, experience design as a proposed discipline, honest limitations and next steps, and a conclusion that returns to the one question.
 
@@ -160,7 +160,7 @@ It makes the framework's largest claim explicitly and humbly: that the transitio
 
 The white paper was itself produced through AI collaboration — drafted through Claude, shaped by the researcher's conceptual judgment at every structural decision — and carries a colophon that names this explicitly as an expression of the MPCM framework it describes.
 
-→ [_Navigating the Information Cascade — White Paper_](../../)
+→ [_Navigating the Information Cascade — White Paper_](<../../README (2).md>)
 
 #### The Master Framework Documents
 
