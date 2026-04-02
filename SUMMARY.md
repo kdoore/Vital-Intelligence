@@ -4,8 +4,7 @@
 
 ## VIM Bridging Spiral
 
-* [Vital Intelligence Model & TKGPT: Mission, Values, and Guiding Principles](README.md)
-* [Navigating the Information Cascade](vim-bridging-spiral/navigating-the-information-cascade/README.md)
+* [Navigating the Information Cascade](README.md)
   * [Glossary of Terms](vim-bridging-spiral/navigating-the-information-cascade/glossary-of-terms.md)
 * [Speculative Fiction as Epistemic Infrastructure](vim-bridging-spiral/speculative-fiction-as-epistemic-infrastructure.md)
 * [Inception Games: Adversarial Epistemic Dynamics](vim-bridging-spiral/inception-games-adversarial-epistemic-dynamics.md)
@@ -45,6 +44,7 @@
 
 * [Vital Intelligence in a Generative AI Era](vim-introduction/readme.md)
 * [From Alignment to Resonance](vim-introduction/from-alignment-to-resonance.md)
+* [VIM & TKGPT: Mission, Values, and Guiding Principles](vim-introduction/vim-and-tkgpt-mission-values-and-guiding-principles.md)
 * [Transformative Kindness GPT (TKGPT)](vim-introduction/transformative-kindness-gpt-tkgpt/README.md)
   * [Trust as an Attractor](vim-introduction/transformative-kindness-gpt-tkgpt/trust-as-an-attractor.md)
   * [Personalization as Orientation, Not Control](vim-introduction/transformative-kindness-gpt-tkgpt/personalization-as-orientation-not-control.md)

@@ -214,14 +214,14 @@ This is the TKGPT's core design constraint and its core design gift: it cannot g
 
 #### Current knowledge commons state
 
-| Asset                                                                                      | Location                | Epistemic status      | Next action                                                            |
-| ------------------------------------------------------------------------------------------ | ----------------------- | --------------------- | ---------------------------------------------------------------------- |
-| White paper ([Navigating the Information Cascade](../navigating-the-information-cascade/)) | Project files / GitBook | Draft for circulation | Add V-Dem 2026 citation; add BFT section; add speculative tiering note |
-| [Glossary](framework-state-of-the-commons.md) (VIM Bridging Spiral v3)                     | Project files / GitBook | Version 3, March 2026 | Add new entries (BFT, TIF practice, ToM+Trauma, Ecocentric Arc)        |
-| Speculative glossary                                                                       | Does not exist yet      | Planned               | Create Tier 3 entries: Meijer toroidal models, SOC+consciousness       |
-| Zotero library                                                                             | Zotero (local/cloud)    | Research Curation     | Map Zotero keys to framework Tier 1/2 citations                        |
-| Substack: [Humanity++](https://humanityplusplus.substack.com/)                             | Substack                | Public record         | Link to GitBook as researcher positionality documentation              |
-| TKGPT system prompt                                                                        | Does not exist yet      | Next phase            | Build after framework documentation is stable                          |
+| Asset                                                                  | Location                | Epistemic status      | Next action                                                            |
+| ---------------------------------------------------------------------- | ----------------------- | --------------------- | ---------------------------------------------------------------------- |
+| White paper ([Navigating the Information Cascade](../../))             | Project files / GitBook | Draft for circulation | Add V-Dem 2026 citation; add BFT section; add speculative tiering note |
+| [Glossary](framework-state-of-the-commons.md) (VIM Bridging Spiral v3) | Project files / GitBook | Version 3, March 2026 | Add new entries (BFT, TIF practice, ToM+Trauma, Ecocentric Arc)        |
+| Speculative glossary                                                   | Does not exist yet      | Planned               | Create Tier 3 entries: Meijer toroidal models, SOC+consciousness       |
+| Zotero library                                                         | Zotero (local/cloud)    | Research Curation     | Map Zotero keys to framework Tier 1/2 citations                        |
+| Substack: [Humanity++](https://humanityplusplus.substack.com/)         | Substack                | Public record         | Link to GitBook as researcher positionality documentation              |
+| TKGPT system prompt                                                    | Does not exist yet      | Next phase            | Build after framework documentation is stable                          |
 
 #### The one-sentence orientation for a new partner
 
