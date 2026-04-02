@@ -4,12 +4,13 @@
 
 ## VIM Bridging Spiral
 
-* [Framework State of the Commons](README.md)
+* [Vital Intelligence Model & TKGPT: Mission, Values, and Guiding Principles](README.md)
 * [Navigating the Information Cascade](vim-bridging-spiral/navigating-the-information-cascade/README.md)
   * [Glossary of Terms](vim-bridging-spiral/navigating-the-information-cascade/glossary-of-terms.md)
 * [Speculative Fiction as Epistemic Infrastructure](vim-bridging-spiral/speculative-fiction-as-epistemic-infrastructure.md)
 * [Inception Games: Adversarial Epistemic Dynamics](vim-bridging-spiral/inception-games-adversarial-epistemic-dynamics.md)
 * [Process & Authorship Bridging Spiral](vim-bridging-spiral/process-and-authorship-bridging-spiral/README.md)
+  * [Framework State of the Commons](vim-bridging-spiral/process-and-authorship-bridging-spiral/framework-state-of-the-commons.md)
   * [Creative Artifacts: Images](vim-bridging-spiral/process-and-authorship-bridging-spiral/creative-artifacts-images.md)
   * [Modeling Holarchic Transformations](vim-bridging-spiral/process-and-authorship-bridging-spiral/modeling-holarchic-transformations.md)
   * [DIKW Toroidal Energy Dynamics](vim-bridging-spiral/process-and-authorship-bridging-spiral/dikw-toroidal-energy-dynamics.md)

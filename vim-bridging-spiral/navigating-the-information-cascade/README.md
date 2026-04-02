@@ -18,7 +18,7 @@ _Draft for workshop circulation — not for formal citation without author permi
 
 This framework emerges from practice. The Art of Kindness (AoK) project, developed in partnership with the Center for Brain Health during COVID-19 (2020), demonstrated that trauma-informed, neuroscience-grounded creative learning could be deployed at institutional scale across departments during acute collective disruption. That project — using Synectics, five topics in the neuroscience of kindness, and single-frame narrative as the creative form — reached students across the university as extra credit and design class projects, and continues to be taught. The Bridging Spiral framework is the theoretical integration of what that project demonstrated empirically: that kindness, operationalized as a field condition rather than a sentiment, creates the conditions for genuine learning transformation. The current work extends that demonstrated pattern into the AI literacy challenge that is now the defining disruption of the information environment.\
 \
-See the [Framework State of the Commons](../../) for a high level overview of these frameworks.
+See the [Framework State of the Commons](../process-and-authorship-bridging-spiral/framework-state-of-the-commons.md) for a high level overview of these frameworks.
 
 ### Abstract
 
