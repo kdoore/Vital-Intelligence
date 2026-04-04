@@ -552,4 +552,4 @@ This framework stands on the shoulders of:
 
 ***
 
-_Dashboard Dials v6 | Humanity++ | Karen Doore | March 2026_ _Open source. May be viewed as threatening to autocratic governance structures. This is by design._ _Cite as: Doore, K. (2026). Dashboard Dials v6: VIM Bridging Spiral Framework Reference. Humanity++._
+_Dashboard Dials v6 |&#x20;_&#x20;_Cite as: Doore, K. (2026). Dashboard Dials v6: VIM Bridging Spiral Framework Reference. Humanity++._

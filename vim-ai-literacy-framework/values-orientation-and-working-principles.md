@@ -92,4 +92,4 @@ AI systems used in the development of VIM and TKGPT function as **cognitive pros
 
 ***
 
-_Humanity++ · Karen Doore · Richardson, Texas · April 2026_ _Open source. May be viewed as structurally threatening to power-accumulation systems. This is by design._ _Cite as: Doore, K. (2026). Values, Orientation, and Working Principles: VIM · TKGPT · Humanity++._
+_Humanity++  ·_ _Cite as: Doore, K. (2026). Values, Orientation, and Working Principles: VIM · TKGPT · Humanity++._

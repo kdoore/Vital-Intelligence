@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Framework State of the Commons
 
 ### Vital Intelligence Model · Bridging Spiral SR2 · TKGPT Design Foundation
@@ -199,7 +203,7 @@ The framework's deepest pedagogical challenge: how do you make _transmissible_ a
 
 The honest answer, derived from the framework's own claims, is: **you don't transmit it. You create conditions in which each learner begins growing it from their own current state.**
 
-The FSM provides the most useful framing: the velocity vector is a transition function that has been tuned through repeated practice to favor prosocial attractor states even under perturbation. You cannot install a transition function in another person's state machine. You can:
+The FSM provides the most useful framing: _**the velocity vector is a transition function that has been tuned through repeated practice to favor prosocial attractor states even under perturbation.**_ You cannot install a transition function in another person's state machine. You can:
 
 1. Make the concept of a transition function visible — show learners that their current responses are not inevitable reactions but the outputs of a tunable system
 2. Show what prosocial attractor states look like (Ostrom's principles, Commitment Pool mode) so the learner has a target state to navigate toward
@@ -209,21 +213,6 @@ The FSM provides the most useful framing: the velocity vector is a transition fu
 This is the TKGPT's core design constraint and its core design gift: it cannot give learners the velocity vector. It can show them that they have one, that it was shaped by specific conditions, that those conditions can change, and that the shaping is ongoing.
 
 ***
-
-### Part VII: Integration Map — What Exists, Where, and What's Next
-
-#### Current knowledge commons state
-
-| Asset                                                               | Location                | Epistemic status      | Next action                                                            |
-| ------------------------------------------------------------------- | ----------------------- | --------------------- | ---------------------------------------------------------------------- |
-| White paper ([Navigating the Information Cascade](<README (2).md>)) | Project files / GitBook | Draft for circulation | Add V-Dem 2026 citation; add BFT section; add speculative tiering note |
-| [Glossary](./) (VIM Bridging Spiral v3)                             | Project files / GitBook | Version 3, March 2026 | Add new entries (BFT, TIF practice, ToM+Trauma, Ecocentric Arc)        |
-| Speculative glossary                                                | Does not exist yet      | Planned               | Create Tier 3 entries: Meijer toroidal models, SOC+consciousness       |
-| Zotero library                                                      | Zotero (local/cloud)    | Research Curation     | Map Zotero keys to framework Tier 1/2 citations                        |
-| Substack: [Humanity++](https://humanityplusplus.substack.com/)      | Substack                | Public record         | Link to GitBook as researcher positionality documentation              |
-| TKGPT system prompt                                                 | Does not exist yet      | Next phase            | Build after framework documentation is stable                          |
-
-#### The one-sentence orientation for a new partner
 
 _The Vital Intelligence Model is a framework for AI literacy that uses formally validated concepts from distributed systems engineering, evolutionary biology, commons governance, and transformative learning theory to help individuals and communities distinguish generative information dynamics from extractive ones — and develop the cognitive, somatic, and relational capacities to act from that distinction._
 
