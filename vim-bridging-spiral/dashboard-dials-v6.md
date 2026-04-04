@@ -72,7 +72,7 @@ This is the first instrument check. It belongs to ♠.
 
 ***
 
-### The Architecture: Z-Axis First
+### The Architecture: Z-Axis First - _**Somatic Gyroscope**_
 
 #### Why orientation precedes navigation
 
@@ -88,7 +88,7 @@ This is the z-axis. It is the axis of:
 * The lightning rod — metal connected to earth, conducting charge safely to ground
 * The gyroscope's reference axis — the one that, when stable, makes all other orientation meaningful
 
-**The z-axis is not a cardinal direction.** It is the axis the compass spins on. The four instruments navigate horizontally; the Somatic Gyroscope establishes the vertical reference without which horizontal navigation is unmoored.
+**The z-axis is not a cardinal direction.** It is the axis the compass spins on. The four instruments navigate horizontally; the _**Somatic Gyroscope**_ establishes the vertical reference without which horizontal navigation is unmoored.
 
 #### Disorientation is the dance of learning
 
