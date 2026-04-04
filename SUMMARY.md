@@ -42,9 +42,11 @@
 * [Situating the Framework — The Larger Transformation](situating-the-framework-the-larger-transformation.md)
 * [TAI-KPI: Transformative Bridging](tai-kpi-transformative-bridging.md)
 
-## Theoretical Foundations
+## VIM Theoretical Foundations
 
-* [Consciousness, Learning, and the Limits of Machine Intelligence](theoretical-foundations/consciousness-learning-and-the-limits-of-machine-intelligence.md)
+* [Consciousness, Learning, and the Limits of Machine Intelligence](vim-theoretical-foundations/consciousness-learning-and-the-limits-of-machine-intelligence.md)
+* [The Measurement Problem: From Research Instrument to Learning Tool](vim-theoretical-foundations/the-measurement-problem-from-research-instrument-to-learning-tool.md)
+* [Wellbeing, Dignity, and the Culturally Situated Measurement Problem](vim-theoretical-foundations/wellbeing-dignity-and-the-culturally-situated-measurement-problem.md)
 
 ## VIM- Introduction
 
