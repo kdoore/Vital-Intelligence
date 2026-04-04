@@ -9,7 +9,9 @@
 
 * [Navigating the Information Cascade](<README (2).md>)
   * [Glossary of Terms](vim-bridging-spiral/navigating-the-information-cascade/glossary-of-terms.md)
+* [Dashboard Dials v6](vim-bridging-spiral/dashboard-dials-v6.md)
 * [Speculative Fiction as Epistemic Infrastructure](vim-bridging-spiral/speculative-fiction-as-epistemic-infrastructure.md)
+* [Deep Learning and Human Meaning](vim-bridging-spiral/deep-learning-and-human-meaning.md)
 * [Inception Games: Adversarial Epistemic Dynamics](vim-bridging-spiral/inception-games-adversarial-epistemic-dynamics.md)
 * [Process & Authorship Bridging Spiral](vim-bridging-spiral/process-and-authorship-bridging-spiral/README.md)
   * [Creative Artifacts: Images](vim-bridging-spiral/process-and-authorship-bridging-spiral/creative-artifacts-images.md)
@@ -19,8 +21,6 @@
   * [AI Research Systems](vim-bridging-spiral/creative-artifacts-interactive-code/ai-research-systems.md)
 * [Dashboard Dials](vim-bridging-spiral/dashboard-dials.md)
 * [Dashboard Dials v5](vim-bridging-spiral/dashboard-dials-v5.md)
-* [Dashboard Dials v6](vim-bridging-spiral/dashboard-dials-v6.md)
-* [Deep Learning and Human Meaning](vim-bridging-spiral/deep-learning-and-human-meaning.md)
 * [VIM: Transformative Bridging](vim-bridging-spiral/vim-transformative-bridging/README.md)
   * [Pedagogical philosophy](vim-bridging-spiral/vim-transformative-bridging/pedagogical-philosophy.md)
   * [Entry question](vim-bridging-spiral/vim-transformative-bridging/entry-question.md)

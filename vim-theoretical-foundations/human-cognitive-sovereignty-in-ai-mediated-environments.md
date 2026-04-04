@@ -4,7 +4,7 @@
 
 When AI moves from tool to environment — when it mediates not just specific tasks but the ongoing texture of attention, information, and relational life — something distinct becomes threatened. The threat is not primarily to productivity, accuracy, or efficiency. It is to the capacities that make a human being a genuine agent rather than a sophisticated output generator.
 
-The RINHUMAI Research Institute frames this precisely: what becomes fragile under sustained AI mediation is not performance but _developmental integrity_ — the ongoing capacity to build skill, hold complexity, sustain attention, exercise judgment, and remain accountable for one's choices. These are not soft skills alongside technical ones. They are the substrate on which all other capacities rest.
+The RINHUMAI Research Institute frames this precisely: what becomes fragile under sustained AI mediation is not performance but _**developmental integrity**_ — _**the ongoing capacity to build skill, hold complexity, sustain attention, exercise judgment, and remain accountable for one's choices**_. These are not soft skills alongside technical ones. They are the substrate on which all other capacities rest.
 
 _\[Tier 1 — the empirical literature on attention fragmentation, cognitive offloading, and skill atrophy under extended AI mediation is growing; systematic meta-analytic review is currently underway. For current state of evidence, see: Risko & Gilbert (2016), Cognitive offloading; Ward et al. (2017), phone presence and cognitive capacity; Carr, N. (2010), The Shallows.]_
 
