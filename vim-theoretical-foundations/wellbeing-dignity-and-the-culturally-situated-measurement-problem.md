@@ -102,7 +102,7 @@ _\[Tier 1 for documented algorithmic harm: Eubanks (2018), Automating Inequality
 
 #### Mirror: AI reflecting the room
 
-A sixth framing, not on the original list but structurally important: AI as mirror. A sufficiently sophisticated AI system trained on a community's data will reflect that community's patterns back to it — including patterns that were previously implicit or invisible. In a healthy environment, this is generative: communities can see their own strengths at scale. In a dignity-injured environment, it is dangerous: the mirror amplifies shame, deficit, and harm with no capacity to introduce the repair process that genuine relational contact can provide.
+A sufficiently sophisticated AI system trained on a community's data will reflect that community's patterns back to it — including patterns that were previously implicit or invisible. In a healthy environment, this is generative: communities can see their own strengths at scale. In a dignity-injured environment, it is dangerous: the mirror amplifies shame, deficit, and harm with no capacity to introduce the repair process that genuine relational contact can provide.
 
 The mirror framing is particularly relevant for AI literacy education: learners need to understand not only what AI shows them, but what AI shows them _about themselves_ — and whether that reflection is coming from a system trained to see them accurately or from one trained on frameworks that systematically misread their flourishing.
 
