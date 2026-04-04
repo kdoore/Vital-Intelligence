@@ -42,6 +42,10 @@
 * [Situating the Framework — The Larger Transformation](situating-the-framework-the-larger-transformation.md)
 * [TAI-KPI: Transformative Bridging](tai-kpi-transformative-bridging.md)
 
+## Theoretical Foundations
+
+* [Consciousness, Learning, and the Limits of Machine Intelligence](theoretical-foundations/consciousness-learning-and-the-limits-of-machine-intelligence.md)
+
 ## VIM- Introduction
 
 * [Vital Intelligence in a Generative AI Era](vim-introduction/readme.md)
