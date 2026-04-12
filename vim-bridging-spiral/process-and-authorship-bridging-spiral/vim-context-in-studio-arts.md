@@ -1,6 +1,6 @@
 # VIM Context in Studio Arts
 
-> _In nature, nothing exists alone._ — Rachel Carson
+> _<mark style="color:green;">**In nature, nothing exists alone. — Rachel Carson**</mark>_
 
 <figure><img src="../../.gitbook/assets/FDF28961-2DBA-4831-BF0A-7C9EFA2F7C2C_1_105_c.jpeg" alt=""><figcaption><p>G<em>ranite Marker, Spring Creek Nature Preserve, Richardson, Texas. Photograph by Karen Doore</em></p></figcaption></figure>
 
