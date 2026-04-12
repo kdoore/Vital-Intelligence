@@ -1,4 +1,8 @@
-# VIM Context in Studio Arts
+---
+description: 'VIM: Studio Arts SR3:  Context'
+---
+
+# Humanity as Hyperobject
 
 > _<mark style="color:green;">**In nature, nothing exists alone. — Rachel Carson**</mark>_
 

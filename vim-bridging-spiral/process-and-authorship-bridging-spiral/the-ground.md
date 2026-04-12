@@ -14,11 +14,13 @@ I learned, years ago, that nature is where the digital information flow releases
 
 I bring my phone. It contains AI — in the camera's optical processing, in the photo organization, in what the platform surfaces next when I open the app. AI is not somewhere else. It is in the device in my pocket, running continuously, mediating every encounter between my attention and the world.
 
-I use it to take photographs: buckeye butterflies, a parks worker measuring buckled sidewalks, feet on a path, the faces of strangers willing to pause their own solitude for a moment of encounter.
+I use it to take photographs: turtles, buckeye butterflies, a parks worker measuring buckled sidewalks, feet on a path, anonymous and careful captures of embodied forms of strangers willing to pause their own solitude for a moment of encounter.
 
 This is the ground we are standing on. Not a neutral surface. A living one. And a designed one.
 
 ***
+
+<figure><img src="../../.gitbook/assets/IMG_9808.jpeg" alt=""><figcaption><p>Turtles in Spring Creek Nature Preserve: Richardson Texas: Karen Doore</p></figcaption></figure>
 
 ### Systems that worked
 

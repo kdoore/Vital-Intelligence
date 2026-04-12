@@ -14,7 +14,7 @@
 * [Deep Learning and Human Meaning](vim-bridging-spiral/deep-learning-and-human-meaning.md)
 * [Inception Games: Adversarial Epistemic Dynamics](vim-bridging-spiral/inception-games-adversarial-epistemic-dynamics.md)
 * [Process & Authorship Bridging Spiral](vim-bridging-spiral/process-and-authorship-bridging-spiral/README.md)
-  * [VIM Context in Studio Arts](vim-bridging-spiral/process-and-authorship-bridging-spiral/vim-context-in-studio-arts.md)
+  * [Humanity as Hyperobject](vim-bridging-spiral/process-and-authorship-bridging-spiral/humanity-as-hyperobject.md)
   * [The Ground](vim-bridging-spiral/process-and-authorship-bridging-spiral/the-ground.md)
   * [The Designer's Oath](vim-bridging-spiral/process-and-authorship-bridging-spiral/the-designers-oath.md)
   * [Creative Artifacts: Images](vim-bridging-spiral/process-and-authorship-bridging-spiral/creative-artifacts-images.md)
