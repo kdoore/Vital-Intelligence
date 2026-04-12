@@ -20,33 +20,33 @@ This is the Hippocratic frame: _first, do no harm._ It is not a constraint on cr
 
 ### The medium is the environment
 
-I take photographs on my phone. The phone contains AI — in the camera optics processing, in the photo organization, in the content the platform surfaces next. AI is not somewhere else. It is in the device in your pocket, mediating every encounter between your attention and the world.
+I take photographs on my phone. The phone contains AI — in the camera optics processing, in the photo organization, in the content the platform surfaces next. _<mark style="color:$primary;">**AI is not somewhere else. It is in the device in your pocket, mediating every encounter between your attention and the world.**</mark>_
 
 This is not a reason to put the device down. It is a reason to understand what the device is doing, who designed it to do that, and in whose interest.
 
 The digital content environment was built with specific incentive structures: toward engagement, extraction, and profit. It surfaces content optimized for reaction, not reflection. For addiction, not understanding. When people encounter disturbing, confusing, or manipulative content, the culturally conditioned response is often shame — which suppresses the very conversation that could help.
 
-> **The antidote is administered through the same medium as the toxin.**
+> <mark style="color:$primary;">**The antidote is administered through the same medium as the toxin.**</mark>
 
 That is the opportunity. Not to reject the devices, but to use them — deliberately, with craft, with the designer's oath intact — to develop immunity to the harms they can also cause. To be a role model for love, kindness, and beauty in the places where humans are encountering harm.
 
-This is what artists are for. This is why the artist's instinct — to make something that opens rather than closes, that heals rather than extracts, that remembers the body rather than replacing it — is not a luxury in the current information environment. It is the most urgent form of public health work available.
+_<mark style="color:$primary;">**This is what artists are for**</mark>_. This is why the artist's instinct — to make something that opens rather than closes, that heals rather than extracts, that remembers the body rather than replacing it — is not a luxury in the current information environment. It is the most urgent form of public health work available.
 
 ***
 
 ### What the institution could not hear
 
-The following poem was generated using [FredTheHeretic (FTH)](https://chatgpt.com/g/g-XmhqgURbv-fredtheheretic-fth/), a generative poetry tool created by Paul Fishwick. It was generated from lived experience — raw material transformed through craft and tool into something that can be received without requiring the reader to carry the specific wound it came from.
+The following poem was generated using [FredTheHeretic (FTH)](https://chatgpt.com/g/g-XmhqgURbv-fredtheheretic-fth/), a generative poetry tool created by Paul Fishwick based on the poetry of Fred Turner. It was generated from lived experience — raw material transformed through craft and tool into something that can be received without requiring the reader to carry the specific wound it came from.
 
 ***
 
-_A campus lawn under sodium light, white boards ghosted with half-erased systems,_ _arrows of arrows pointing nowhere except back into themselves._
+_<mark style="color:$info;">**A campus lawn under sodium light, white boards ghosted with half-erased systems, arrows of arrows pointing nowhere except back into themselves.**</mark>_
 
 _I carried diagrams like weather: feedback loops, braided flows,_ _hands open with chalk dust,_ _trying to show how a forest thinks without a king._
 
 _But the rooms were built like factories—_ _fluorescent ribs, timed bells, power moving in straight lines,_ _questions stamped, graded, archived._
 
-_I spoke of holarchy: nodes that listen,_ _circuits that feel their own heat,_ _organisms that fail and mend without permission._
+_<mark style="color:blue;">**I spoke of holarchy: nodes that listen, circuits that feel their own heat, organisms that fail and mend without permission.**</mark>_
 
 _They answered with titles, with doors that close softly,_ _with meetings that smell like varnish and old decisions._
 
@@ -58,11 +58,11 @@ _I learned the texture of exclusion:_ _a hand not shaken, a credit misplaced,_ _
 
 _Still— something refused collapse._
 
-_Call it grandmother-memory, call it the body knowing seasons,_ _call it the long patience of cells repairing what they inherit._
+_Call it <mark style="color:$primary;">**grandmother-memory**</mark>, call it the body knowing seasons,_ _call it the long patience of cells repairing what they inherit._
 
 _In that knowing I saw the hyper-object of us:_ _a species thinking it is separate_ _while stitched into every field it burns._
 
-_The models we build become the rooms we live in._
+_<mark style="color:$primary;">**The models we build become the rooms we live in.**</mark>_
 
 _So I began again— not louder, not sharper, but differently arranged._
 
@@ -74,11 +74,11 @@ _I tell my students: the system is not the diagram._ _The diagram is a wound try
 
 _We are not pieces on a board whose king has left the game._ _We are the bending of the board itself,_ _the grain of wood remembering forest,_ _the knight stepping sideways out of inherited war._
 
-_Where is the love?_ _It is not in the tower._
+<mark style="color:red;">**Where is the love?**</mark> _It is not in the tower._
 
 _It is in the unnoticed transfer:_ _idea to idea, hand to hand, body to body—_ _an information flow that does not dominate, but joins._
 
-_And even here, in this same institution that could not hear me,_ _it begins again— quiet, uncredentialed,_ _irreversible._
+_<mark style="color:$primary;">**And even here, in this same institution that could not hear me, it begins again— quiet, uncredentialed, irreversible.**</mark>_
 
 ***
 
@@ -94,13 +94,14 @@ _And even here, in this same institution that could not hear me,_ _it begins aga
 
 The closing image — _the knight stepping sideways out of inherited war_ — is a precise description of what the framework asks of learners: not a frontal assault on broken systems, but a non-linear move. Out of the inherited game board, toward something that doesn't yet have a name on the board.
 
-That is what artists are for.
+The knight's move is about the _decisions_ — the sideways step off the path, the non-linear choice made in a single moment. It is quieter than animation. More angular. More uncertain.
+
+_<mark style="color:$primary;">**That is what artists are for.**</mark>_
+
+<figure><img src="../../.gitbook/assets/tranquil_axolotl_54302_overhead_documentary_photograph_one_pa_4650b9f1-0878-4dfc-800b-00b7c08c5293_1.png" alt=""><figcaption><p>The Knight's Move: Generated from description, seed 040126</p></figcaption></figure>
+
+**Midjourney Prompt:&#x20;**_**overhead documentary photograph, one pair of silver infused ballet shoes stepping sideways off a straight concrete path onto dappled ground, the original path continuing without them, living systems at the edge, the non-linear choice made visible in a single step, warm light**_
 
 ***
 
-| Claim                                                        | Tier   | Note                                               |
-| ------------------------------------------------------------ | ------ | -------------------------------------------------- |
-| Digital content environment optimized for extraction         | Tier 1 | Empirically documented                             |
-| Artists as public health workers in information environments | Tier 2 | Theoretically coherent; see VIM MPCM boundary      |
-| Poem as MDP arc demonstration                                | Tier 2 | Interpretive mapping; offered as illustration      |
-| "Grandmother-memory" as intergenerational embodied knowing   | Tier 3 | Resonant and real; specific traditions not claimed |
+<table><thead><tr><th>Claim</th><th width="213.8046875">Tier</th><th>Note</th></tr></thead><tbody><tr><td>Digital content environment optimized for extraction</td><td>Tier 1</td><td>Empirically documented</td></tr><tr><td>Artists as public health workers in information environments</td><td>Tier 2</td><td>Theoretically coherent; see VIM MPCM boundary</td></tr><tr><td>Poem as MDP arc demonstration</td><td>Tier 2</td><td>Interpretive mapping; offered as illustration</td></tr><tr><td>"Grandmother-memory" as intergenerational embodied knowing</td><td>Tier 3</td><td>Resonant and real; specific traditions not claimed</td></tr></tbody></table>
