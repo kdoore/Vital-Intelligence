@@ -26,7 +26,7 @@ NASA visualizes this field in real time. The image is worth encountering: thousa
 
 {% embed url="https://svs.gsfc.nasa.gov/5258/#media_group_373925" %}
 
-There is a story about this field that does not resolve neatly.
+_<mark style="color:red;">**There is a story about this field that does not resolve neatly.**</mark>_
 
 A satellite was on a trajectory that risked collision with another. A message was sent — the orbital equivalent of a note in a bottle, addressed across geopolitical enmity. There was no formal response. The trajectory changed.
 
