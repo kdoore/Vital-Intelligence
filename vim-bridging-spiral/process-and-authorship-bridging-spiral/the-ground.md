@@ -1,8 +1,8 @@
 ---
-description: SR3 · Spring 2026 Humanity++ | Karen Doore
+description: SR3 · Spring 2026 Humanity++
 ---
 
-# The GroundPage 1
+# The Ground
 
 ***
 
