@@ -195,6 +195,9 @@ _prompt: overhead documentary photograph, one pair of silver infused ballet shoe
 
 ***
 
+_**Note:** The perspective distortions visible in these images are not errors — they are the machine showing the edge of its training distribution._ \
+_The overhead documentary angle combined with shoes, pets, legs, dance motion...these concepts sit at the seam between corpora. <mark style="color:$primary;">**The gap is the teaching.**</mark>_
+
 ### The possibility space
 
 Every morning I read the world news. It is disturbing. The darkness is real and I do not pretend otherwise.

@@ -138,3 +138,12 @@ _Inspired by Leanne Doore's Trashion 2026 Garment.]_
 | Dark side of Moon as MPCM boundary / S2 double register          | Tier 2 | High — internal framework consistency                            |
 | Researcher positionality: Columbia, Mary Ann                     | Tier 4 | N/A — lived experience                                           |
 | Kindness as field condition operating at scale                   | Tier 2 | Theoretically coherent; empirically emerging                     |
+
+<div><figure><img src="https://cdn.midjourney.com/530c26ff-971e-4da1-bb9b-296073d7e687/0_3.png" alt=""><figcaption></figcaption></figure> <figure><img src="https://s.mj.run/oWreve_vZHU" alt=""><figcaption></figcaption></figure></div>
+
+prompt: _imagine humanity as a hyperobject connected by love and healing through children's artistic expressions_\
+image seeded by custom artwork on the right by Brittany and Evelyn Brooks.
+
+***
+
+{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

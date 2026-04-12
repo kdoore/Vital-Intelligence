@@ -20,7 +20,9 @@ This is the ground we are standing on. Not a neutral surface. A living one. And 
 
 ***
 
-<figure><img src="../../.gitbook/assets/IMG_9808.jpeg" alt=""><figcaption><p>Turtles in Spring Creek Nature Preserve: Richardson Texas: Karen Doore</p></figcaption></figure>
+### Imagining the Sounds of living systems: _AI for artistic expression_
+
+<figure><img src="https://cdn.midjourney.com/01bdde90-d01e-43b9-beac-8c8a2ba9ce93/0_3.png" alt=""><figcaption><p>prompt: The sounds of living systems wind, birds, water, turtles, the specific silence between sounds, image prompt: turtles on a log</p></figcaption></figure>
 
 ### Systems that worked
 
@@ -77,5 +79,16 @@ _The models we build become the rooms we live in._
 | Antidote through the medium                       | Tier 2 | Supported by constructionist learning design; diSessa (2000)      |
 | Love as most powerful force in the universe       | Tier 3 | The question that opened the inquiry                              |
 
-```
-```
+***
+
+### Imagine the Universe as a Living Organism
+
+<div><figure><img src="https://cdn.midjourney.com/a9b95094-9628-4a20-82da-dade49573931/0_3.png" alt=""><figcaption></figcaption></figure> <figure><img src="https://s.mj.run/BIzkCtabAZE" alt="" width="375"><figcaption></figcaption></figure></div>
+
+image prompt from Spring Creek Nature Preserve, Karen Doore
+
+_prompt: imagine the universe as a living organism_
+
+***
+
+{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

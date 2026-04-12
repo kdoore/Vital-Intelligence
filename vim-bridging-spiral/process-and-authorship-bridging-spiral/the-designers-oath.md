@@ -98,10 +98,21 @@ The knight's move is about the _decisions_ — the sideways step off the path, t
 
 _<mark style="color:$primary;">**That is what artists are for.**</mark>_
 
-<figure><img src="../../.gitbook/assets/tranquil_axolotl_54302_overhead_documentary_photograph_one_pa_4650b9f1-0878-4dfc-800b-00b7c08c5293_1.png" alt=""><figcaption><p>The Knight's Move: Generated from description, seed 040126</p></figcaption></figure>
+<figure><img src="https://cdn.midjourney.com/adc2b079-0fc5-4a52-9cc4-0fb91314d2af/0_1.png" alt=""><figcaption></figcaption></figure>
 
-**Midjourney Prompt:&#x20;**_**overhead documentary photograph, one pair of silver infused ballet shoes stepping sideways off a straight concrete path onto dappled ground, the original path continuing without them, living systems at the edge, the non-linear choice made visible in a single step, warm light**_
+_Midjourney Prompt: imagine kindness and healing as embodied organisms emerging from chaos._\
+_Custom art image prompt seed, see below_
 
 ***
 
 <table><thead><tr><th>Claim</th><th width="213.8046875">Tier</th><th>Note</th></tr></thead><tbody><tr><td>Digital content environment optimized for extraction</td><td>Tier 1</td><td>Empirically documented</td></tr><tr><td>Artists as public health workers in information environments</td><td>Tier 2</td><td>Theoretically coherent; see VIM MPCM boundary</td></tr><tr><td>Poem as MDP arc demonstration</td><td>Tier 2</td><td>Interpretive mapping; offered as illustration</td></tr><tr><td>"Grandmother-memory" as intergenerational embodied knowing</td><td>Tier 3</td><td>Resonant and real; specific traditions not claimed</td></tr></tbody></table>
+
+<div><figure><img src="https://cdn.midjourney.com/adc2b079-0fc5-4a52-9cc4-0fb91314d2af/0_3.png" alt=""><figcaption></figcaption></figure> <figure><img src="https://s.mj.run/vGBiQqYQC5c" alt="" width="188"><figcaption></figcaption></figure></div>
+
+_prompt: imagine kindness and healing as embodied organisms emerging from chaos_
+
+_image prompt: custom artwork - kdoore_
+
+***
+
+{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}
