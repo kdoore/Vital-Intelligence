@@ -16,6 +16,7 @@
 * [Process & Authorship Bridging Spiral](vim-bridging-spiral/process-and-authorship-bridging-spiral/README.md)
   * [VIM Context in Studio Arts](vim-bridging-spiral/process-and-authorship-bridging-spiral/vim-context-in-studio-arts.md)
   * [The Ground](vim-bridging-spiral/process-and-authorship-bridging-spiral/the-ground.md)
+  * [The Designer's Oath](vim-bridging-spiral/process-and-authorship-bridging-spiral/the-designers-oath.md)
   * [Creative Artifacts: Images](vim-bridging-spiral/process-and-authorship-bridging-spiral/creative-artifacts-images.md)
   * [Modeling Holarchic Transformations](vim-bridging-spiral/process-and-authorship-bridging-spiral/modeling-holarchic-transformations.md)
   * [DIKW Toroidal Energy Dynamics](vim-bridging-spiral/process-and-authorship-bridging-spiral/dikw-toroidal-energy-dynamics.md)
