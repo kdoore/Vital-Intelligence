@@ -105,6 +105,96 @@ The gap between what the machine describes and what was present in the encounter
 
 ***
 
+### The MDP states through living encounter
+
+The following images were generated from the feet photography methodology — asking the machine to produce what the embodied encounter already showed.
+
+Each prompt was written from lived encounter, not from theory. The gap between what the machine generated and what was present in the park is part of the teaching.
+
+***
+
+#### S0 — Frozen Order
+
+_Rigid attractor capture. No new signal enters._
+
+<div><figure><img src="https://cdn.midjourney.com/aec436c5-4baf-4d17-9476-587e81e94a1e/0_3.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="https://cdn.midjourney.com/aec436c5-4baf-4d17-9476-587e81e94a1e/0_1.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+prompt: _overhead documentary photograph, single pair of worn shoes perfectly still on cracked institutional concrete, long geometric shadow, no other living presence, cold flat light, the path extends but nothing moves, hyperrealistic_
+
+***
+
+#### S1 — Productive Chaos
+
+_Disequilibration. The old frame is breaking._
+
+<div><figure><img src="https://cdn.midjourney.com/6c9f1757-cdb5-4990-9d77-5812b5b4835f/0_3.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="https://cdn.midjourney.com/6c9f1757-cdb5-4990-9d77-5812b5b4835f/0_1.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+_Prompt: overhead documentary photograph, four pairs of feet mid-stride converging on a nature preserve path from different directions, soft motion blur, dappled afternoon light fragmenting across concrete, dogs on leashes visible at edges, the moment before a circle forms, warm chaotic energy_
+
+***
+
+#### S2 — Vacant Place
+
+_Neither old frame nor new. Maximum uncertainty._
+
+_\[Insert MJ image]_
+
+<div><figure><img src="https://cdn.midjourney.com/c41c0b04-23ca-4ed6-9b3f-fcde6aa50ecc/0_3.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="https://cdn.midjourney.com/c41c0b04-23ca-4ed6-9b3f-fcde6aa50ecc/0_1.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+_prompt: overhead documentary photograph, single pair of shoes stopped at the edge of a weathered wooden boardwalk, one step from the next surface, hesitation made visible in posture, soft dappled light, the path ahead unclear, neither forward nor back, contemplative stillness_
+
+***
+
+#### S3 — Holarchic Flow
+
+_Values-aligned movement. The prosocial attractor active._
+
+<div><figure><img src="https://cdn.midjourney.com/251c1639-3ce2-4078-8306-945ece1a2332/0_3.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="https://cdn.midjourney.com/251c1639-3ce2-4078-8306-945ece1a2332/0_0.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+_prompt: overhead documentary photograph, six pairs of feet in a loose organic circle on sunlit concrete, each pair different shoes different direction yet held together, children's feet and adult feet, living systems in spontaneous commons, warm afternoon light, belonging without uniformity_
+
+***
+
+#### S4 — Rigid Hierarchy
+
+_Control-flow dominance. Aperture collapsed by design._
+
+<div><figure><img src="https://cdn.midjourney.com/f3f6344a-733f-49ca-ac68-c82b52415089/0_2.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="https://cdn.midjourney.com/f3f6344a-733f-49ca-ac68-c82b52415089/0_0.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+_prompt: overhead documentary photograph, feet arranged in a single straight institutional line on polished floor, identical shoes, no deviation permitted, fluorescent light casting hard shadows, the grid visible in the floor geometry, compliance as architecture_
+
+***
+
+#### S5 — Extractive Drift
+
+_Energy moving, direction set by external attractor._
+
+<div><figure><img src="https://cdn.midjourney.com/a25acaa2-37e0-4cd4-89fb-1e71fd3bf852/0_1.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="https://cdn.midjourney.com/a25acaa2-37e0-4cd4-89fb-1e71fd3bf852/0_3.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+_prompt: overhead documentary photograph, feet on a path surrounded by living systems trees, grass, birds visible but the shoes are oriented toward a glowing screen reflection on the concrete, the park unreached, blue light on the ground, the drift made visible_
+
+***
+
+#### The transition — where agency lives
+
+_The edge between states. The decision to change._
+
+<div><figure><img src="https://cdn.midjourney.com/b62947f8-61e7-4763-ae6d-491852705171/0_2.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="https://cdn.midjourney.com/b62947f8-61e7-4763-ae6d-491852705171/0_0.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+_prompt: overhead documentary photograph, two pairs of feet mid-turn toward each other on a nature preserve path, one pair in motion, the pivot point visible in posture, warm afternoon light, the moment the state changes, documentary realism_
+
+***
+
+#### The knight's move
+
+_Non-linear agency. Embodied, unrepeatable._
+
+<div><figure><img src="https://cdn.midjourney.com/a5b15f71-9c6a-46a5-90c7-985265ed811b/0_3.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="https://cdn.midjourney.com/a5b15f71-9c6a-46a5-90c7-985265ed811b/0_1.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+_prompt: overhead documentary photograph, one pair of silver infused ballet shoes dancing sideways off a straight concrete path onto dappled ground, the original path continuing without them, living systems at the edge, the non-linear choice made visible in a single step, warm light_
+
+***
+
 ### The possibility space
 
 Every morning I read the world news. It is disturbing. The darkness is real and I do not pretend otherwise.
