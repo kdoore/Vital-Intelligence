@@ -144,8 +144,4 @@ The instrument panel is not the flight. It is what keeps the craft oriented so t
 
 ***
 
-_Previous: The Habitat_ _Return to: The Ground_
-
-***
-
 _Full instrument specification: Dashboard Dials v6.1_ _TKGPT system prompt: v0.3_ _Humanity++ | CC BY-SA 4.0_ _Repository: https://kdoore.github.io/HumanityPlusPlus_ _GitBook: https://kdoore.gitbook.io/vital-intelligence_ _Draft: April 2026 — SR3 Section_
