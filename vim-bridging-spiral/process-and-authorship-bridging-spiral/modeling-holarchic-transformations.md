@@ -13,7 +13,7 @@ The optimal policy π\* — kindness field maintained, Ostrom values vector acti
 **Three failure transitions exist:** closure reflex returns to S4 reversion; values vector capture converts S3 back to S0; no kindness field at the crack sends the system into S5 traumatic chaos. \
 **The S3 maintenance loop is the repair cycle** — the only attractor that sustains itself without external forcing.
 
-### Poetical Alchemy of Transformative Kindness Values Vector  **Frozen**
+### Poetical Alchemy of Transformative Kindness Values Vector  S0: **Frozen**
 
 Every spin aligned. \
 The field hums with a single frequency — coherence mistaken for health, stillness mistaken for peace. \
@@ -33,7 +33,7 @@ The lattice does not know what it is becoming.
 
 ***
 
-#### **Vacant place**
+#### **S2: Vacant place**
 
 Neither the old symmetry nor the new.\
 The network holds the space between what it was and what it does not yet know how to be.\
