@@ -106,6 +106,12 @@ _prompt: an enormous hand-constructed rainbow cape-train in motion, thousands of
 
 ***
 
+_Image credit: Professional photography, HKS Trashion 2026. Shared with permission of the artist._ \
+\
+_See Also:  HKS Trashion 2025 installation:_ [_https://my.matterport.com/show/?m=UJGtGxJzRN1_](https://my.matterport.com/show/?m=UJGtGxJzRN1https://my.matterport.com/show/?m=UJGtGxJzRN1)
+
+***
+
 ### What this took
 
 She created material backdrops for the Galleria installation by hand. She coordinated documentation across a global firm. She repaired structures in emergencies. She managed the participatory ethos of an event that involves colleagues across international offices who are architects, not fashion designers, making wearable art from trash — and making it well, because she created the conditions in which that was possible.
@@ -173,10 +179,6 @@ Metabolizing harm. Releasing beauty. It takes energy. It is healing. It is a gif
 <table><thead><tr><th>Claim</th><th width="168.7578125">Tier</th><th>Note</th></tr></thead><tbody><tr><td>Feet as undervalued agency symbol</td><td>Tier 3</td><td>Interpretive; offered as generative reframe</td></tr><tr><td>Garment as holarchic structure</td><td>Tier 2</td><td>Consistent with holarchy theory; applied to material object</td></tr><tr><td>Garment as Markov blanket demonstration</td><td>Tier 2</td><td>Consistent with Friston active inference; applied to creative expression</td></tr><tr><td>Shadow metabolization as distinct from projection</td><td>Tier 2</td><td>Consistent with somatic and trauma psychology frameworks</td></tr><tr><td>Human expression carries weight AI cannot encode</td><td>Tier 1–2</td><td>Symbol grounding problem; Tier 1 structural claim, Tier 2 specific application</td></tr><tr><td>Transmission through cultivated environment</td><td>Tier 2</td><td>Situated learning theory (Lave &#x26; Wenger); embodied cognition literature</td></tr><tr><td>Generational healing through creative practice</td><td>Tier 2–3</td><td>Trauma-informed practice literature supports the general claim; specific application Tier 3</td></tr></tbody></table>
 
 ***
-
-_Next: The Instrument — TKGPT v0.3_ _Previous: Humanity as Hyperobject_
-
-_Image credit: Professional photography, HKS Trashion 2025. Shared with permission of the artist._ _HKS Trashion 2025 installation: https://my.matterport.com/show/?m=UJGtGxJzRN1_
 
 ***
 
