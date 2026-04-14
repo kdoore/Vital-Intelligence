@@ -21,6 +21,7 @@
   * [Traces](vim-bridging-spiral/studio-arts-context-for-mpcm/traces.md)
   * [The Habitat](vim-bridging-spiral/studio-arts-context-for-mpcm/the-habitat.md)
   * [The Instruments](vim-bridging-spiral/studio-arts-context-for-mpcm/the-instruments.md)
+  * [Hide and Seek](vim-bridging-spiral/studio-arts-context-for-mpcm/hide-and-seek.md)
   * [Modeling Holarchic Transformations](vim-bridging-spiral/studio-arts-context-for-mpcm/modeling-holarchic-transformations.md)
   * [Living Systems in Motion: Two Simulations](vim-bridging-spiral/studio-arts-context-for-mpcm/living-systems-in-motion-two-simulations.md)
   * [TKGPT System Prompt - v0.3](vim-bridging-spiral/studio-arts-context-for-mpcm/tkgpt-system-prompt-v0.3.md)
