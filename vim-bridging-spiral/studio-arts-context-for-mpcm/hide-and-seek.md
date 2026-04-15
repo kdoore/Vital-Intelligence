@@ -90,8 +90,8 @@ The answer is not known in advance. That is not a problem to be solved. That is 
 
 ***
 
-_Humanity++ | Karen Doore_ _Richardson, Texas | April 2026_ _GitBook:_ [_kdoore.gitbook.io/vital-intelligence_](https://kdoore.gitbook.io/vital-intelligence) _License: CC BY-SA 4.0_
+**Epistemic tier key:** Tier 1 — empirically grounded · Tier 2 — theoretically coherent · Tier 3 — speculative/generative · Tier 4 — researcher positionality
 
 ***
 
-**Epistemic tier key:** Tier 1 — empirically grounded · Tier 2 — theoretically coherent · Tier 3 — speculative/generative · Tier 4 — researcher positionality
+{% include "../../.gitbook/includes/c-2025-humanity++-this-work....md" %}

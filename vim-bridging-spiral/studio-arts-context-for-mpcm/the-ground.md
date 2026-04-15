@@ -70,14 +70,7 @@ _The models we build become the rooms we live in._
 
 ***
 
-| Claim                                             | Tier   | Note                                                              |
-| ------------------------------------------------- | ------ | ----------------------------------------------------------------- |
-| AI platforms optimized for engagement/extraction  | Tier 1 | Documented in platform design literature                          |
-| Harm is structural, not intentional               | Tier 1 | Consistent with attractor dynamics literature                     |
-| MDP state map as navigational tool                | Tier 2 | Grounded in complexity science and MDP formalism                  |
-| Invisible care labor as stabilizing counter-force | Tier 2 | Supported by feminist economics and commons governance literature |
-| Antidote through the medium                       | Tier 2 | Supported by constructionist learning design; diSessa (2000)      |
-| Love as most powerful force in the universe       | Tier 3 | The question that opened the inquiry                              |
+<table><thead><tr><th>Claim</th><th width="137.50390625">Tier</th><th>Note</th></tr></thead><tbody><tr><td>AI platforms optimized for engagement/extraction</td><td>Tier 1</td><td>Documented in platform design literature</td></tr><tr><td>Harm is structural, not intentional</td><td>Tier 1</td><td>Consistent with attractor dynamics literature</td></tr><tr><td>MDP state map as navigational tool</td><td>Tier 2</td><td>Grounded in complexity science and MDP formalism</td></tr><tr><td>Invisible care labor as stabilizing counter-force</td><td>Tier 2</td><td>Supported by feminist economics and commons governance literature</td></tr><tr><td>Antidote through the medium</td><td>Tier 2</td><td>Supported by constructionist learning design; diSessa (2000)</td></tr><tr><td>Love as most powerful force in the universe</td><td>Tier 3</td><td>The question that opened the inquiry</td></tr></tbody></table>
 
 ***
 

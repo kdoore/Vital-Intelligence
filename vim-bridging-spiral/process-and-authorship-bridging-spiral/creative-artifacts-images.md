@@ -1,5 +1,6 @@
 ---
 description: 'Studio Review: Artistic Authorship through Process with Generative AI'
+hidden: true
 ---
 
 # Creative Artifacts: Images

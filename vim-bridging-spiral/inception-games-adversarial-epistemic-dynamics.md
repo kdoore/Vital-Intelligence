@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Inception Games: Adversarial Epistemic Dynamics
 
 > _"If a dreaming sentient is not consciously aware that they are situated in a lower level (embedded dream) reality, they can be influenced or coerced into divulging sensitive information by more conscious sentients — something that would not have been probable if all sentients were situated in the same levels of reality."_ — A. Sepúlveda-Jiménez, _Inception Games: Epistemic Recursive Adversarial Games_ (2024)

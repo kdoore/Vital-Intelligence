@@ -238,13 +238,14 @@ _The one question that orients all six states:_\
 
 ***
 
-_Full instrument specification: Dashboard Dials v6.1_\
-&#xNAN;_&#x4D;DP State Reference (photo categorization guide): \[link]_\
-&#xNAN;_&#x56;IM Consciousness Field Simulator:_ [_interactive simulation_](https://claude.ai/public/artifacts/0499102b-6fbf-4e6b-9c9f-e64e15e38e1c)
+_Full instrument specification:_ [_Dashboard Dials v6.1_](../dashboard-dials-v6.md)\
+\
+&#xNAN;_&#x56;IM Consciousness Field Simulator:_ [_interactive simulation V3_](https://kdoore.github.io/HumanityPlusPlus/vim_bioluminescent_v3.html)
 
 ***
 
 _Image series generated with Midjourney seed 040126. Prompts are part of the open framework documentation._\
 &#xNAN;_&#x48;umanity++ | CC BY-SA 4.0_\
-\*Repository: [https://kdoore.github.io/HumanityPlusPlus\*\\](https://kdoore.github.io/HumanityPlusPlus*/) \*GitBook: [https://kdoore.gitbook.io/vital-intelligence\*\\](https://kdoore.gitbook.io/vital-intelligence*/) _Draft: April 2026 — SR3 Section_
+\*Repository: [https://kdoore.github.io/HumanityPlusPlus\*\\](https://kdoore.github.io/HumanityPlusPlus*/) \
+\*GitBook: [https://kdoore.gitbook.io/vital-intelligence\*\\](https://kdoore.gitbook.io/vital-intelligence*/)&#x20;
 
