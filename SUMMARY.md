@@ -19,7 +19,7 @@
   * [Other Voices, Other Minds](vim-bridging-spiral/studio-arts-context-for-mpcm/other-voices-other-minds.md)
   * [Modeling Holarchic Transformations](vim-bridging-spiral/studio-arts-context-for-mpcm/modeling-holarchic-transformations.md)
   * [The Instruments](vim-bridging-spiral/studio-arts-context-for-mpcm/the-instruments.md)
-  * [Living Systems in Motion: Two Simulations](vim-bridging-spiral/studio-arts-context-for-mpcm/living-systems-in-motion-two-simulations.md)
+  * [Living Systems in Motion](vim-bridging-spiral/studio-arts-context-for-mpcm/living-systems-in-motion.md)
   * [The Designer's Oath](vim-bridging-spiral/studio-arts-context-for-mpcm/the-designers-oath.md)
   * [The Garment](vim-bridging-spiral/studio-arts-context-for-mpcm/the-garment.md)
   * [Traces](vim-bridging-spiral/studio-arts-context-for-mpcm/traces.md)
