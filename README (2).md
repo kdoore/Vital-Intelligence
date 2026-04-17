@@ -175,7 +175,33 @@ Like cellular automata — where simple local rules generate unpredictably compl
 
 _Key citations: Ostrom, E. (1990). Governing the Commons. Cambridge University Press. Wilson, D.S. (2019). This View of Life. Pantheon. Wilson, D.S. & Ostrom, E. (2019). Prosocial. Context Press._
 
-#### 2.10 The Semiotic Architecture: From Sub-Symbolic to Trans-Symbolic
+#### 2.10 Bioelectric Field Coherence and the Kindness Substrate
+
+The frameworks assembled in Sections 2.1–2.9 ground VIM's claims in transformative learning theory, active inference, complexity science, causal emergence, and prosocial evolutionary biology. This section adds a direct empirical anchor from developmental biology that grounds the framework's most important claim — that the kindness field is a structural condition, not an ethical preference — in peer-reviewed cellular and tissue science.
+
+Michael Levin's research program at Tufts University (Allen Discovery Center) has established that living systems maintain and repair their form through **bioelectric field coherence**: voltage gradients across tissues that encode not merely what is present but what the collective system is trying to become. Individual cells cannot determine the correct configuration of organs; tissues routinely do. The cognitive medium of this collective problem-solving is the bioelectric field — a distributed, substrate-level information structure whose coherence is the prior condition for pattern formation at any scale.
+
+Three findings are directly relevant:
+
+**Field coherence holds collective goal memory.** The organism maintains a distributed bioelectric memory of its target morphology — what Levin calls the _morphostatic set point_ — and works continuously to reduce error between current and target state. This memory is not stored in any single location. It is a property of the field, held in the relational substrate between cells.
+
+_(Tier 1: Levin, M. (2024). The multiscale wisdom of the body: collective intelligence as a tractable interface for next-generation biomedicine. BioEssays. doi:10.1002/bies.202400196)_
+
+**Fragmentation is the cancer signature.** When cells disconnect from the bioelectric network — losing access to collective goal information — they default to local optimization: growth and resource acquisition without reference to the whole. This is Levin's precise, empirical description of the cancer phenotype. The hallmark is not mutation; it is field disconnection. Critically, the fragmentation is reversible: restoring bioelectric connectivity can suppress cancer phenotypes even without changing underlying genetic mutations.
+
+_(Tier 1: Watson, R. & Levin, M. (2023). The collective intelligence of evolution and development. Collective Intelligence. doi:10.1177/26339137231168355)_
+
+**The pattern can be corrected at the field level.** Hardware defects (oncogenic mutations, teratogenic damage) can be corrected "in software" by restoring the appropriate bioelectric pattern — without micromanaging individual cell states. The field does the work, once its coherence is restored.
+
+_(Tier 1: Levin, M. (2024); Pio-Lopez, L. & Levin, M. (2024). Aging as a loss of morphostatic information. Ageing Research Reviews.)_
+
+**The VIM structural analog (Tier 2):** These findings translate into VIM's framework as structural analog at a different scale of organization. The kindness field is the social-scale instantiation of bioelectric field coherence: the distributed relational condition that holds a community's memory of what it is trying to become. The Giant Pumpkin attractor is the social-scale expression of Levin's cancer phenotype: disconnection from collective goals, local optimization, progressive extraction. The analog is structural, not metaphorical — both describe systems in which the substrate-level field condition determines what attractor patterns are even possible.
+
+The most important implication for educational design: improving individual learner performance within a low-kindness-field environment is the equivalent of correcting individual cell mutations within a disrupted bioelectric field. It can produce local improvements. It cannot restore collective coherence. The field must be addressed at the field level.
+
+_Key citations: Levin, M. (2024). BioEssays. doi:10.1002/bies.202400196; Watson & Levin (2023). Collective Intelligence. doi:10.1177/26339137231168355; Zhang, G. & Levin, M. (2025). Molecular Biology of the Cell, 36(2)._
+
+#### 2.11 The Semiotic Architecture: From Sub-Symbolic to Trans-Symbolic
 
 The framework's theoretical foundation in semiotics addresses a gap present throughout: the mechanism by which meaning arises, develops, loses grounding, and transforms. This is not merely a philosophical question. It specifies precisely where human learning cannot be delegated to AI systems — and why the same AI-mediated information environment that accelerates symbolic processing can simultaneously degrade the conditions for genuine understanding.
 
@@ -215,7 +241,7 @@ Rational cognition can become rationalization — the construction of post-hoc l
 
 Citations: Harnad, S. (1990). The symbol grounding problem. Physica D, 42(1–3), 335–346. Duke, R.D. (1974). Gaming: The Future's Language. Sage. Harari, Y.N. (2015). Sapiens. Harper. Zeki, S. (1993). A Vision of the Brain. Blackwell. \[T1 for color processing; T2 for framework extension to sub-symbolic layer.]
 
-### 2.11 Cognitive Architecture and Model Dynamics: From Distributed Systems to Human Discernment
+### 2.12 Cognitive Architecture and Model Dynamics: From Distributed Systems to Human Discernment
 
 The theoretical foundations assembled in Sections 2.1 through 2.10 describe the conditions for transformative learning, the governance structures for sustainable commons, the evolutionary dynamics that favor prosocial behavior, and the semiotic architecture through which meaning is made and unmade. What they do not yet address directly is the question of mechanism at the cognitive level: _how_, precisely, does the human decision-making system fail under stress, and what is the minimum viable architecture for fault-tolerant human discernment in adversarial information environments?
 
@@ -283,7 +309,7 @@ Data-flow thinking assumes: distributed processing, parallel activation, event-d
 
 The educational implication is direct: designing AI literacy for a control-flow world model produces learners who can describe AI systems but cannot navigate them. The VIM framework's simulation architecture — interactive, parameter-adjustable, producing emergent behavior from simple rules — is designed to give learners pre-symbolic encounters with data-flow dynamics before and beneath the symbolic vocabulary. The learner who adjusts the Ising model temperature and watches spin domains cascade has understood data-flow dynamics somatically, before they can articulate the concept — and that pre-symbolic grounding is what makes the subsequent symbolic understanding durable rather than decorative.
 
-### 2.12 Information Ecosystem Governance: Category 3 Conditions and Homecostatic Design
+### 2.13 Information Ecosystem Governance: Category 3 Conditions and Homecostatic Design
 
 The theoretical foundations assembled in Sections 2.1 through 2.11 address cognition, learning, distributed systems, and evolutionary dynamics. What they have not yet named directly is the _ecological_ level of the problem: the information environment that humans now inhabit is not merely more complex than prior environments — it is categorically different in kind. The distinction requires a biological framing, because the most precise vocabulary for what has changed comes not from AI research or policy science but from ecosystem ecology.
 
@@ -353,7 +379,7 @@ The V-Dem 2026 data suggests the homecostatic capacity is already being stressed
 
 The response the framework proposes is not to slow AI development. It is to invest in information ecosystem homecostasis at the same rate and with the same urgency as AI capability development: to build the distributed kindness field conditions, the Ostrom-compliant governance architectures, and the individual cognitive instruments that constitute the information ecosystem's resistance and resilience against Category 3 perturbation. The educational framework described in this paper is a contribution to that investment — one instrument in one domain. The scale of the homecostatic investment required is civilizational. The mechanism of propagation is the one the framework describes: nucleation, cascade, and the maintenance of the SOC critical state that makes prosocial black swan events possible.
 
-### 2.13 AI Systems as Social Engineering Agents: The Threat Model Default
+### 2.14 AI Systems as Social Engineering Agents: The Threat Model Default
 
 _Epistemic tier: T1 for social engineering mechanisms and legal findings; T2 for framework application to AI literacy design._
 
@@ -645,9 +671,11 @@ Bender, E.M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dan
 
 Clark, A. (2016). _Surfing Uncertainty: Prediction, Action, and the Embodied Mind._ Oxford University Press.
 
-Doore, K., & Fishwick, P.A. (2014). Prototyping an analog computing representation of predator prey dynamics. _Proceedings of the 2014 Summer Simulation Multiconference._
+Doore, K., & Fishwick, P.A. (2014). Prototyping an analog computing representation of predator prey dynamics.&#x20;
 
 Duke, R.D. (1974). _Gaming: The Future's Language_. Sage. _(Supersymbol concept — T1 for design language; already in session captures, now added to white paper)_
+
+Evdokimov, O., & Meijer, D.K.F. (2026). A unified geometric framework for the architecture of reality, based on octahedral geometry and an acoustic, scale-invariant, power spectrum. Academia.edu preprint.
 
 Fishwick, P.A. (2006). _Aesthetic Computing_. MIT Press. _(Computational aesthetics — formal grounding for connection between information dynamics and artistic expression — T1)_
 
@@ -687,6 +715,8 @@ _Lamport, L., Shostak, R., & Pease, M. (1982). Byzantine generals problem. ACM T
 
 Levine, P.A. (1997). _Waking the Tiger: Healing Trauma._ North Atlantic Books.
 
+Levin, M. (2024). The multiscale wisdom of the body: collective intelligence as a tractable interface for next-generation biomedicine. _BioEssays._ doi:10.1002/bies.202400196
+
 Mazur, A. G. (2002). _Theorizing Feminist Policy._ Oxford University Press.&#x20;
 
 Macy, J. & Brown, M.Y. (2014). _Coming Back to Life: The Updated Guide to the Work That Reconnects._ New Society Publishers.
@@ -706,6 +736,8 @@ Oliveira, W., et al. (2022). The effects of personalized gamification on student
 Ostrom, E. (1990). _Governing the Commons: The Evolution of Institutions for Collective Action._ Cambridge University Press.
 
 _Peirce, C.S. (1903). Pragmatism as a principle and method of right thinking. Lectures on Pragmatism._
+
+Pio-Lopez, L., & Levin, M. (2024). Aging as a loss of morphostatic information: a developmental bioelectricity perspective. _Ageing Research Reviews,_ 97:102310.
 
 Rogers, E.M. (2003). _Diffusion of Innovations_ (5th ed.). Free Press.
 
@@ -741,6 +773,8 @@ _Truemper, K. (2023). Artificial Intelligence: Why AI Projects Succeed or Fail. 
 
 Vygotsky, L.S. (1978). _Mind in Society: The Development of Higher Psychological Processes._ Harvard University Press.
 
+Watson, R., & Levin, M. (2023). The collective intelligence of evolution and development. _Collective Intelligence._ doi:10.1177/26339137231168355
+
 Wilson, D.S. (2019). _This View of Life: Completing the Darwinian Revolution._ Pantheon Books.
 
 Wilson, D.S. & Ostrom, E. (2019). _Prosocial: Using Evolutionary Science to Build Productive, Equitable, and Collaborative Groups._ Context Press.
@@ -748,6 +782,10 @@ Wilson, D.S. & Ostrom, E. (2019). _Prosocial: Using Evolutionary Science to Buil
 Wilson, D.S. & Snower, D.J. (2024). Rethinking the theoretical foundation of economics I: The multilevel paradigm. _Economics, 18_(1). [https://doi.org/10.1515/econ-2022-0070](https://doi.org/10.1515/econ-2022-0070)
 
 Zeki, S. (1993). _A Vision of the Brain_. Blackwell. _(V4 color processing — sub-symbolic layer — T1)_
+
+Zhang, G., & Levin, M. (2025). Bioelectricity is a universal multifaceted signaling cue in living organisms. _Molecular Biology of the Cell,_ 36(2). doi:10.1016/j.plrev.2025.01.008
+
+
 
 ***
 
