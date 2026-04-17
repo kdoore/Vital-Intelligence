@@ -28,9 +28,7 @@ The silver shoes in these photographs are inspired by the same shoes visible in 
 
 Every year, HKS — a major international architecture firm — invites its staff across all global offices to make fashion from trash.
 
-Not buildings. Fashion. From recycled materials, reclaimed banners, discarded packaging, the material byproduct of institutional life repurposed into wearable art. The resulting works are exhibited publicly at the Galleria in Dallas, documented in video and 3D virtual installation, and submitted to communication design communities for professional recognition.
-
-This is the 8th year of the event. It may be the last.
+Not buildings. Fashion. From recycled materials, reclaimed banners, discarded packaging, the material byproduct of institutional life repurposed into wearable art. The resulting works are exhibited publicly at the Galleria in Dallas, documented in video and 3D virtual installation, and submitted to communication design communities for professional recognition. This is the 8th year of the event.&#x20;
 
 Leanne is HKS's communication design art director, internal-facing — the person whose labor creates the connective tissue of a global firm, the events and communications that build shared culture across offices that build stadiums and hospitals and airports. She has been instrumental in creating Trashion for many years: designing many aspects of the event, cultivating the participatory ethos, building the material backdrops for the installation, coordinating the documentation, and making her own garment as both participant and steward.
 
