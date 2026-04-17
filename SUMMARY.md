@@ -57,6 +57,7 @@
 ## VIM Theoretical Foundations
 
 * [Consciousness, Learning, and the Limits of Machine Intelligence](vim-theoretical-foundations/consciousness-learning-and-the-limits-of-machine-intelligence.md)
+* [Fields, Geometry, and the Kindness Substrate](vim-theoretical-foundations/fields-geometry-and-the-kindness-substrate.md)
 * [Human Cognitive Sovereignty in AI-Mediated Environments](vim-theoretical-foundations/human-cognitive-sovereignty-in-ai-mediated-environments.md)
 * [The Measurement Problem: From Research Instrument to Learning Tool](vim-theoretical-foundations/the-measurement-problem-from-research-instrument-to-learning-tool.md)
 * [Wellbeing, Dignity, and the Culturally Situated Measurement Problem](vim-theoretical-foundations/wellbeing-dignity-and-the-culturally-situated-measurement-problem.md)
