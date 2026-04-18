@@ -104,15 +104,13 @@ _Citation: Posetti, J., Hellmueller, L., Williams, K., Renaud, P., Aboulez, N. a
 
 ### Part 3 — The tool: VIM TKGPT Inquiry Scaffold
 
-The **VIM TKGPT Inquiry Scaffold** is a standalone HTML tool that generates structured inquiry prompts from VIM's four-layer ontological taxonomy. It is not a GPT. It does not use an API. It does not have memory or personalisation features built into the tool itself.
+The [**VIM TKGPT Inquiry Scaffold**](https://kdoore.github.io/HumanityPlusPlus/vim_tkgpt_prompt_generator.html) is a standalone HTML tool that generates structured inquiry prompts from VIM's four-layer ontological taxonomy to support _<mark style="color:$primary;">**Transformative Kindness**</mark>_**.** It is not a GPT. It does not use an API. It does not have memory or personalisation features built into the tool itself.
 
 What it does: click any node in the taxonomy diagram → see a definition with key-value metadata → edit your context (role and situation) → a five-part structured prompt is generated → copy and paste into any AI tool of your choice.
 
 The tool is designed to be used with any AI platform — Claude, ChatGPT, Gemini, or others — as a transparent scaffold that instructs the AI to respond using TIF epistemic tiering, active inference framing, and explicit identification of its own limits.
 
-\[EMBED: vim\_tkgpt\_prompt\_generator.html]
-
-_To use: the tool is a standalone HTML file that runs in any browser. Host on GitHub Pages or share directly._
+_To use: the tool is a standalone HTML file that runs in any browser._&#x20;
 
 #### What the four layers are
 
@@ -249,10 +247,10 @@ A trustworthy AI literacy tool would reduce its own centrality over time. Every 
 
 ### Related pages
 
-* _Modeling Holarchic Transformations_ — the six-state MDP in full
-* _Dashboard Dials v6_ — the four instruments
+* [_Modeling Holarchic Transformations_](../vim-bridging-spiral/studio-arts-context-for-mpcm/modeling-holarchic-transformations.md) — the six-state MDP in full
+* [_Dashboard Dials v6_ ](../vim-bridging-spiral/dashboard-dials-v6.md)— the four instruments
 * [_Fields, Geometry, and the Kindness Substrate_](../vim-theoretical-foundations/fields-geometry-and-the-kindness-substrate.md) — theoretical grounding for σ and the coherence field
-* _Living Systems in Motion_ — simulations of field dynamics
+* [_Living Systems in Motion_](../vim-bridging-spiral/studio-arts-context-for-mpcm/living-systems-in-motion.md) — simulations of field dynamics
 
 ***
 
