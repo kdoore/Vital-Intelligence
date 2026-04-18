@@ -4,6 +4,7 @@
 
 * [Framework State of the Commons](README.md)
 * [Values, Orientation, and Working Principles](vim-ai-literacy-framework/values-orientation-and-working-principles.md)
+* [TKGPT as AI Literacy Prototype](vim-ai-literacy-framework/tkgpt-as-ai-literacy-prototype.md)
 
 ## VIM Bridging Spiral
 
