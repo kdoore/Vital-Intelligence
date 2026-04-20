@@ -1,5 +1,6 @@
 ---
 description: 'Studio Review: Human Deep Architecture as Interactive Simulation Series'
+hidden: true
 ---
 
 # Process & Authorship Bridging Spiral
@@ -166,7 +167,7 @@ The white paper was itself produced through AI collaboration — drafted through
 
 Two Word documents produced earlier in the phase represent the framework's written architecture before it was expressed in simulation form:
 
-[**Dashboard Dials SR2 Framework**](../dashboard-dials-v5.md) — the foundational conceptual document: the four instruments, three meta-parameters, MPCM architecture, and the original theoretical grounding. The document from which all subsequent simulations were generated.
+[**Dashboard Dials SR2 Framework**](/broken/pages/uZhsRaxOPT8lXzcwyRVM) — the foundational conceptual document: the four instruments, three meta-parameters, MPCM architecture, and the original theoretical grounding. The document from which all subsequent simulations were generated.
 
 [**Deep Architecture Addendum**](../deep-learning-and-human-meaning.md) — the extension of the framework into explicit neural network parallel: each instrument mapped to a structural element in deep learning architecture, with the suppression demonstration as the central pedagogical move.
 
