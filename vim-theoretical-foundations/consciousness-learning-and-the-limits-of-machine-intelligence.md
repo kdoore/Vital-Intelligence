@@ -44,6 +44,8 @@ _\[Tier 2 — this mapping between IIT's intrinsicality axiom and VIM's definiti
 
 This framing makes explicit what AI-mediated learning cannot substitute: the integration work. TKGPT is designed to scaffold the learner's own integration — not to perform it on their behalf. This is why the MPCM boundary (Meaning–Process–Context–Material) is structural and not incidental: AI operates fluently in the Material and Process dimensions; Context requires the learner's situated history; Meaning cannot be imported from outside the living agent at all.
 
+### Epiplexity and the Structural Limits of Machine Learning
+
 ***
 
 The IIT framework establishes a formal distinction between consciousness and intelligence. A 2026 paper in information theory provides a complementary account — from an entirely independent direction — of what AI systems are actually doing when they process information, and why that is structurally different from what learners do when they genuinely learn.
