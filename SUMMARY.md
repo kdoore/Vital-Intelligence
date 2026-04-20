@@ -6,6 +6,15 @@
 * [Values, Orientation, and Working Principles](vim-ai-literacy-framework/values-orientation-and-working-principles.md)
 * [TKGPT as AI Literacy Prototype](vim-ai-literacy-framework/tkgpt-as-ai-literacy-prototype.md)
 
+## VIM Theoretical Foundations
+
+* [Consciousness, Learning, and the Limits of Machine Intelligence](vim-theoretical-foundations/consciousness-learning-and-the-limits-of-machine-intelligence.md)
+* [Fields, Geometry, and the Kindness Substrate](vim-theoretical-foundations/fields-geometry-and-the-kindness-substrate.md)
+* [The Scaling of the Self: Cognitive Light Cones, Field Membership, and the Architecture of Learning](vim-theoretical-foundations/the-scaling-of-the-self-cognitive-light-cones-field-membership-and-the-architecture-of-learning.md)
+* [Human Cognitive Sovereignty in AI-Mediated Environments](vim-theoretical-foundations/human-cognitive-sovereignty-in-ai-mediated-environments.md)
+* [The Measurement Problem: From Research Instrument to Learning Tool](vim-theoretical-foundations/the-measurement-problem-from-research-instrument-to-learning-tool.md)
+* [Wellbeing, Dignity, and the Culturally Situated Measurement Problem](vim-theoretical-foundations/wellbeing-dignity-and-the-culturally-situated-measurement-problem.md)
+
 ## VIM Bridging Spiral
 
 * [Navigating the Information Cascade](<README (2).md>)
@@ -52,14 +61,6 @@
 
 * [Situating the Framework — The Larger Transformation](situating-the-framework-the-larger-transformation.md)
 * [TAI-KPI: Transformative Bridging](tai-kpi-transformative-bridging.md)
-
-## VIM Theoretical Foundations
-
-* [Consciousness, Learning, and the Limits of Machine Intelligence](vim-theoretical-foundations/consciousness-learning-and-the-limits-of-machine-intelligence.md)
-* [Fields, Geometry, and the Kindness Substrate](vim-theoretical-foundations/fields-geometry-and-the-kindness-substrate.md)
-* [Human Cognitive Sovereignty in AI-Mediated Environments](vim-theoretical-foundations/human-cognitive-sovereignty-in-ai-mediated-environments.md)
-* [The Measurement Problem: From Research Instrument to Learning Tool](vim-theoretical-foundations/the-measurement-problem-from-research-instrument-to-learning-tool.md)
-* [Wellbeing, Dignity, and the Culturally Situated Measurement Problem](vim-theoretical-foundations/wellbeing-dignity-and-the-culturally-situated-measurement-problem.md)
 
 ## VIM- Introduction
 
