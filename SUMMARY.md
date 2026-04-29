@@ -10,6 +10,7 @@
 
 * [Consciousness, Learning, and the Limits of Machine Intelligence](vim-theoretical-foundations/consciousness-learning-and-the-limits-of-machine-intelligence.md)
 * [Fields, Geometry, and the Kindness Substrate](vim-theoretical-foundations/fields-geometry-and-the-kindness-substrate.md)
+* [Why Feelings Matter for Intelligence](vim-theoretical-foundations/why-feelings-matter-for-intelligence.md)
 * [The Scaling of the Self: Cognitive Light Cones, Field Membership, and the Architecture of Learning](vim-theoretical-foundations/the-scaling-of-the-self-cognitive-light-cones-field-membership-and-the-architecture-of-learning.md)
 * [Human Cognitive Sovereignty in AI-Mediated Environments](vim-theoretical-foundations/human-cognitive-sovereignty-in-ai-mediated-environments.md)
 * [The Measurement Problem: From Research Instrument to Learning Tool](vim-theoretical-foundations/the-measurement-problem-from-research-instrument-to-learning-tool.md)
