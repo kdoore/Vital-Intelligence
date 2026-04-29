@@ -43,7 +43,7 @@ Specifically:
 * **Discomfort** is a signal that the current model is insufficient — that the situation requires belief revision, not just behavioral adjustment
 * **Kindness** is a signal that the system is investing in its own long-term coherence — extending the Markov blanket to include others, building the relational substrate that makes collective intelligence possible
 
-A machine has no Markov blanket to protect. It has no cost that accumulates. It cannot feel when its own optimization is destroying the substrate it depends on. This is not a limitation to be corrected in the next model release. It is a categorical distinction between living systems and computational ones. _(Tier 1 — see Friston active inference framework; Levin bioelectric cognition research)_
+A machine has no Markov blanket to protect. It has no cost that accumulates. It cannot feel when its own optimization is destroying the substrate it depends on. This is not a limitation to be corrected in the next model release. _<mark style="color:purple;">**It is a categorical distinction between living systems and computational ones.**</mark> (Tier 1 — see Friston active inference framework; Levin bioelectric cognition research)_
 
 The human who suppresses feeling in order to perform machine-like precision does not become more intelligent. They become **less able to detect harm** — in themselves, in others, in the systems they operate. They trade their most sophisticated sensing apparatus for legibility within a ranking system.
 
