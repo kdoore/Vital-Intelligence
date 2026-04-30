@@ -13,6 +13,7 @@
 * [Why Feelings Matter for Intelligence](vim-theoretical-foundations/why-feelings-matter-for-intelligence.md)
 * [The Scaling of the Self: Cognitive Light Cones, Field Membership, and the Architecture of Learning](vim-theoretical-foundations/the-scaling-of-the-self-cognitive-light-cones-field-membership-and-the-architecture-of-learning.md)
 * [Human Cognitive Sovereignty in AI-Mediated Environments](vim-theoretical-foundations/human-cognitive-sovereignty-in-ai-mediated-environments.md)
+* [Biological Grounding: Cognition-Based Evolution and the Cellular Basis of Aligned Intelligence](vim-theoretical-foundations/biological-grounding-cognition-based-evolution-and-the-cellular-basis-of-aligned-intelligence.md)
 * [The Measurement Problem: From Research Instrument to Learning Tool](vim-theoretical-foundations/the-measurement-problem-from-research-instrument-to-learning-tool.md)
 * [Wellbeing, Dignity, and the Culturally Situated Measurement Problem](vim-theoretical-foundations/wellbeing-dignity-and-the-culturally-situated-measurement-problem.md)
 
