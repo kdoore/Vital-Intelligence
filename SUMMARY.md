@@ -207,6 +207,7 @@
 ## Resources and Articles
 
 * [Transformative Movements](resources-and-articles/transformative-movements.md)
+* [PocketOS and the Saturday Morning Discipline](resources-and-articles/pocketos-and-the-saturday-morning-discipline.md)
 
 ***
 
