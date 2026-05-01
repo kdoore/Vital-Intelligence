@@ -16,6 +16,7 @@
 * [Biological Grounding: Cognition-Based Evolution and the Cellular Basis of Aligned Intelligence](vim-theoretical-foundations/biological-grounding-cognition-based-evolution-and-the-cellular-basis-of-aligned-intelligence.md)
 * [The Measurement Problem: From Research Instrument to Learning Tool](vim-theoretical-foundations/the-measurement-problem-from-research-instrument-to-learning-tool.md)
 * [Wellbeing, Dignity, and the Culturally Situated Measurement Problem](vim-theoretical-foundations/wellbeing-dignity-and-the-culturally-situated-measurement-problem.md)
+* [Amplification, Silencing, and the Institutional Phase Change Question](vim-theoretical-foundations/amplification-silencing-and-the-institutional-phase-change-question.md)
 
 ## VIM Bridging Spiral
 
